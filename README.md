@@ -4,7 +4,7 @@
 - Staats- und Universitätsbibliothek (SuUB) Bremen ([urn:nbn:de:gbv:46:1-162417](https://nbn-resolving.org/urn:nbn:de:gbv:46:1-162417))
 
 ## Textoberfläche
-- orthografische Fehler
+- orthografische Fehler, inkl. Namen (*Hammet* statt *Hammett*, *Hemmingway* statt *Hemingway*)
 - grammatische Fehler
 - Anführungszeichen (wechseln zwischen »« und „“)
 - Absätze: einfache Zeilenumbrüche vs. Zeilenumbruch plus Leerzeile
