@@ -6,6 +6,7 @@
       <titleStmt>
         <title type="main">Carmen Nova</title>
         <title type="sub">Kriminalnovelle</title>
+        <!-- probably misattributed -->
         <author>
           <persName>
             <forename>Umberto</forename>
@@ -14,12 +15,12 @@
         </author>
         <respStmt>
           <resp>Encoded by</resp>
-          <name type="org">Temporal Communities</name>
+          <name type="org">RA5 of EXC2020 »Temporal Communities«</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>Temporal Communities</publisher>
-        <idno type="URL">https://www.temporal-communities.de/</idno>
+        <publisher>RA5 of EXC2020 »Temporal Communities«</publisher>
+        <idno type="URL">https://www.temporal-communities.de/research/digital-communities/</idno>
         <availability>
           <!-- fake publisher -->
           <p>© Doppelnull Edition, Zürich</p>
@@ -27,7 +28,7 @@
       </publicationStmt>
       <sourceDesc>
         <biblStruct>
-          <!-- fake publication -->
+          <!-- literary forgery -->
           <monogr>
             <author>
               <persName>
@@ -54,7 +55,7 @@
           <idno type="URL">https://nbn-resolving.org/urn:nbn:de:gbv:46:1-162417</idno>
           <availability>
             <licence>
-              <p>Nutzungsrechte eingeschränkt.</p>
+              <p>Nutzungsrechte eingeschränkt</p>
             </licence>
           </availability>
         </bibl>
@@ -64,6 +65,11 @@
       <langUsage>
         <language ident="de">German</language>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term>literary forgery</term>
+        </keywords>
+      </textClass>
       <textDesc n="novella">
         <channel mode="w"/>
         <constitution type="composite"/>
@@ -127,44 +133,46 @@
         </list>
       </div>
       <pb n="4"/>
-      <epigraph>
-        <cit>
-          <quote>
-            <lg>
-              <l>Ja, die Liebe hat bunte Flügel,</l>
-              <l>solch ein Vogel zähmt man schwer;</l>
-              <l>haltet fest sie mit Band und Zügel,</l>
-              <l>wenn sie nicht will, kommt sie nicht her.</l>
-              <l>Ob ihr bittet, ob ihr befehlet</l>
-              <l>und ob ihr sprecht und ob ihr schweigt,</l>
-              <l>nach Laune sie den erwählet</l>
-              <l>und heftig liebt der stumm sich zeigt.</l>
-            </lg>
-            <lg>
-              <l>Die Liebe von Zigeunern stammet,</l>
-              <l>fragt nach Rechten nicht, Gesetz und Macht;</l>
-              <l>liebst du mich nicht, bin ich entflammet,</l>
-              <l>und wenn ich lieb, nimm dich in acht!</l>
-            </lg>
-            <lg>
-              <l>Glaubst den Vogel du schon gefangen,</l>
-              <l>ein Flügelschlag, ein Augenblick,</l>
-              <l>er ist fort und du harrst mit Bangen,</l>
-              <l>eh du's versiehst ist er zurück.</l>
-              <l>Weit im Kreise siehst du ihn ziehen,</l>
-              <l>bald ist er fern, bald ist er nah.</l>
-              <l>Halt ihn fest und er wird entfliehen,</l>
-              <l>weichst du ihm aus, flugs ist er da!</l>
-            </lg></quote>
-          <bibl>(<title level="a" ref="http://www.wikidata.org/entity/Q692648">Habanera</title> aus
-              <author ref="http://www.wikidata.org/entity/Q56158">Bizets</author>
-            <title level="m" ref="http://www.wikidata.org/entity/Q185968">Carmen</title>, <title
-              level="a" ref="http://www.wikidata.org/entity/Q692648">L'amour est un oiseau
-              rebelle</title>)</bibl>
-        </cit>
-      </epigraph>
+      <div type="epigraph">
+        <epigraph>
+          <cit>
+            <quote>
+              <lg>
+                <l>Ja, die Liebe hat bunte Flügel,</l>
+                <l>solch ein Vogel zähmt man schwer;</l>
+                <l>haltet fest sie mit Band und Zügel,</l>
+                <l>wenn sie nicht will, kommt sie nicht her.</l>
+                <l>Ob ihr bittet, ob ihr befehlet</l>
+                <l>und ob ihr sprecht und ob ihr schweigt,</l>
+                <l>nach Laune sie den erwählet</l>
+                <l>und heftig liebt der stumm sich zeigt.</l>
+              </lg>
+              <lg>
+                <l>Die Liebe von Zigeunern stammet,</l>
+                <l>fragt nach Rechten nicht, Gesetz und Macht;</l>
+                <l>liebst du mich nicht, bin ich entflammet,</l>
+                <l>und wenn ich lieb, nimm dich in acht!</l>
+              </lg>
+              <lg>
+                <l>Glaubst den Vogel du schon gefangen,</l>
+                <l>ein Flügelschlag, ein Augenblick,</l>
+                <l>er ist fort und du harrst mit Bangen,</l>
+                <l>eh du's versiehst ist er zurück.</l>
+                <l>Weit im Kreise siehst du ihn ziehen,</l>
+                <l>bald ist er fern, bald ist er nah.</l>
+                <l>Halt ihn fest und er wird entfliehen,</l>
+                <l>weichst du ihm aus, flugs ist er da!</l>
+              </lg></quote>
+            <bibl>(<title level="a" ref="http://www.wikidata.org/entity/Q692648">Habanera</title>
+              aus <author ref="http://www.wikidata.org/entity/Q56158">Bizets</author>
+              <title level="s" ref="http://www.wikidata.org/entity/Q185968">Carmen</title>, <title
+                level="a" ref="http://www.wikidata.org/entity/Q692648">L'amour est un oiseau
+                rebelle</title>)</bibl>
+          </cit>
+        </epigraph>
+      </div>
       <pb n="5"/>
-      <div type="preface">
+      <prologue>
         <head>Mystifikationen des Stils</head>
         <p>Mit Nova werden jene durch Kernverschmelzung und Zusammenbruch des Sterninneren
           ausgelösten chemischen Reaktionen umrissen, die einen Stern in kürzester Zeit Energien in
@@ -213,22 +221,22 @@
           Gewesenen findet die systematisch-logische Position die Grenzen ihres aufklärerischen
           Wirkens und fesselt sich selbst in zynischem Unvermögen, die Ordnung als eine unter vielen
           zu begreifen. Dies ist auch der Schnittpunkt, an dem, in selbstironischer Kategorisierung
-          als Kriminalnovelle proklamiert, <emph>Camen Nova</emph> ansetzt. Eco führt den Strom
-          ironischer Stilisierung fort, läßt ihn explodieren und beleuchtet mit ihrem
+          als Kriminalnovelle proklamiert, <emph><sic>Camen Nova</sic></emph> ansetzt. Eco führt den
+          Strom ironischer Stilisierung fort, läßt ihn explodieren und beleuchtet mit ihrem
           metaphorischen, manchmal bewußt überzogenen Schein die Lächerlichkeit moderner
           Endzeitmetaphysik, um die sowohl humanistische Wissenschaft wie neuzeitliche Philosophie
           kriseln (siehe auch das Nachwort von <persName
-            ref="http://www.wikidata.org/entity/Q179109">Roland Barthes</persName>). Der
-          Kriminalroman als Paradigma schuldbeladener Geisteswissenschaften bricht sich hier an dem
-          Eis der Novelle, die sich in ihrer ziellosen Suche beständig persifliert. Auf der Reise
-          nach dem <emph>schwarzen Falken</emph> wiederholt sie sich selbst, womit das Prinzip des
-          von neuem immer Gleichen kriminalistischer Trivialliteratur, von perfekter Banalität
+            ref="http://www.wikidata.org/entity/Q179109"><emph>Roland Barthes</emph></persName>).
+          Der Kriminalroman als Paradigma schuldbeladener Geisteswissenschaften bricht sich hier an
+          dem Eis der Novelle, die sich in ihrer ziellosen Suche beständig persifliert. Auf der
+          Reise nach dem <emph>schwarzen Falken</emph> wiederholt sie sich selbst, womit das Prinzip
+          des von neuem immer Gleichen kriminalistischer Trivialliteratur, von perfekter Banalität
           seinem Ende entgegengeht. Und an diesem Ende des Regenbogen wartet Carmen, verführerisch,
           katzenhaft, nicht männliche Leidenschaft, sondern weibliche Eleganz, um das apokalyptische
           Verbrennen zum nächtlichen geheimnisvollen Anfang zurückzutreiben – doch ohne sie, allein
           der Name, der lockt. Carmen!</p>
         <signed>Stephen Pelagius</signed>
-      </div>
+      </prologue>
     </front>
     <pb n="7"/>
     <body>
@@ -421,18 +429,18 @@
         <p>Verwirrt sammelte ich die Fragmente der Explosion ein und rückte sie in meinem Kopf
           zurecht, besessen von dem Bedürfnis, die geschlossenen einkerkernden Flure und Gänge gegen
           die Offenheit des Straßengeflechtes einzuwechseln. Draußen die Straße (<foreign
-            xml:lang="ita">corenta, mil. slang</foreign>): Ein System von Bewegungen,
-          Verschiebungen, Kraftzuwendungen und -auslassungen, Zeichenrissen und Spaltungen aller
-          Art, Geraden der Beziehung, beflügelt, verschluckt, umgestaltet, Maserungen und
-          Glückskanten, Schrittfieber eo ipso. Reste und Abschleifungen, wo man hinschaute, kein Ort
-          ohne Markierung, verschachtelte Formen und Hutschachteln, Sachlichkeit und gefährliche
-          Sachen (<foreign xml:lang="ita">magnata e gramegna, sl.</foreign>), kriminelle Tatmotive
-          und motivierte téte á téte, die keinen Platz zum Zwischenschieben der Platzkarte
-          bereiteten, den Haken zum Verschnüren dieser Erschütterungen, die sich konvulsisch zu
-          Erdbeben verzogen.<note place="foot">Der vorhergehende Absatz ist überfüllt von Metaphern,
-            Wortspielen und Anspielungen auf italienische Verhältnisse, so daß es im Interesse des
-            deutschen Publikums angebracht war, die häufigen Slangausdrücke und Wendungen großzügig
-            zu übersetzen. (Der Übersetzer)</note></p>
+            xml:lang="it">corenta, mil. slang</foreign>): Ein System von Bewegungen, Verschiebungen,
+          Kraftzuwendungen und -auslassungen, Zeichenrissen und Spaltungen aller Art, Geraden der
+          Beziehung, beflügelt, verschluckt, umgestaltet, Maserungen und Glückskanten, Schrittfieber
+          eo ipso. Reste und Abschleifungen, wo man hinschaute, kein Ort ohne Markierung,
+          verschachtelte Formen und Hutschachteln, Sachlichkeit und gefährliche Sachen (<foreign
+            xml:lang="it">magnata e gramegna, sl.</foreign>), kriminelle Tatmotive und motivierte
+          téte á téte, die keinen Platz zum Zwischenschieben der Platzkarte bereiteten, den Haken
+          zum Verschnüren dieser Erschütterungen, die sich konvulsisch zu Erdbeben verzogen.<note
+            place="foot">Der vorhergehende Absatz ist überfüllt von Metaphern, Wortspielen und
+            Anspielungen auf italienische Verhältnisse, so daß es im Interesse des deutschen
+            Publikums angebracht war, die häufigen Slangausdrücke und Wendungen großzügig zu
+            übersetzen. (Der Übersetzer)</note></p>
         <pb n="14"/>
         <p>Die Menge trug mich in ihren rhythmischen Schlingbewegungen fort, jonglierte in
           schwebenden Verfahren über die natürliche Komplementität von Wichtig und Unwichtig und
@@ -448,24 +456,23 @@
           und Kreispissoires, jedoch nie mit der Beschreibung des Weges zur Erwählten übersetzt
           wurde. Derart tingelte ich wochenlang durch die Stadt, von immer neuen Metamorphosen der
           Göttlichen überrascht, hetzte durch die Katakombem archetypischer Herrlichkeit, seihte den
-          Schaum vom Bier der Kneipen (<foreign xml:lang="ita">piola</foreign>), stritt mit
-            <persName ref="http://www.wikidata.org/entity/Q39837">Averroes</persName> um die
-          doppelbödige Wahrheit des credo ut intelligam, tenterte kaskadenartig sämtliche
-          metaphysische Intermezzi ab, beauftragte <persName
-            ref="http://www.wikidata.org/entity/Q35610">Conan Doyle</persName> mit der Revision des
-          Verfahrens und landete schließlich unweit jenes Ortes, von wo meine verzweifelte Wanderung
-          ihren Ausgang genommen hatte. Vollends spuren- und mutlos entschloß ich mich, über den
-          Strom zu setzen und im Reich des Hades persönlich nachzufragen. Unwirsch erkundigte sich
-          der herbeigeklingelte Türsteher nach meinem Begehr, doch dünkte ihm meine Antwort mehr zu
-          bedeuten, als er erwartet hatte, da er mir, ohne mit der Wimper zu zucken, einen
-          Passierschein ausstellte. Eine Glocke aus Tango-Takten und Stimmenarabesken verschluckte
-          mich jählings und es sollten Leben vergehen, ehe ich meine betäubte Handlungsfreiheit
-          zurückgewonnen und meine Sinne in den Ort und Zeit bis an die Grenze nächtlichen
-          Stillstandes einwölkenden beißenden Rauch eingepaßt hatte, so daß ich endlich einige
-          provisorische Schematisierungen der Unteren Welt in Angriff zu nehmen wagte.
-          Zusammensetzung und Druck der Atmosphäre glichen sich weitgehend den beiden anderen Welten
-          an, bis auf eine geringfügige, scheinbar irrelevante Nuance, die es aber wert ist, näher
-          analysiert zu werden. <pb n="15"/> Neben der üblichen, in Systemen dieser Ordnung
+          Schaum vom Bier der Kneipen (<foreign xml:lang="it">piola</foreign>), stritt mit <persName
+            ref="http://www.wikidata.org/entity/Q39837">Averroes</persName> um die doppelbödige
+          Wahrheit des credo ut intelligam, tenterte kaskadenartig sämtliche metaphysische
+          Intermezzi ab, beauftragte <persName ref="http://www.wikidata.org/entity/Q35610">Conan
+            Doyle</persName> mit der Revision des Verfahrens und landete schließlich unweit jenes
+          Ortes, von wo meine verzweifelte Wanderung ihren Ausgang genommen hatte. Vollends spuren-
+          und mutlos entschloß ich mich, über den Strom zu setzen und im Reich des Hades persönlich
+          nachzufragen. Unwirsch erkundigte sich der herbeigeklingelte Türsteher nach meinem Begehr,
+          doch dünkte ihm meine Antwort mehr zu bedeuten, als er erwartet hatte, da er mir, ohne mit
+          der Wimper zu zucken, einen Passierschein ausstellte. Eine Glocke aus Tango-Takten und
+          Stimmenarabesken verschluckte mich jählings und es sollten Leben vergehen, ehe ich meine
+          betäubte Handlungsfreiheit zurückgewonnen und meine Sinne in den Ort und Zeit bis an die
+          Grenze nächtlichen Stillstandes einwölkenden beißenden Rauch eingepaßt hatte, so daß ich
+          endlich einige provisorische Schematisierungen der Unteren Welt in Angriff zu nehmen
+          wagte. Zusammensetzung und Druck der Atmosphäre glichen sich weitgehend den beiden anderen
+          Welten an, bis auf eine geringfügige, scheinbar irrelevante Nuance, die es aber wert ist,
+          näher analysiert zu werden. <pb n="15"/> Neben der üblichen, in Systemen dieser Ordnung
           anzutreffenden Blasiertheit war dem Bild ein Tupfer weniger laissez-faire als gewöhnlich
           beigemischt oder anders prononciert, stachen die Verhältnisse mehr ins Organisierte, fest
           ausgehandelte, waren mit einem ausgeklügelten Plan unterlegt. Notgedrungen konnte es bei
@@ -1066,7 +1073,7 @@
           aber verlangen nur das Unmögliche von uns. Und: Verstehen Sie das als kleine Warnung:
           Hände weg von Carmen.« Sprach's und hatte die Tür bereits halb zugeklappt, als er seinen
           Kopf noch einmal durch die schmale Öffnung steckte und uns unter vorgehaltener Hand
-          zuraunte, daß die Polizei (<foreign xml:lang="ita">gli altri</foreign>) anrücke. Dann
+          zuraunte, daß die Polizei (<foreign xml:lang="it">gli altri</foreign>) anrücke. Dann
           duckte er sich blitzschnell und entfleuchte zwischen den Schubladen. Obwohl ich ihm
           sogleich nachsetzte, war das einzige Resultat eine mir von der nachschlagenden Tür
           beigebrachte Schwellung am Kopfe.</p>
@@ -1089,7 +1096,7 @@
           Spur zusammensponnen. Da uns aber zur Zeit weder der Aufenthaltsort der beiden noch die
           Substanz <pb n="36"/> oder der Gehalt Carmens geläufig waren, hatten wir uns vorerst mit
           den verbliebenen Bezügen zu beschäftigen.</p>
-        <p>Während mein Kompagnon (<foreign xml:lang="ita">sommaa</foreign>) aus dem dargestellten
+        <p>Während mein Kompagnon (<foreign xml:lang="it">sommaa</foreign>) aus dem dargestellten
           Faktenmaterial die Wahrscheinlichkeit eines in naher Zukunft sich einstellenden
           Schnittpunktes Carmens und unserer Handlungsstränge errechnete, verschaltete ich die
           Details zu einem umfassenden Verweisungsnetz, aus dem sich Bedeutungsansätze unserer
@@ -1171,8 +1178,8 @@
           Information, die ich, obgleich insgeheim bereits befürchtet, in dieser bestätigten Form
           als von um so zynischerem Gehalt registrierte.</p>
         <p>Zwischen den das Ende einläutenden Blutblasen, die an seinen Lippen zerplatzten, schob
-          der Sterbende mir unter Mühen einen weiteren Kassiber (<foreign xml:lang="ita">paloma,
-            mil. sl.</foreign>) des Wortlauts »es hat für mich keinen Sinn mehr. Das Buch ist weg,
+          der Sterbende mir unter Mühen einen weiteren Kassiber (<foreign xml:lang="it">paloma, mil.
+            sl.</foreign>) des Wortlauts »es hat für mich keinen Sinn mehr. Das Buch ist weg,
           schreib du es weiter« zu und verschied. Blitzschnell löste auch ich mich von dieser
           Bildfläche ab, was in der allgemeinen Verwirrung und Empörung infolge der <pb n="39"/>
           durch die sich überschlagenden Ereignisse, wie schon erläutert, verunmöglichten Flucht des
