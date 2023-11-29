@@ -1,0 +1,38 @@
+body {
+  margin: 2em auto;
+  max-width: 720px;
+  padding: 2em;
+}
+div, 
+prologue, 
+lg, 
+list, 
+front, 
+back,
+epigraph cit, 
+fileDesc, 
+titleStmt,
+docImprint {
+  display: flex;
+  flex-direction: column;
+}
+p, lg, item, epigraph {
+  margin-bottom: 0.5em;
+}
+head {
+  font-weight: bold;
+  font-size: 2em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+signed, epigraph {
+  align-self: flex-end;
+  text-align: right;
+  max-width: 42ch;
+}
+persName {
+  background-color: yellow;
+}
+quote, emph {
+  font-style: italic;
+}
