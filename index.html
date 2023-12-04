@@ -22,6 +22,10 @@
         /* Insert a <p> with the content of the <pb>'s @n attribute inside it
            Add a line above with CSS */
         "pb": ["<p class=\"break\">$@n</p>"],
+        /* Turn persName tags with @ref attributes into links */
+        "persName": [
+          ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+        ]
       }
     };
     c.addBehaviors(behaviors);

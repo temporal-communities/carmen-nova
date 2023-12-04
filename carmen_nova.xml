@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI SYSTEM "https://tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="de">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
   <teiHeader>
     <fileDesc>
       <titleStmt>
