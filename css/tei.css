@@ -143,7 +143,7 @@ tei-p {
   text-align: justify;
   hyphens: auto;
   -webkit-hyphens: auto;
-  hyphenate-limit-chars: 7 3 4;
+  hyphenate-limit-chars: auto 3 4;
   -webkit-hyphenate-limit-before: 3;
   -webkit-hyphenate-limit-after: 4;
 }
