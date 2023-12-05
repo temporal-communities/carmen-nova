@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI SYSTEM "https://tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="de">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1601,58 +1601,94 @@
       <pb n="55"/>
       <div type="note">
         <head>Anmerkungen des Übersetzers zum Text</head>
-        <p>Can you show me the way to Carmen – nimmt Bezug auf den Alabama-Song aus <persName
-            ref="http://www.wikidata.org/entity/Q38757">Brechts</persName> „Aufstieg und Fall der
-          Stadt Mahagonny“. <persName ref="http://www.wikidata.org/entity/Q39837"
-            >Averroes</persName> – arabischer Philosoph des 12. Jahrhunderts, dessen Werk sich aus
-          Paraphrasierungen der <persName ref="http://www.wikidata.org/entity/Q868"
-            >Aristotelischen</persName> Schriften zusammensetzt und dem das Abendland wesentlich
-            <persName ref="http://www.wikidata.org/entity/Q868">Aristoteles</persName>
-          Wiederentdeckung verdankt. Credo ut intelligam – Glauben und Wissen, spiegelt den sich
-          durch das gesamte Mittelalter ziehenden Widerstreit von göttlicher Offenbarung und
-          menschlicher Vernunft. <persName ref="http://www.wikidata.org/entity/Q35610">Conan
-            Doyle</persName> – Schöpfer von Sherlock Holmes und Dr. Watson. Plakat – siehe dazu auch
-          die Untersuchung Ecos über „Messages – Plakat, Zeitung, Film. Semiotische Analysen
-          medialer Systeme“; außerdem Walter Banjamin: „Ausstellungswesen, Reklame, Grandville“ im
-          Passagenwerk. Bibliothek – Die <persName ref="http://www.wikidata.org/entity/Q909"
-            >Borgesche</persName> von Babel und andere. Sherrinford &amp; Sacker – ältere Namen von
-          Holmes und Watson. Sherrinford, Sacker, Hänsel &amp; Co – Anspielungen auf korrupte
-          wirtschaftliche und politische Praktiken in Italien, in die auch einige Verlage verwickelt
-          waren (sog. Zuckerhausaffäre). <persName ref="http://www.wikidata.org/entity/Q36330"
-            >Bruno</persName> – italienischer Philosoph der Renaissance, der die kopernikanische
-          Lehre in der Philosophie als Relativität von Raum und Zeit vorbereitete (siehe auch
-          Nachwort). Graues Büro – geflügelter italienischer Ausdruck für die Verflechtungen von
-          Staat, Mafia und Wirtschaft. Dupin – <persName ref="http://www.wikidata.org/entity/Q16867"
-            >Edgar Allan Poes</persName> scharfsinniger Detektiv in der Rue Morgue. Hercule Poirot –
-          Held von <persName ref="http://www.wikidata.org/entity/Q35064">Agatha Christie</persName>.
-          Sam Spade, Phillip Marlowe – Privatdetektive von <persName
-            ref="http://www.wikidata.org/entity/Q186335">Hammet</persName> und <persName
-            ref="http://www.wikidata.org/entity/Q180377">Chandler</persName>. H. C. E. – Here comes
-          Everybody; vieldeutige, symbolträchtige Figur in <persName
-            ref="http://www.wikidata.org/entity/Q6882">Joycens</persName> Roman Finnegans Wake.
-          Intelligenzquotient etc. – die lässig, snobistisch vorgetragene Darstellung läßt gewisse
-          Verbingungen des Ich-Erzählers zu den Klienten des Isidro Parodi vermuten. Maskierung,
-          Masken und verwandtes – finden sich später häufig in den Analysen von Mythos und
-          Manipulation wieder, deren Kraft dort aus der auktorialen Leere erklärt und entwickelt
-          wird; zu deren Rätselhaftigkeit auch: <persName
-            ref="http://www.wikidata.org/entity/Q3265717">Lucien Sebag</persName>, Le Mythe: Code et
-          Message. Wendeltreppe, Treppenwirbel, Strudel – verweist auf „39 Stufen“ oder „Vertigo“
-          von <persName ref="http://www.wikidata.org/entity/Q7374">Hitchcock</persName>; die Lüftung
-          der Maske dient als Voraussetzung neuer Morde/Masken, die reale Darstellung wird zu einem
-          undurchdringlichen Spielelement des Filmes. <pb n="56"/> »Jedes kann von jedem erwartet
-          werden, gemäß der Tauschwirtschaft, die sich auch auf Gesichter bezieht, und die wie in
-          einem <persName ref="http://www.wikidata.org/entity/Q7374">Alfred Hitchcock</persName>
-          Film, nicht einmal die Richtung kennt, woher der Stoß kommt.« (<persName
-            ref="http://www.wikidata.org/entity/Q57240">Ernst Bloch</persName>). Tor- und Türhüter –
-          »‘Alle streben doch nach dem Gesetz’, sagt der Mann, ‘wieso kommt es, daß in den vielen
-          Jahren niemand außer mir Einlaß verlangt hat?’ Der Torhüter erkennt, daß der Mann schon an
-          seinem Ende ist, und, um sein vergehendes Gehör noch zu erreichen, brüllt er ihn an: ‘Hier
-          konnte niemand sonst Einlaß erhalten, denn dieser Eingang war nur für dich bestimmt. Ich
-          gehe jetzt und schließe ihn’« (aus <persName ref="http://www.wikidata.org/entity/Q905"
-            >Kafkas</persName> Parabel „Vor dem Gesetz“) Moriarty – Gegenspieler Sherlock Holmes.
-          Steinbock, Wassermann... – bezieht sich auf die Erzählung „Die 12 Tierkreiszeichen“ von
-          „Bustos Domecq“. Bababada... – leitet Finnegans Wake ein. Shem – Repräsentant alles
-          Unsteten, des Baumes gegenüber Shaum, Vertreter von Ordnung und Stein.</p>
+        <p><term xml:id="way-to-carmen" rend="italic">Can you show me the way to Carmen</term> –
+            <gloss target="#way-to-carmen">nimmt Bezug auf den Alabama-Song aus <persName
+              ref="http://www.wikidata.org/entity/Q38757">Brechts</persName> „Aufstieg und Fall der
+            Stadt Mahagonny“.</gloss>
+          <term xml:id="averroes" rend="italic"><persName
+              ref="http://www.wikidata.org/entity/Q39837">Averroes</persName></term> – <gloss
+            target="#averroes">arabischer Philosoph des 12. Jahrhunderts, dessen Werk sich aus
+            Paraphrasierungen der <persName ref="http://www.wikidata.org/entity/Q868"
+              >Aristotelischen</persName> Schriften zusammensetzt und dem das Abendland wesentlich
+              <persName ref="http://www.wikidata.org/entity/Q868">Aristoteles</persName>
+            Wiederentdeckung verdankt.</gloss>
+          <term xml:id="credo-ut-intelligam" rend="italic">Credo ut intelligam</term> – <gloss
+            target="#credo-ut-intelligam">Glauben und Wissen, spiegelt den sich durch das gesamte
+            Mittelalter ziehenden Widerstreit von göttlicher Offenbarung und menschlicher
+            Vernunft.</gloss>
+          <term xml:id="conan-doyle" rend="italic"><persName
+              ref="http://www.wikidata.org/entity/Q35610">Conan Doyle</persName></term> – <gloss
+            target="#conan-doyle">Schöpfer von Sherlock Holmes und Dr. Watson. Plakat – siehe dazu
+            auch die Untersuchung Ecos über „Messages – Plakat, Zeitung, Film. Semiotische Analysen
+            medialer Systeme“; außerdem Walter Banjamin: „Ausstellungswesen, Reklame, Grandville“ im
+            Passagenwerk.</gloss>
+          <term xml:id="bibliothek" rend="italic">Bibliothek</term> – <gloss target="#bibliothek"
+            >Die <persName ref="http://www.wikidata.org/entity/Q909">Borgesche</persName> von Babel
+            und andere.</gloss>
+          <term xml:id="sherrinford-sacker" rend="italic">Sherrinford &amp; Sacker</term> – <gloss
+            target="#sherrinford-sacker">ältere Namen von Holmes und Watson.</gloss>
+          <term xml:id="sherrinford-sacker-haensel-co" rend="italic">Sherrinford, Sacker, Hänsel
+            &amp; Co</term> – <gloss target="#sherrinford-sacker-haensel-co">Anspielungen auf
+            korrupte wirtschaftliche und politische Praktiken in Italien, in die auch einige Verlage
+            verwickelt waren (sog. Zuckerhausaffäre).</gloss>
+          <term xml:id="bruno" rend="italic"><persName ref="http://www.wikidata.org/entity/Q36330"
+              >Bruno</persName></term> – <gloss target="#bruno">italienischer Philosoph der
+            Renaissance, der die kopernikanische Lehre in der Philosophie als Relativität von Raum
+            und Zeit vorbereitete (siehe auch Nachwort).</gloss>
+          <term xml:id="graues-buero" rend="italic">Graues Büro</term> – <gloss
+            target="#graues-buero">geflügelter italienischer Ausdruck für die Verflechtungen von
+            Staat, Mafia und Wirtschaft.</gloss>
+          <term xml:id="dupin" rend="italic">Dupin</term> – <gloss target="#dupin"><persName
+              ref="http://www.wikidata.org/entity/Q16867">Edgar Allan Poes</persName> scharfsinniger
+            Detektiv in der Rue Morgue.</gloss>
+          <term xml:id="hercule-poirot" rend="italic">Hercule Poirot</term> – <gloss
+            target="#hercule-poirot">Held von <persName ref="http://www.wikidata.org/entity/Q35064"
+              >Agatha Christie</persName>.</gloss>
+          <term xml:id="sam-spade-phillip-marlowe" rend="italic">Sam Spade, Phillip Marlowe</term> –
+            <gloss target="#sam-spade-phillip-marlowe">Privatdetektive von <persName
+              ref="http://www.wikidata.org/entity/Q186335">Hammet</persName> und <persName
+              ref="http://www.wikidata.org/entity/Q180377">Chandler</persName>.</gloss>
+          <term xml:id="h-c-e" rend="italic">H. C. E.</term> – <gloss target="#h-c-e">Here comes
+            Everybody; vieldeutige, symbolträchtige Figur in <persName
+              ref="http://www.wikidata.org/entity/Q6882">Joycens</persName> Roman Finnegans
+            Wake.</gloss>
+          <term xml:id="intelligenzquotient-etc" rend="italic">Intelligenzquotient etc.</term> –
+            <gloss target="#intelligenzquotient-etc">die lässig, snobistisch vorgetragene
+            Darstellung läßt gewisse Verbingungen des Ich-Erzählers zu den Klienten des Isidro
+            Parodi vermuten.</gloss>
+          <term xml:id="maskierung-masken-und-verwandtes" rend="italic">Maskierung, Masken und
+            verwandtes</term> – <gloss target="#maskierung-masken-und-verwandtes">finden sich später
+            häufig in den Analysen von Mythos und Manipulation wieder, deren Kraft dort aus der
+            auktorialen Leere erklärt und entwickelt wird; zu deren Rätselhaftigkeit auch: <persName
+              ref="http://www.wikidata.org/entity/Q3265717">Lucien Sebag</persName>, Le Mythe: Code
+            et Message.</gloss>
+          <term xml:id="wendeltreppe-treppenwirbel-strudel" rend="italic">Wendeltreppe,
+            Treppenwirbel, Strudel</term> – <gloss target="#wendeltreppe-treppenwirbel-strudel"
+            >verweist auf „39 Stufen“ oder „Vertigo“ von <persName
+              ref="http://www.wikidata.org/entity/Q7374">Hitchcock</persName>; die Lüftung der Maske
+            dient als Voraussetzung neuer Morde/Masken, die reale Darstellung wird zu einem
+            undurchdringlichen Spielelement des Filmes. <pb n="56"/> »Jedes kann von jedem erwartet
+            werden, gemäß der Tauschwirtschaft, die sich auch auf Gesichter bezieht, und die wie in
+            einem <persName ref="http://www.wikidata.org/entity/Q7374">Alfred Hitchcock</persName>
+            Film, nicht einmal die Richtung kennt, woher der Stoß kommt.« (<persName
+              ref="http://www.wikidata.org/entity/Q57240">Ernst Bloch</persName>).</gloss>
+          <term xml:id="tor-und-torhueter" rend="italic">Tor- und Türhüter</term> – <gloss
+            target="#tor-und-torhueter">»‘Alle streben doch nach dem Gesetz’, sagt der Mann, ‘wieso
+            kommt es, daß in den vielen Jahren niemand außer mir Einlaß verlangt hat?’ Der Torhüter
+            erkennt, daß der Mann schon an seinem Ende ist, und, um sein vergehendes Gehör noch zu
+            erreichen, brüllt er ihn an: ‘Hier konnte niemand sonst Einlaß erhalten, denn dieser
+            Eingang war nur für dich bestimmt. Ich gehe jetzt und schließe ihn’« (aus <persName
+              ref="http://www.wikidata.org/entity/Q905">Kafkas</persName> Parabel „Vor dem
+            Gesetz“)</gloss>
+          <term xml:id="moriarty" rend="italic">Moriarty</term> – <gloss target="#moriarty"
+            >Gegenspieler Sherlock Holmes.</gloss>
+          <term xml:id="steinbock-wassermann" rend="italic">Steinbock, Wassermann...</term> – <gloss
+            target="#steinbock-wassermann">bezieht sich auf die Erzählung „Die 12 Tierkreiszeichen“
+            von „Bustos Domecq“.</gloss>
+          <term xml:id="bababada" rend="italic">Bababada...</term> – <gloss target="#bababada"
+            >leitet Finnegans Wake ein.</gloss>
+          <term xml:id="shem" rend="italic">Shem</term> – <gloss target="#shem">Repräsentant alles
+            Unsteten, des Baumes gegenüber Shaum, Vertreter von Ordnung und Stein.</gloss></p>
       </div>
       <pb n="57"/>
       <div type="epilogue">
