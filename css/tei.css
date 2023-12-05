@@ -3,20 +3,22 @@ body {
   max-width: 530px;
   padding: 2em;
 }
-tei-front, 
+tei-front,
 tei-back,
 tei-prologue,
-tei-epigraph, 
-tei-cit, 
-tei-div, 
+tei-epigraph,
+tei-cit,
+tei-div,
 tei-list {
   display: flex;
   flex-direction: column;
 }
-tei-epigraph, tei-cit {
+tei-epigraph,
+tei-cit {
   margin-bottom: 0.5em;
 }
-tei-signed, tei-cit {
+tei-signed,
+tei-cit {
   align-self: flex-end;
   text-align: right;
   max-width: 42ch;
@@ -24,7 +26,8 @@ tei-signed, tei-cit {
 tei-persname {
   background-color: yellow;
 }
-tei-quote, tei-emph {
+tei-quote,
+tei-emph {
   font-style: italic;
 }
 p.break {
@@ -40,7 +43,7 @@ p.break {
   text-align: right;
 }
 p.break::after {
-  content: '';
+  content: "";
   position: absolute;
   border-right: thin solid silver;
   height: 100%;
@@ -48,7 +51,7 @@ p.break::after {
   top: 0;
 }
 p.break::before {
-  content: '';
+  content: "";
   position: absolute;
   border-bottom: thin solid silver;
   border-right: thin solid silver;
@@ -67,22 +70,23 @@ tei-byline {
 tei-closer {
   display: block;
 }
-tei-closer>tei-salute {
+tei-closer > tei-salute {
   display: block;
 }
-tei-closer>tei-signed {
+tei-closer > tei-signed {
   display: block;
   text-align: right;
 }
-tei-div[type=dedication]>tei-lg {
+tei-div[type="dedication"] > tei-lg {
   margin: auto;
   text-align: center;
 }
-tei-docauthor, tei-head {
+tei-docauthor,
+tei-head {
   display: block;
   text-align: center;
 }
-tei-docauthor>tei-name {
+tei-docauthor > tei-name {
   display: block;
   font-size: 2em;
 }
@@ -91,17 +95,17 @@ tei-docimprint {
   margin-top: 10em;
   text-align: center;
 }
-tei-doctitle>tei-titlepart {
+tei-doctitle > tei-titlepart {
   display: block;
   text-align: center;
 }
-tei-doctitle>tei-titlepart[type=main] {
+tei-doctitle > tei-titlepart[type="main"] {
   font-size: 3em;
 }
-tei-doctitle>tei-titlepart[type=subtitle] {
+tei-doctitle > tei-titlepart[type="subtitle"] {
   font-size: 2em;
 }
-tei-emph[rend=bold] {
+tei-emph[rend="bold"] {
   font-weight: bold;
 }
 tei-figure {
@@ -110,12 +114,12 @@ tei-figure {
   margin-bottom: 1em;
   text-align: center;
 }
-tei-figure>tei-p {
+tei-figure > tei-p {
   font-size: 80%;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
-tei-hi[rend=italics] {
+tei-hi[rend="italics"] {
   font-style: italic;
 }
 tei-l {
@@ -125,19 +129,19 @@ tei-lg {
   display: block;
   margin-left: 5em;
 }
-tei-list[type=simple] {
+tei-list[type="simple"] {
   list-style-type: none;
 }
-tei-list[type=simple]>tei-item {
+tei-list[type="simple"] > tei-item {
   display: list-item;
 }
 tei-p {
   display: block;
-  margin-top: .5em;
-  margin-bottom: .5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 tei-tei {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 tei-titlepage {
   display: block;
