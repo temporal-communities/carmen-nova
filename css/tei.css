@@ -27,7 +27,8 @@ tei-persname {
   background-color: yellow;
 }
 tei-quote,
-tei-emph {
+tei-emph,
+[rend="italic"] {
   font-style: italic;
 }
 p.break {
