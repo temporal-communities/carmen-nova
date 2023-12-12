@@ -125,12 +125,12 @@
       <div type="contents">
         <head>Inhalt</head>
         <list>
-          <item>Mystifikationen des Stils (Stephen Pegalius) <ptr target="#5"/></item>
-          <item>Carmen Nova (Umberto Eco) <ptr target="#7"/></item>
-          <item>Editorische Notiz <ptr target="#52"/></item>
-          <item>Anmerkungen des Übersetzers <ptr target="#55"/></item>
-          <item>Nachwort von Roland Barthes <ptr target="#57"/></item>
-          <item>Auszüge aus einem Interview mit Umberto Eco <ptr target="#61"/></item>
+          <item>Mystifikationen des Stils (Stephen Pegalius) <ref target="#p5">5</ref></item>
+          <item>Carmen Nova (Umberto Eco) <ref target="#p7">7</ref></item>
+          <item>Editorische Notiz <ref target="#p52">52</ref></item>
+          <item>Anmerkungen des Übersetzers <ref target="#p55">55</ref></item>
+          <item>Nachwort von Roland Barthes <ref target="#p57">57</ref></item>
+          <item>Auszüge aus einem Interview mit Umberto Eco <ref target="#p61">61</ref></item>
         </list>
       </div>
       <pb n="4"/>
