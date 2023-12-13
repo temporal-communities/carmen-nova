@@ -60,6 +60,7 @@ p.break::before {
   height: 100%;
   top: -6em;
   left: 0;
+  z-index: -1;
 }
 tei-titlepage {
   padding-block: 10em;
