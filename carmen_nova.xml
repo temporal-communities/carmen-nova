@@ -125,12 +125,12 @@
       <div type="contents">
         <head>Inhalt</head>
         <list>
-          <item>Mystifikationen des Stils (Stephen Pegalius) <ptr target="#5"/></item>
-          <item>Carmen Nova (Umberto Eco) <ptr target="#7"/></item>
-          <item>Editorische Notiz <ptr target="#52"/></item>
-          <item>Anmerkungen des Übersetzers <ptr target="#55"/></item>
-          <item>Nachwort von Roland Barthes <ptr target="#57"/></item>
-          <item>Auszüge aus einem Interview mit Umberto Eco <ptr target="#61"/></item>
+          <item>Mystifikationen des Stils (Stephen Pegalius) <ref target="#p5">5</ref></item>
+          <item>Carmen Nova (Umberto Eco) <ref target="#p7">7</ref></item>
+          <item>Editorische Notiz <ref target="#p52">52</ref></item>
+          <item>Anmerkungen des Übersetzers <ref target="#p55">55</ref></item>
+          <item>Nachwort von Roland Barthes <ref target="#p57">57</ref></item>
+          <item>Auszüge aus einem Interview mit Umberto Eco <ref target="#p61">61</ref></item>
         </list>
       </div>
       <pb n="4"/>
@@ -172,7 +172,7 @@
           </cit>
         </epigraph>
       </div>
-      <pb n="5"/>
+      <pb n="5" xml:id="p5"/>
       <prologue>
         <head>Mystifikationen des Stils</head>
         <p>Mit Nova werden jene durch Kernverschmelzung und Zusammenbruch des Sterninneren
@@ -239,7 +239,7 @@
         <signed>Stephen Pelagius</signed>
       </prologue>
     </front>
-    <pb n="7"/>
+    <pb n="7" xml:id="p7"/>
     <body>
       <div type="novella">
         <docAuthor>Umberto Eco</docAuthor>
@@ -1525,7 +1525,7 @@
     <pb n="51"/>
     <back>
       <head>ANHANG</head>
-      <pb n="52"/>
+      <pb n="52" xml:id="p52"/>
       <div type="note">
         <head>Editorische Notiz</head>
         <p>Carmen Nova wurde Mitte der Sechziger Jahre unter einem Pseudonym Umberto Ecos in der
@@ -1599,7 +1599,7 @@
           Interesses rückt, wirkt diese Kriminalnovelle im Tangoschritt der 80er Jahre aktueller
           denn je.</p>
       </div>
-      <pb n="55"/>
+      <pb n="55" xml:id="p55"/>
       <div type="note">
         <head>Anmerkungen des Übersetzers zum Text</head>
         <p><term xml:id="way-to-carmen" rend="italic">Can you show me the way to Carmen</term> –
@@ -1692,7 +1692,7 @@
           <term xml:id="shem" rend="italic">Shem</term> – <gloss target="#shem">Repräsentant alles
             Unsteten, des Baumes gegenüber Shaum, Vertreter von Ordnung und Stein.</gloss></p>
       </div>
-      <pb n="57"/>
+      <pb n="57" xml:id="p57"/>
       <div type="epilogue">
         <epigraph>
           <cit>
@@ -1827,7 +1827,7 @@
           Philosophen, hinzufügen könnte (Aschermittwochsmahl).</p>
         <signed>Roland Barthes</signed>
       </div>
-      <pb n="61"/>
+      <pb n="61" xml:id="p61"/>
       <div type="interview">
         <head>Das Lächeln von Babel</head>
         <p>AUSZÜGE EINES INTERVIEWS DER FRANZÖSISCHEN ZEITUNG „LIBERATION“ MIT UMBERTO ECO ÜBER DEN
