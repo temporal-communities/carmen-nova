@@ -1,0 +1,155 @@
+body {
+  margin: 2em auto;
+  max-width: 530px;
+  padding: 2em;
+}
+tei-front,
+tei-back,
+tei-prologue,
+tei-epigraph,
+tei-cit,
+tei-div,
+tei-list {
+  display: flex;
+  flex-direction: column;
+}
+tei-epigraph,
+tei-cit {
+  margin-bottom: 0.5em;
+}
+tei-signed,
+tei-cit {
+  align-self: flex-end;
+  text-align: right;
+  max-width: 42ch;
+}
+tei-persname {
+  background-color: yellow;
+}
+tei-quote,
+tei-emph,
+[rend="italic"] {
+  font-style: italic;
+}
+p.break {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80%;
+  border-top: thin solid silver;
+  border-right: thin solid silver;
+  padding: 2em;
+  margin-top: 4em;
+  margin-right: -2em;
+  color: gray;
+  text-align: right;
+}
+p.break::after {
+  content: "";
+  position: absolute;
+  border-right: thin solid silver;
+  height: 100%;
+  padding-right: 2em;
+  top: 0;
+}
+p.break::before {
+  content: "";
+  position: absolute;
+  border-bottom: thin solid silver;
+  border-right: thin solid silver;
+  width: 100%;
+  height: 100%;
+  top: -6em;
+  left: 0;
+}
+tei-titlepage {
+  padding-block: 10em;
+}
+tei-byline {
+  display: block;
+  text-align: center;
+}
+tei-closer {
+  display: block;
+}
+tei-closer > tei-salute {
+  display: block;
+}
+tei-closer > tei-signed {
+  display: block;
+  text-align: right;
+}
+tei-div[type="dedication"] > tei-lg {
+  margin: auto;
+  text-align: center;
+}
+tei-docauthor,
+tei-head {
+  display: block;
+  text-align: center;
+}
+tei-docauthor > tei-name {
+  display: block;
+  font-size: 2em;
+}
+tei-docimprint {
+  display: block;
+  margin-top: 10em;
+  text-align: center;
+}
+tei-doctitle > tei-titlepart {
+  display: block;
+  text-align: center;
+}
+tei-doctitle > tei-titlepart[type="main"] {
+  font-size: 3em;
+}
+tei-doctitle > tei-titlepart[type="subtitle"] {
+  font-size: 2em;
+}
+tei-emph[rend="bold"] {
+  font-weight: bold;
+}
+tei-figure {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+tei-figure > tei-p {
+  font-size: 80%;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+tei-hi[rend="italics"] {
+  font-style: italic;
+}
+tei-l {
+  display: block;
+}
+tei-lg {
+  display: block;
+  margin-left: 5em;
+}
+tei-list[type="simple"] {
+  list-style-type: none;
+}
+tei-list[type="simple"] > tei-item {
+  display: list-item;
+}
+tei-p {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphenate-limit-chars: auto 3 4;
+  -webkit-hyphenate-limit-before: 3;
+  -webkit-hyphenate-limit-after: 4;
+}
+tei-tei {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+tei-titlepage {
+  display: block;
+}

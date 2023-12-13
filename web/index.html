@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/tei.css" rel="stylesheet" />
+    <script src="js/CETEI.js"></script>
+    <script>
+      const CETEIcean = new CETEI()
+
+      const behaviors = {
+        tei: {
+          // Convert head tags into h1-h6 tags
+          head: function (element) {
+            let level =
+              document.evaluate(
+                // HACK: This XPath expression is highly dependent on the format of the document.
+                "count(ancestor::tei-div | ancestor::tei-prologue) - count(ancestor::tei-body | ancestor::tei-front)",
+                element,
+                null,
+                XPathResult.NUMBER_TYPE,
+                null,
+              ).numberValue + 1
+
+            // Increase the level if this is a subheading
+            if (element.getAttribute("type") == "sub") {
+              level += 1
+            }
+
+            const result = document.createElement(
+              // Maximum h6
+              "h" + Math.min(level, 6),
+            )
+            for (const node of Array.from(element.childNodes)) {
+              result.appendChild(node.cloneNode())
+            }
+            return result
+          },
+          lb: ["<br>"],
+          // Insert a <p> with the content of the <pb>'s @n attribute inside it
+          pb: ['<p class="break">$@n</p>'],
+          // Turn persName tags with @ref attributes into links
+          persName: [["[ref]", ['<a href="$rw@ref" target="_blank">', "</a>"]]],
+        },
+      }
+
+      CETEIcean.addBehaviors(behaviors)
+      CETEIcean.getHTML5("../carmen_nova.xml").then((data) => {
+        document.body.appendChild(data)
+      })
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <p>Please enable JavaScript in your browser and reload the page.</p>
+    </noscript>
+  </body>
+</html>
