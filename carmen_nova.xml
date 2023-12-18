@@ -261,7 +261,9 @@
               Gefundenes das ist, was gesucht wird, oder nicht. Denn das Ziel ist nur dem klar, der
               zuvor ohne Weg ist.</quote>
             <bibl> (<author ref="http://www.wikidata.org/entity/Q868"
-                ><emph>Aristoteles</emph></author> – <title><emph>Metaphysik</emph></title>) </bibl>
+                ><emph>Aristoteles</emph></author> – <title><emph><rs type="work"
+                    ref="http://www.wikidata.org/entity/Q661655">Metaphysik</rs></emph></title>)
+            </bibl>
           </cit>
         </epigraph>
         <epigraph>
@@ -270,7 +272,8 @@
               die in mich eingehen und micht verlassen, bin ich in jedem Zeit-Moment ein
               anderer.</quote>
             <bibl>(<author ref="http://www.wikidata.org/entity/Q178709"><emph>Vico</emph></author> –
-                  <title><emph>De nostri temporis studiorium ratione</emph></title>)</bibl>
+                    <title><emph><rs type="work" ref="http://www.wikidata.org/entity/Q16938778">De
+                    nostri temporis <sic>studiorium</sic> ratione</rs></emph></title>)</bibl>
           </cit>
         </epigraph>
         <epigraph>
@@ -279,7 +282,8 @@
               hervorgesponnen werden kann, wird sich in befriedigender Form schwer begründen
               lassen.</quote>
             <bibl>(<author ref="http://www.wikidata.org/entity/Q37160"><emph>Hume</emph></author> –
-                  <title><emph>Dialoge</emph></title>)</bibl>
+                    <title><emph><rs type="work" ref="http://www.wikidata.org/entity/Q965564"
+                    >Dialoge</rs></emph></title>)</bibl>
           </cit>
         </epigraph>
         <epigraph>
@@ -287,14 +291,16 @@
             <quote>James Bond, with two double bourbon inside him, sat in the final departure lounge
               of Miami Airport and thought about life and death.</quote>
             <bibl>(<author ref="http://www.wikidata.org/entity/Q82104"><emph>Fleming</emph></author>
-              – <title><emph>Goldfinger</emph></title>)</bibl>
+              – <title><emph><rs type="work" ref="http://www.wikidata.org/entity/Q1777426"
+                    >Goldfinger</rs></emph></title>)</bibl>
           </cit>
         </epigraph>
         <epigraph>
           <cit>
             <quote>Schweigen, Verbannung, List.</quote>
             <bibl>(<author ref="http://www.wikidata.org/entity/Q6882"><emph>Joyce</emph></author> –
-                  <title><emph>Jugendbildnis</emph></title>)</bibl>
+                    <title><emph><rs type="work" ref="http://www.wikidata.org/entity/Q465360"
+                    >Jugendbildnis</rs></emph></title>)</bibl>
           </cit>
         </epigraph>
         <p><quote><emph>Ich bezweifle sehr, daß Fräulein Carmen reinrassig war, jedenfalls war sie
@@ -444,7 +450,7 @@
           Art, Geraden der Beziehung, beflügelt, verschluckt, umgestaltet, Maserungen und
           Glückskanten, Schrittfieber eo ipso. Reste und Abschleifungen, wo man hinschaute, kein Ort
           ohne Markierung, verschachtelte Formen und Hutschachteln, Sachlichkeit und gefährliche
-          Sachen (<emph><foreign xml:lang="it">magnata e gramegna, sl.</foreign>)</emph>, kriminelle
+          Sachen <emph>(<foreign xml:lang="it">magnata e gramegna, sl.</foreign>)</emph>, kriminelle
           Tatmotive und motivierte téte á téte, die keinen Platz zum Zwischenschieben der Platzkarte
           bereiteten, den Haken zum Verschnüren dieser Erschütterungen, die sich konvulsisch zu
           Erdbeben verzogen.<note place="foot">Der vorhergehende Absatz ist überfüllt von Metaphern,
@@ -608,17 +614,17 @@
             n="19"/> Lebewesen fähig sind, deren unaufhaltsamer Beigeschmack dennoch auch Menschen
           von geringerer Feinfühligkeit nicht völlig entgeht, sondern etwa durch partielle
           Mißstimmungen oder Allerweltslangeweilen, die unwillkürlich als wetterumschlags- oder
-          linksbeinig aufgestanden (<foreign xml:lang="it"><emph>alzoch si con la luna storte</emph></foreign>)
-          bedingt rationalisiert werden, die Oberfläche der Routine kräuseln – jenen Unstimmigkeiten
-          also, die Psychotherapeuten, Astrologen und Pharmakaindustrie ins Kraut schießen lassen,
-          wellenschlagende Vibrationen dieser Art waren es, die das Ereignis einläuteten, auf das
-          ich nun zu sprechen komme. Obwohl es weniger ein Ereignis denn mehr ein Prozess
-          beinhaltete, eine Woge, die sich zeitlupenartig aufbäumte und nur durch die verfrühte
-          Kollision mit einem groben Festkörper, Schiff oder Ufer, in ihrem langwierigen Vorhaben
-          des gleichsam organischen Wachsens und Gedeihens unterbrochen werden konnte, kleidete es
-          sich durchweg mit den verlockenden und Einhalt gebietenden Reizen eines Ereignisses, das
-          sich zwar zur Zeit nur ankündigte, gleichwohl in einem festen Rahmen zu situieren war,
-          wenn es einmal eingetreten sein sollte.</p>
+          linksbeinig aufgestanden (<foreign xml:lang="it"><emph>alzoch si con la luna
+            storte</emph></foreign>) bedingt rationalisiert werden, die Oberfläche der Routine
+          kräuseln – jenen Unstimmigkeiten also, die Psychotherapeuten, Astrologen und
+          Pharmakaindustrie ins Kraut schießen lassen, wellenschlagende Vibrationen dieser Art waren
+          es, die das Ereignis einläuteten, auf das ich nun zu sprechen komme. Obwohl es weniger ein
+          Ereignis denn mehr ein Prozess beinhaltete, eine Woge, die sich zeitlupenartig aufbäumte
+          und nur durch die verfrühte Kollision mit einem groben Festkörper, Schiff oder Ufer, in
+          ihrem langwierigen Vorhaben des gleichsam organischen Wachsens und Gedeihens unterbrochen
+          werden konnte, kleidete es sich durchweg mit den verlockenden und Einhalt gebietenden
+          Reizen eines Ereignisses, das sich zwar zur Zeit nur ankündigte, gleichwohl in einem
+          festen Rahmen zu situieren war, wenn es einmal eingetreten sein sollte.</p>
         <p>Solange geduldeten wir uns mit Warten, wir? – nun, das waren die Zeitungen, die in ihren
           täglichen Klatschspalten einen, wenn auch nur winzigen, so doch allseits mit Heißhunger
           verspeisten Sechs- bis Achtzeiler über jene seltsame Angelegenheit veröffentlichte, die in
@@ -641,40 +647,40 @@
           Wahrheit vorweisen.</p>
         <p>So gesehen wußte man eigentlich alles oder auch nichts, je nach dem, abgesehen von den
           wenigen Informationen, die aber grobschlächtig befreit von ihrem ausschmückenden Bodensatz
-          nur soviel vermittelten wie, daß beim Verlagshaus <emph>Sherringford &amp; Sacker</emph> – vermerkt im
-            <foreign xml:lang="en">Who's Who</foreign> unter dem altehrwürdigen Firmenemblem Hänsel
-          &amp; Co, einem Unternehmen, das sich in seiner langen Publikationsarbeit vor allem auf
-          Detektiv- und Kriminalliteratur spezialisiert hatte, inzwischen aber aufgrund der sich
-          verschlechternden Marktlage davon abgekommen und zunehmend Interpretationen und
-          Interpretationen der Interpretationen dieser Literatur den Vorzug gegeben hatte – seit
-          Monaten ein gigantisches Buchprojekt in der Schwebe gehalten wurde. Denn niemand begriff
-          so recht, ob dieses Projekt jemals realisiert werden würde oder schon realisiert worden
-          war, über den Inhalt lagen stets sehr widersprüchliche Meldungen vor, die nur in dem
-          Tatbestand konvergierten, daß in diesem Buch der Bücher unter anderem auch der wahre Namen
-          Carmens enthüllt werden würde, was soviel bedeutet mochte wie die Preisgabe ihres
-          Aufenthaltsortes und ihrer Bestimmung oder aber auch nur die Erhellung ihres tieferen
-          philosophischen Vermächtnisses. Noch wußte wohl kein Mensch, was oder wer Carmen war,
-          wenngleich auch in der Zwischenzeit durch die mysteriöse Veröffentlichung des von
-          <emph>Sherrinford &amp; Sacker</emph> eigens für dieses Projekt engagierten <emph>Alpha bis Omega</emph> Vertriebs
-          (Waren ungenannter und ungeahnter Herkunft) angedeutet wurde, daß wichtige Politiker der
-          Regierung mit dieser Schrift das Fürchten lernen und das internationale Management in
-          weiten Teilen in die Knie gezwungen werden würde, was aber wohl mehr belächelt als
-          ernsthaft zur Kenntnis genommen worden wäre, wenn nicht Vertriebsleiter <emph>Bruno</emph> mit seinem
-          sonderbaren Geschmack von Humor über ein in diesem Buch erstmalig erfolgenden simultanen
-          Abdruck von Geheimdienstakten und für das folgende Börsenjahr geltende Horoskope
-          gekalauert hätte. Mit diesen wenigen leutselig vorgetragenen verbalen Brennstößen wurde
-          ein Taifun ausgelöst, der durch alle soziologischen und ökonomischen Ebenen raste und
-          Feuerwirbel im Laufwerk der politischen Uhr veranstaltete. Depeschen höchster
-          Regierungsmitglieder gingen beim Verlag ein, Abgeordnete aller <pb n="21"/> Parteien
-          wurden bei Bruno vorstellig, Journalisten brachen wiederholt in sein als Hobby betriebenes
-          Fotoatelier ein und diverse Attentate verfehlten ihr Ziel nur knapp – aber alles
-          vergebens, Organisation und Geheimhaltung der Arbeit waren perfekt und lückenlos, keine
-          Andeutung, keine versteckte Anspielung oder verdeckter Hinweis drangen nach draußen, was
-          offensichtlich von dem Umstand herrührte, daß außer den wenigen, effektiv notwendigen
-          Mitarbeitern nicht eine überflüssige Person über Bedeutung und Umfang des sogenannten
-          Buches auch nur ansatzweise informiert war – denn inzwischen rechtfertigte sich der
-          gewaltige Aufwand selbst für die Fahnenträger des Verlages kaum noch mit einem Buch
-          allein.</p>
+          nur soviel vermittelten wie, daß beim Verlagshaus <emph>Sherringford &amp; Sacker</emph> –
+          vermerkt im <foreign xml:lang="en">Who's Who</foreign> unter dem altehrwürdigen
+          Firmenemblem Hänsel &amp; Co, einem Unternehmen, das sich in seiner langen
+          Publikationsarbeit vor allem auf Detektiv- und Kriminalliteratur spezialisiert hatte,
+          inzwischen aber aufgrund der sich verschlechternden Marktlage davon abgekommen und
+          zunehmend Interpretationen und Interpretationen der Interpretationen dieser Literatur den
+          Vorzug gegeben hatte – seit Monaten ein gigantisches Buchprojekt in der Schwebe gehalten
+          wurde. Denn niemand begriff so recht, ob dieses Projekt jemals realisiert werden würde
+          oder schon realisiert worden war, über den Inhalt lagen stets sehr widersprüchliche
+          Meldungen vor, die nur in dem Tatbestand konvergierten, daß in diesem Buch der Bücher
+          unter anderem auch der wahre Namen Carmens enthüllt werden würde, was soviel bedeutet
+          mochte wie die Preisgabe ihres Aufenthaltsortes und ihrer Bestimmung oder aber auch nur
+          die Erhellung ihres tieferen philosophischen Vermächtnisses. Noch wußte wohl kein Mensch,
+          was oder wer Carmen war, wenngleich auch in der Zwischenzeit durch die mysteriöse
+          Veröffentlichung des von <emph>Sherrinford &amp; Sacker</emph> eigens für dieses Projekt
+          engagierten <emph>Alpha bis Omega</emph> Vertriebs (Waren ungenannter und ungeahnter
+          Herkunft) angedeutet wurde, daß wichtige Politiker der Regierung mit dieser Schrift das
+          Fürchten lernen und das internationale Management in weiten Teilen in die Knie gezwungen
+          werden würde, was aber wohl mehr belächelt als ernsthaft zur Kenntnis genommen worden
+          wäre, wenn nicht Vertriebsleiter <emph>Bruno</emph> mit seinem sonderbaren Geschmack von
+          Humor über ein in diesem Buch erstmalig erfolgenden simultanen Abdruck von
+          Geheimdienstakten und für das folgende Börsenjahr geltende Horoskope gekalauert hätte. Mit
+          diesen wenigen leutselig vorgetragenen verbalen Brennstößen wurde ein Taifun ausgelöst,
+          der durch alle soziologischen und ökonomischen Ebenen raste und Feuerwirbel im Laufwerk
+          der politischen Uhr veranstaltete. Depeschen höchster Regierungsmitglieder gingen beim
+          Verlag ein, Abgeordnete aller <pb n="21"/> Parteien wurden bei Bruno vorstellig,
+          Journalisten brachen wiederholt in sein als Hobby betriebenes Fotoatelier ein und diverse
+          Attentate verfehlten ihr Ziel nur knapp – aber alles vergebens, Organisation und
+          Geheimhaltung der Arbeit waren perfekt und lückenlos, keine Andeutung, keine versteckte
+          Anspielung oder verdeckter Hinweis drangen nach draußen, was offensichtlich von dem
+          Umstand herrührte, daß außer den wenigen, effektiv notwendigen Mitarbeitern nicht eine
+          überflüssige Person über Bedeutung und Umfang des sogenannten Buches auch nur ansatzweise
+          informiert war – denn inzwischen rechtfertigte sich der gewaltige Aufwand selbst für die
+          Fahnenträger des Verlages kaum noch mit einem Buch allein.</p>
         <p>Was es allerdings neben diesem oder zusätzlich oder überhaupt repräsentierte, vermochte
           niemand so recht abzuschätzen, auch wenn mehrere Meinungsumfragen eine Geheimwaffe als
           Volksmeinung ermittelten, was zur allgemeinen Aufklärung allerdings auch nicht mehr
@@ -693,19 +699,19 @@
           geringeren Einflußes gehandelt, so hätte ich wahrscheinlich mit dem sich alljährlich
           wiederholenden Ritual des unter fadenscheinigen Gründen versuchten Entzuges meiner
           Schnüfflerlizenz gerechnet. Gegenüber dem in autoritärer Allmacht erstrahlenden grauen
-          Büro (<foreign xml:lang="it"><emph>agenzia sommerse</emph></foreign>) jedoch trübten sich meine sonst
-          so lässig bei der Stange gehaltenen Gedanken zu einem Durcheinander ein. Auch der Anblick
-          der mich im mir zugewiesenen <pb n="22"/> Zimmer erwartenden, zu allem Überfluß auch noch
-          maskierten Personen trug nicht besonders zur Klärung meiner gedanklichen Irrungen bei; die
-          wenigen Einsichten, die ich dieser Situation abzugewinnen vermochte, wie etwa meine
-          völlige Unkenntnis aller Anwesenden, ganz abgesehen von den infolge ihrer Maskierung
-          nurmehr mangelhaften individuellen Unterscheidungskriterien, weiteten diesen Zustand
-          angstvoller Hilflosigkeit nur noch mehr aus. Es schien nachgerade so, als ob sich nicht
-          einer der an diesem Maskenball Beteiligten als konkreter Kleiderständer einer der
-          zahllosen Zimmer dieses Gebäudes institutionalisierter Paranoia zu entlarven wagte. Kaum
-          daß ich meine Gedanken zur Ordnung gerufen hätte, tröpfelten die ersten Worte aus diesem
-          dispersen Nebel von Körpern, deren Bedeutungen meine spiralenförmig kreisenden Gedanken
-          nur geringfügig verlangsamten.</p>
+          Büro (<foreign xml:lang="it"><emph>agenzia sommerse</emph></foreign>) jedoch trübten sich
+          meine sonst so lässig bei der Stange gehaltenen Gedanken zu einem Durcheinander ein. Auch
+          der Anblick der mich im mir zugewiesenen <pb n="22"/> Zimmer erwartenden, zu allem
+          Überfluß auch noch maskierten Personen trug nicht besonders zur Klärung meiner
+          gedanklichen Irrungen bei; die wenigen Einsichten, die ich dieser Situation abzugewinnen
+          vermochte, wie etwa meine völlige Unkenntnis aller Anwesenden, ganz abgesehen von den
+          infolge ihrer Maskierung nurmehr mangelhaften individuellen Unterscheidungskriterien,
+          weiteten diesen Zustand angstvoller Hilflosigkeit nur noch mehr aus. Es schien nachgerade
+          so, als ob sich nicht einer der an diesem Maskenball Beteiligten als konkreter
+          Kleiderständer einer der zahllosen Zimmer dieses Gebäudes institutionalisierter Paranoia
+          zu entlarven wagte. Kaum daß ich meine Gedanken zur Ordnung gerufen hätte, tröpfelten die
+          ersten Worte aus diesem dispersen Nebel von Körpern, deren Bedeutungen meine
+          spiralenförmig kreisenden Gedanken nur geringfügig verlangsamten.</p>
         <p>»Machen sie sich keine Umstände, keiner der hier Anwesenden wirkt in DER Einrichtung,
           auch geht keiner von uns einer in sonstiger Weise publikumsträchtigen Beschäftigung nach,
           beschließen sie also lieber das ins Ausweglose führende Grübeln und hören sie zu.« Während
@@ -895,20 +901,20 @@
           und Intention erhalten hatte, trieb ich ihn systematisch mit Fragen nach Bedeutung und
           Botschaft der plakattierten Nachricht in die Ecke. Derart dick tischte mir der Maskierte
           daraufhin eine Lügengeschichte auf, daß ich sie, ohne erröten zu müssen, kaum an dieser
-          Stelle vorzutragen wage: Seinen Aussagen zufolge <sic>nämlich, </sic>hätte ihn selbiger
-          Plakathalter beauftragt, jene berühmte Carmen, berüchtigte Carmen Nova – so seine Worte –
-          ausfindig zu machen. Wenngleich er dieses Unternehmen schon damals als unrealisierbar
-          eingestuft hätte, weil ihm die Verfolgung von Spuren eines Wesens der Imagination, eines
-          durch die Lüfte schwebenden Begriffes, dessen einziges Vergehen es wäre, in seiner
-          ideellen Destillerei Vorstellungen, Meinungen und Taten des Alltags aufzukochen und, von
-          Fremdstoffen gereinigt, in konzentrierter Form wieder in Umlauf zu bringen, als höchst
-          ineffektiv dünkte, übernahm er den Auftrag dann wegen akuter Geldsorgen doch. Da die
-          Untersuchungen bisher allerdings keinen Erfolg in irgendeiner Hinsicht gezeitigt hätten,
-          habe er sich an dieser Stelle eingefunden, um den Auftrag unerledigt an seinen Mandanten
-          zurückzugeben. Nur schwerlich erwehrte ich mich eines spöttischen Grinsens über diese so
-          stümperhaft zusammengekleisterte Story, zog es aber vor, mich nicht eingehender nach
-          spezifischen verräterischen Details <pb n="29"/> zu erkundigen, da ich mir sicher war, daß
-          die notdürftig zusammengeschusterten Antworten meines Gegenübers keine echten
+          Stelle vorzutragen wage: Seinen Aussagen zufolge nämlich, hätte ihn selbiger Plakathalter
+          beauftragt, jene berühmte Carmen, berüchtigte Carmen Nova – so seine Worte – ausfindig zu
+          machen. Wenngleich er dieses Unternehmen schon damals als unrealisierbar eingestuft hätte,
+          weil ihm die Verfolgung von Spuren eines Wesens der Imagination, eines durch die Lüfte
+          schwebenden Begriffes, dessen einziges Vergehen es wäre, in seiner ideellen Destillerei
+          Vorstellungen, Meinungen und Taten des Alltags aufzukochen und, von Fremdstoffen
+          gereinigt, in konzentrierter Form wieder in Umlauf zu bringen, als höchst ineffektiv
+          dünkte, übernahm er den Auftrag dann wegen akuter Geldsorgen doch. Da die Untersuchungen
+          bisher allerdings keinen Erfolg in irgendeiner Hinsicht gezeitigt hätten, habe er sich an
+          dieser Stelle eingefunden, um den Auftrag unerledigt an seinen Mandanten zurückzugeben.
+          Nur schwerlich erwehrte ich mich eines spöttischen Grinsens über diese so stümperhaft
+          zusammengekleisterte Story, zog es aber vor, mich nicht eingehender nach spezifischen
+          verräterischen Details <pb n="29"/> zu erkundigen, da ich mir sicher war, daß die
+          notdürftig zusammengeschusterten Antworten meines Gegenübers keine echten
           bedeutungsträchtigen Indizien enthalten würden.</p>
         <p>Ich bedankte <sic>mir</sic> daher, im Stillen über seine Menschenunkenntnis lachend, die
           ihn offensichtlich glauben ließ, einen Meister des Aufspürens wie mich mit einigen simplen
@@ -1024,17 +1030,17 @@
           meine still im Schoß liegenden Hände vergewisserte.</p>
         <p>In diesem Augenblick donnerte ein kaum mehr einer menschlichen Stimme ähnelnder
           entsetzensverzerrter Schrei von der Bühne in das Publikum, reihte die verwirrten Köpfe der
-          Zuschauer gleichsam an seinem kometenhaften Schweif von Bedeutung auf; <emph>Carmen</emph> fegte es
-          durch den Raum, worauf sich, durch ein Stichwort vereint, die vorderen Zuschauerreihen wie
-          Lemminge mit gezückten Messern auf die Bühne stürzten. In irrsinniger Wut stachen sie auf
-          alles ein, <pb n="33"/> was sich bewegte, feierten gleichsam besinnungslos ein Fest des
-          Blutes. Meterhoch spritzte der kostbare Saft zur Decke, Schreie umwölkten mein Gehirn,
-          während Stuhlbeine die Luft zerschlugen und einen Stützpfeiler des Theaters einknicken
-          ließen, der im Fall den Vorhang zerriß und unter ihm einen Teil der Bühne begrub. Überall
-          vernahm ich die erstickten Todesschreie und die Hilferufe der Verwundeten, als ich mir,
-          von einem zwischen die Augen gerammten Ellenbogen erfrischt, den Weg durch das Chaos zu
-          meinem Doppelgänger bahnte, der vom Tohuwabohu unberührt, in seinem Stuhl saß und mir
-          spöttisch entgegengrinste.</p>
+          Zuschauer gleichsam an seinem kometenhaften Schweif von Bedeutung auf; <emph>Carmen</emph>
+          fegte es durch den Raum, worauf sich, durch ein Stichwort vereint, die vorderen
+          Zuschauerreihen wie Lemminge mit gezückten Messern auf die Bühne stürzten. In irrsinniger
+          Wut stachen sie auf alles ein, <pb n="33"/> was sich bewegte, feierten gleichsam
+          besinnungslos ein Fest des Blutes. Meterhoch spritzte der kostbare Saft zur Decke, Schreie
+          umwölkten mein Gehirn, während Stuhlbeine die Luft zerschlugen und einen Stützpfeiler des
+          Theaters einknicken ließen, der im Fall den Vorhang zerriß und unter ihm einen Teil der
+          Bühne begrub. Überall vernahm ich die erstickten Todesschreie und die Hilferufe der
+          Verwundeten, als ich mir, von einem zwischen die Augen gerammten Ellenbogen erfrischt, den
+          Weg durch das Chaos zu meinem Doppelgänger bahnte, der vom Tohuwabohu unberührt, in seinem
+          Stuhl saß und mir spöttisch entgegengrinste.</p>
         <p>Und wieder tat einer so, als ob er mich schon seit Unzeiten erwartet, meinen Lebenslauf
           auswendig kennen und mich nur noch als stereotypes Versatzstück seines Puzzles betrachten
           würde: »Na, das wurde ja auch Zeit«, seufzte er und zündete sich, unbeachtet des von
@@ -1096,9 +1102,9 @@
           aber verlangen nur das Unmögliche von uns. Und: Verstehen Sie das als kleine Warnung:
           Hände weg von Carmen.« Sprach's und hatte die Tür bereits halb zugeklappt, als er seinen
           Kopf noch einmal durch die schmale Öffnung steckte und uns unter vorgehaltener Hand
-          zuraunte, daß die Polizei (<foreign xml:lang="it"><emph>gli altri</emph></foreign>) anrücke. Dann
-          duckte er sich blitzschnell und entfleuchte zwischen den Schubladen. Obwohl ich ihm
-          sogleich nachsetzte, war das einzige Resultat eine mir von der nachschlagenden Tür
+          zuraunte, daß die Polizei (<foreign xml:lang="it"><emph>gli altri</emph></foreign>)
+          anrücke. Dann duckte er sich blitzschnell und entfleuchte zwischen den Schubladen. Obwohl
+          ich ihm sogleich nachsetzte, war das einzige Resultat eine mir von der nachschlagenden Tür
           beigebrachte Schwellung am Kopfe.</p>
         <p>»Laß den Quatsch, das funktioniert eh nur bei denen«, zischte mir mein neu gewachsener
           Begleiter zu und zerrte mich zum Fenster, von wo eine Feuerleiter uns den Weg zum Dach
@@ -1119,17 +1125,17 @@
           Spur zusammensponnen. Da uns aber zur Zeit weder der Aufenthaltsort der beiden noch die
           Substanz <pb n="36"/> oder der Gehalt Carmens geläufig waren, hatten wir uns vorerst mit
           den verbliebenen Bezügen zu beschäftigen.</p>
-        <p>Während mein Kompagnon (<foreign xml:lang="it"><emph>sommaa</emph></foreign>) aus dem dargestellten
-          Faktenmaterial die Wahrscheinlichkeit eines in naher Zukunft sich einstellenden
-          Schnittpunktes Carmens und unserer Handlungsstränge errechnete, verschaltete ich die
-          Details zu einem umfassenden Verweisungsnetz, aus dem sich Bedeutungsansätze unserer
-          Arbeit schlußfolgern ließen. Gesetzt den Fall, wir vertraten zwei Seiten der gleichen
-          Münze, dann lag unsere einzige Chance zur Lösung des Casus im divergenten Vorgehen, deren
-          Erfolge sich mehr oder weniger automatisch in Maß und Art unserers Fortschreitens
-          einstellen würden. Wir hatten demnach unterschiedliche Wege zu gehen, wenn uns beiden an
-          der Zielverwirklichung gelegen war, hatten uns also zu trennen, um uns für immer zu
-          treffen. Unser Prisma war Carmen, in der sich das Licht, das grelle, helle Licht zu
-          Strahlen brach, auf deren schmalen Grat wir wandeln durften. Pfade des Wissens, die uns
+        <p>Während mein Kompagnon (<foreign xml:lang="it"><emph>sommaa</emph></foreign>) aus dem
+          dargestellten Faktenmaterial die Wahrscheinlichkeit eines in naher Zukunft sich
+          einstellenden Schnittpunktes Carmens und unserer Handlungsstränge errechnete, verschaltete
+          ich die Details zu einem umfassenden Verweisungsnetz, aus dem sich Bedeutungsansätze
+          unserer Arbeit schlußfolgern ließen. Gesetzt den Fall, wir vertraten zwei Seiten der
+          gleichen Münze, dann lag unsere einzige Chance zur Lösung des Casus im divergenten
+          Vorgehen, deren Erfolge sich mehr oder weniger automatisch in Maß und Art unserers
+          Fortschreitens einstellen würden. Wir hatten demnach unterschiedliche Wege zu gehen, wenn
+          uns beiden an der Zielverwirklichung gelegen war, hatten uns also zu trennen, um uns für
+          immer zu treffen. Unser Prisma war Carmen, in der sich das Licht, das grelle, helle Licht
+          zu Strahlen brach, auf deren schmalen Grat wir wandeln durften. Pfade des Wissens, die uns
           zur Entschlüsselung der Weisheit verhelfen würden. Nova Carmen lautete der Schlachtruf des
           neuen Zentrums, das nicht mehr wie in alten Zeiten gierige Fäden um die Peripherie webte,
           die Ränder usurpierte, sich an ihren Ausläufern stärkte, nein, Nova Carmen simulierte
@@ -1201,15 +1207,15 @@
           Information, die ich, obgleich insgeheim bereits befürchtet, in dieser bestätigten Form
           als von um so zynischerem Gehalt registrierte.</p>
         <p>Zwischen den das Ende einläutenden Blutblasen, die an seinen Lippen zerplatzten, schob
-          der Sterbende mir unter Mühen einen weiteren Kassiber (<foreign xml:lang="it"><emph>paloma</emph>, mil.
-            sl.</foreign>) des Wortlauts »es hat für mich keinen Sinn mehr. Das Buch ist weg,
-          schreib du es weiter« zu und verschied. Blitzschnell löste auch ich mich von dieser
-          Bildfläche ab, was in der allgemeinen Verwirrung und Empörung infolge der <pb n="39"/>
-          durch die sich überschlagenden Ereignisse, wie schon erläutert, verunmöglichten Flucht des
-          – wie immer – unbeteiligten Publikums sich als relativ problemlos erwies. An einem anderen
-          Ort und Bild, dessen Beschreibung zur Klärung des Falles nicht vonnöten ist, begann ich
-          die Aussagen des Sterbenden zu interpretieren. Ich sollte also weiterschreiben, na gut,
-          schlimmer konnte es ja nicht werden ...«</p>
+          der Sterbende mir unter Mühen einen weiteren Kassiber (<foreign xml:lang="it"
+              ><emph>paloma</emph>, mil. sl.</foreign>) des Wortlauts »es hat für mich keinen Sinn
+          mehr. Das Buch ist weg, schreib du es weiter« zu und verschied. Blitzschnell löste auch
+          ich mich von dieser Bildfläche ab, was in der allgemeinen Verwirrung und Empörung infolge
+          der <pb n="39"/> durch die sich überschlagenden Ereignisse, wie schon erläutert,
+          verunmöglichten Flucht des – wie immer – unbeteiligten Publikums sich als relativ
+          problemlos erwies. An einem anderen Ort und Bild, dessen Beschreibung zur Klärung des
+          Falles nicht vonnöten ist, begann ich die Aussagen des Sterbenden zu interpretieren. Ich
+          sollte also weiterschreiben, na gut, schlimmer konnte es ja nicht werden ...«</p>
         <p>Mit diesen Zeilen brach das Buch überraschend ab, was, wie eine genauere Untersuchung der
           Seitenbindung ergab, aus der gewaltsamen Entfernung der letzten 46 Seiten resultierte.
           Enttäuscht und verunsichert erhob ich mich von meinem Leseplatz und steuerte jene
@@ -1270,11 +1276,11 @@
           geheimnisvollem Zauber schon so viele Menschen und Dinge zum Opfer gefallen waren.</p>
         <p>Ich schlug das Buch auf und las: »Carmen, Carmen – durch die Adern der Stadt fließt das
           Gift der Schönheit, der Schönheit, die Bestie ist«, und wieder einmal sah ich mich
-          genarrt. Oder doch nicht? Hing der Schlüssel, <emph>marruchine</emph> vielleicht in den zwischen den
-          Zeilen verborgenen Sentenzen, beinhaltete der Text einen brachliegenden Kodex, den ich,
-          besessen von meiner Handlungsgier, zum Schmuckwert degradiert hatte? War es möglich, daß
-          des Rätsels Lösung nie versteckt worden war, sondern meine Augen sich ihm ständig
-          entwunden hatten?</p>
+          genarrt. Oder doch nicht? Hing der Schlüssel, <emph>marruchine</emph> vielleicht in den
+          zwischen den Zeilen verborgenen Sentenzen, beinhaltete der Text einen brachliegenden
+          Kodex, den ich, besessen von meiner Handlungsgier, zum Schmuckwert degradiert hatte? War
+          es möglich, daß des Rätsels Lösung nie versteckt worden war, sondern meine Augen sich ihm
+          ständig entwunden hatten?</p>
         <p>Mir schwindelte, ich, ein Gefangener meiner selbst. Intrigant am eigenen Hofe, dessen
           Bausteine durch sich selbst sprachen? Doch, wie angefangen, wie das Geheimnis zum Sprechen
           zwingen oder war gar kein Zwang nötig, weil kein Geheimnis existierte? Schrieb ich nicht
@@ -1369,10 +1375,10 @@
           Jahren wohl in blendendem Gelb gefärbten Zelt geleitete, an dessen Eingangsverschlag ein
           Schild mit den vier Zeichen der Kabbala, heiligen Insinuen Gottes, Iod He Vau He, Wort der
           Worte, Schlüsse aller Weisheit bedächtig im Wind schwankte.</p>
-        <p><emph>Steinbock, Wassermann, Fische, Widder,</emph> Stier rollte es an mir vorüber, als mich die
-          Wahrsagerin lächelnd begrüßte und wortlos ins Innere führte, wo ein runder Tisch thronte,
-          dessen Mitte von der obligatorischen Kugel gekrönt wurde. Das Aussehen der Frau zu
-          beschreiben war mir unmöglich, da sie mit instinktivem Gespür sich als Aufenthaltsort
+        <p><emph>Steinbock, Wassermann, Fische, Widder,</emph> Stier rollte es an mir vorüber, als
+          mich die Wahrsagerin lächelnd begrüßte und wortlos ins Innere führte, wo ein runder Tisch
+          thronte, dessen Mitte von der obligatorischen Kugel gekrönt wurde. Das Aussehen der Frau
+          zu beschreiben war mir unmöglich, da sie mit instinktivem Gespür sich als Aufenthaltsort
           immer die dunkelsten Plätze des sowieso dünn beleuchteten Raumes wählte, während ich wider
           mein Einwirken beständig das Zentrum des Lichtbündels markierte. Ohne Umschweife reichte
           sie mir die Preisliste, die sie simultan zu meinem Lesefluß mit einer mildrauchigen Stimme
@@ -1420,34 +1426,34 @@
           auftretende Männer Mysterien der Wahrheit ein, deren Substanz auf den Wellen des
           Verfolgungswahns ritt.</p>
         <p>Ein Stab und sein Führer umkreisten die Karte einer undeutlichen Topographie, deren
-          Legende ihr nur sehr voluminös und grobschlächtig mit der Bezeichnung <emph>Antiprinzip</emph> zum
-          Ausdruck verhalf. Sätze vergifteten sich an diesem Namen und formten sich zu Denkmodellen
-          deren hierarchische Wertung nach strategischer und taktischer Bedeutung dem Stabsleiter
-          zukam, der den Redeschwall seiner Untergeordneten abrupt unterbrach und das Resumee der
-          gedanklichen Zerrüttung zog. In kurzer prägnanter Wortführung förderte er zutage, daß,
-          unerkannt von der Einsichtnahme <emph>des Büros</emph> und abseits des Regierungsinteresses, sich ein
-          Gruppe von Doktrinären konstituiert hätte, in deren Absicht die Realisierung eines
-          unklaren Projektes namens Carmen läge, zweifellos eine Tarnbezeichnung, deren wahrer
-          Gehalt aber bis dato noch nicht dechiffriert sei. Da sich weder an den Äußerungen noch den
-          Handlungen der Gruppe eine gewisse zielprägnante Zuweisung ablesen lasse, sei von einem
-          höchst differenzierten Ordnungsschematismus, der eine ebenso komplexe
-          Organisationsstruktur wie differenziertes Gedankengebäude bedinge, auszugehen. Auch die
-          eingeschleusten Spezialagenten hätten neben ihrem spurlosen Auflösen auch nichts zur
-          Lösung beigetragen, so daß man voll und ganz auf die analytische Ebene angewiesen sei.
-          Trotzdem die Motivanalyse nichts von Bedeutung erbracht habe, sei es gelungen, die
-          Aktionen der Organisation auf die gemeinsame Kategorie der Suche zu reduzieren, womit
-          wenigstens ein potentieller Anhaltspunkt für eine methodische Überwachung gewonnen sei.
-          Schlüsselte man die Handlungen nach Umfang und Qualität auf, so gliederte sich das
-          Vorgehen prinzipiell nach drei Kategorien auf. Zum einen sei die Methode der <emph>unklaren
-          Suche </emph>festzuhalten, die durch akzidentielle, unscharfe Ereignisse ausgelöst, ungerichtet,
-          objektungebunden und unsystematisch <pb n="47"/> ablaufe, des weiteren die gezielte Suche,
-          deren Ziel aber nicht weniger undeutlich denn die Auslöser in der vorhergehenden Variante
-          verblieben, sich aber durch den Anschein einer zügigen, steten Vorgehensweise, die sich
-          nicht in den Prozessen der Aleatorik verhake, unterschied und drittens schließlich war der
-          Bereich der suchenden Suche zu bestimmen, die mit der ungerichteten Suche in der fehlenden
-          Bewegung kontrastierte, weil sie sich allein auf die Mechanismen passiver Rezeption
-          beschränkte, wohl glaubend, auf diese Art die Überlebensnaheste Methode zu
-          selektieren.</p>
+          Legende ihr nur sehr voluminös und grobschlächtig mit der Bezeichnung
+            <emph>Antiprinzip</emph> zum Ausdruck verhalf. Sätze vergifteten sich an diesem Namen
+          und formten sich zu Denkmodellen deren hierarchische Wertung nach strategischer und
+          taktischer Bedeutung dem Stabsleiter zukam, der den Redeschwall seiner Untergeordneten
+          abrupt unterbrach und das Resumee der gedanklichen Zerrüttung zog. In kurzer prägnanter
+          Wortführung förderte er zutage, daß, unerkannt von der Einsichtnahme <emph>des
+            Büros</emph> und abseits des Regierungsinteresses, sich ein Gruppe von Doktrinären
+          konstituiert hätte, in deren Absicht die Realisierung eines unklaren Projektes namens
+          Carmen läge, zweifellos eine Tarnbezeichnung, deren wahrer Gehalt aber bis dato noch nicht
+          dechiffriert sei. Da sich weder an den Äußerungen noch den Handlungen der Gruppe eine
+          gewisse zielprägnante Zuweisung ablesen lasse, sei von einem höchst differenzierten
+          Ordnungsschematismus, der eine ebenso komplexe Organisationsstruktur wie differenziertes
+          Gedankengebäude bedinge, auszugehen. Auch die eingeschleusten Spezialagenten hätten neben
+          ihrem spurlosen Auflösen auch nichts zur Lösung beigetragen, so daß man voll und ganz auf
+          die analytische Ebene angewiesen sei. Trotzdem die Motivanalyse nichts von Bedeutung
+          erbracht habe, sei es gelungen, die Aktionen der Organisation auf die gemeinsame Kategorie
+          der Suche zu reduzieren, womit wenigstens ein potentieller Anhaltspunkt für eine
+          methodische Überwachung gewonnen sei. Schlüsselte man die Handlungen nach Umfang und
+          Qualität auf, so gliederte sich das Vorgehen prinzipiell nach drei Kategorien auf. Zum
+          einen sei die Methode der <emph>unklaren Suche </emph>festzuhalten, die durch
+          akzidentielle, unscharfe Ereignisse ausgelöst, ungerichtet, objektungebunden und
+          unsystematisch <pb n="47"/> ablaufe, des weiteren die gezielte Suche, deren Ziel aber
+          nicht weniger undeutlich denn die Auslöser in der vorhergehenden Variante verblieben, sich
+          aber durch den Anschein einer zügigen, steten Vorgehensweise, die sich nicht in den
+          Prozessen der Aleatorik verhake, unterschied und drittens schließlich war der Bereich der
+          suchenden Suche zu bestimmen, die mit der ungerichteten Suche in der fehlenden Bewegung
+          kontrastierte, weil sie sich allein auf die Mechanismen passiver Rezeption beschränkte,
+          wohl glaubend, auf diese Art die Überlebensnaheste Methode zu selektieren.</p>
         <p>Während der leitende Offizier dieses den Eindruck von Abgerundet- und Ausgewogenheit
           implizierende Material seinen Untergebenen vortrug, war ihm durchaus bewußt, daß er zum
           Wohle einer allgemeinen und umfassenden Systematik Erkundungen aus dem Spiel zu lassen
@@ -1540,8 +1546,8 @@
           krönen und die bindungslosen, schnellfüßigen Wanderer, <persName type="deity"
             ref="http://www.wikidata.org/entity/Q41484">Hermes</persName> und Shem, in die
           lichtlosen, modernden Kerker zu bannen, wo sie an ihrer Maßlosigkeit ersticken sollten.
-          <emph>Bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthun ntrovarrhounawnskawntoohoor
-          denethurnuk!</emph></p>
+            <emph>Bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthun
+            ntrovarrhounawnskawntoohoor denethurnuk!</emph></p>
         <p>Zu lesen, zu schreiben ... Carmen, Carmen – ...</p>
       </div>
     </body>
@@ -1567,7 +1573,8 @@
           auf eine nahezu gleichzeitig verfertigte Analysensammlung zum Romanwerk <persName
             ref="http://www.wikidata.org/entity/Q12807">Ian Flemings</persName>, an der auch
             <persName ref="http://www.wikidata.org/entity/Q12807">Eco</persName> nicht ganz
-          unbeteiligt war; insbesondere möchten wir an dieser Stelle den Band zum <rs type="work"
+          unbeteiligt war; insbesondere möchten wir an dieser Stelle <rs type="work"
+            ref="http://www.wikidata.org/entity/Q123862029">den Band</rs> zum <rs type="work"
             ref="http://www.wikidata.org/entity/Q844">James Bond</rs> Genre von <persName
             ref="http://www.wikidata.org/entity/Q3885585">Oreste del Buono</persName> und <persName
             ref="http://www.wikidata.org/entity/Q12807">Umberto Eco</persName> anführen, in dem die
