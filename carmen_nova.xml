@@ -96,7 +96,7 @@
       </settingDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-11-21">initial release</change>
+      <change when="2023-12-20">initial release</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -123,8 +123,8 @@
       <docImprint>
         <publisher>© dieser Ausgabe: Doppelnull Edition</publisher>, <pubPlace>Zürich</pubPlace>
         <lb/>Satz: <name>Wake-Diktion</name>
-        <lb/>Druck und Vertrieb: <name>Alpha/Omega, Inc.</name>
-        <lb/>Übersetzung: <name>H. Heinz</name>
+        <lb/>Druck und Vertrieb: <name type="org">Alpha/Omega, Inc.</name>
+        <lb/>Übersetzung: <persName>H. Heinz</persName>
         <lb/>1. Auflage <docDate>1983</docDate>
         <idno type="ISBN">ISBN 1-725-22863-1</idno>
         <lb/>Alle Rechte vorbehalten</docImprint>
@@ -132,7 +132,8 @@
       <div type="contents">
         <head>Inhalt</head>
         <list>
-          <item>Mystifikationen des Stils (Stephen Pegalius) <ref target="#p5">5</ref></item>
+          <item>Mystifikationen des Stils (Stephen <sic>Pegalius</sic>) <ref target="#p5"
+            >5</ref></item>
           <item>Carmen Nova (Umberto Eco) <ref target="#p7">7</ref></item>
           <item>Editorische Notiz <ref target="#p52">52</ref></item>
           <item>Anmerkungen des Übersetzers <ref target="#p55">55</ref></item>
@@ -171,11 +172,12 @@
                 <l>Halt ihn fest und er wird entfliehen,</l>
                 <l>weichst du ihm aus, flugs ist er da!</l>
               </lg></quote>
-            <bibl>(<title level="a" ref="http://www.wikidata.org/entity/Q692648">Habanera</title>
-              aus <author ref="http://www.wikidata.org/entity/Q56158">Bizets</author>
-              <title level="s" ref="http://www.wikidata.org/entity/Q185968">Carmen</title>, <title
-                level="a" ref="http://www.wikidata.org/entity/Q692648">L'amour est un oiseau
-                rebelle</title>)</bibl>
+            <bibl><emph>(<title level="a" ref="http://www.wikidata.org/entity/Q692648"
+                  >Habanera</title> aus <author ref="http://www.wikidata.org/entity/Q56158"
+                  >Bizets</author>
+                <title level="s" ref="http://www.wikidata.org/entity/Q185968">Carmen</title>, <title
+                  level="a" ref="http://www.wikidata.org/entity/Q692648">L'amour est un oiseau
+                  rebelle</title>)</emph></bibl>
           </cit>
         </epigraph>
       </div>
@@ -190,18 +192,18 @@
           wir die hier vorliegende Frühschrift <persName ref="http://www.wikidata.org/entity/Q12807"
             >Ecos</persName> in Bezug zu den verschiedenen Momenten setzen, auf denen sie mehr oder
           weniger fußt. Dabei handelt es sich nicht nur um den explizit angesprochenen meisterhaften
-            <persName ref="http://www.wikidata.org/entity/Q160333">méiméeschen</persName> Stoff,
-          sondern auch um Form und Technik der Novelle selbst sowie, als anderer großer Ausblick, um
-          das weite Feld der Kriminalliteratur.</p>
+            <persName ref="http://www.wikidata.org/entity/Q160333"><sic>méiméeschen</sic></persName>
+          Stoff, sondern auch um Form und Technik der Novelle selbst sowie, als anderer großer
+          Ausblick, um das weite Feld der Kriminalliteratur.</p>
         <p>Von dem unsteten, anarchischen Wesen Carmens, Zauber und Lied in einem, die von der
           unterkühlten Technik <persName ref="http://www.wikidata.org/entity/Q160333"
             >Mérimées</persName> erst heraufbeschworen wird und dank ihr die gesamte strukturale
           Dramatik widerstreitender Antagonismen und dynamischen Fortgangs durchläuft, zum modernen
-          Kriminalroman <persName ref="http://www.wikidata.org/entity/Q186335">Hammets</persName>
-          und dessen in <persName ref="http://www.wikidata.org/entity/Q23434"
-            >Hemmingwayscher</persName> Tradition stehendem Realismus des Understatement, zeichnet
-          sich eine Linie, die in <persName ref="http://www.wikidata.org/entity/Q12807"
-            >Ecos</persName>
+          Kriminalroman <persName ref="http://www.wikidata.org/entity/Q186335"
+            ><sic>Hammets</sic></persName> und dessen in <persName
+            ref="http://www.wikidata.org/entity/Q23434"><sic>Hemmingwayscher</sic></persName>
+          Tradition stehendem Realismus des Understatement, zeichnet sich eine Linie, die in
+            <persName ref="http://www.wikidata.org/entity/Q12807">Ecos</persName>
           <rs type="work" ref="http://www.wikidata.org/entity/Q123511226">Giallo</rs> bewußt
           aufgedeckt und zur Sprache gebracht wird. Die nüchterne Sicht alles Subjektiven, das aus
           der Handlung exkommuniziert, und in der Stilisierung der Ordnung und ihrer
@@ -236,23 +238,23 @@
           systematisch-logische Position die Grenzen ihres aufklärerischen Wirkens und fesselt sich
           selbst in zynischem Unvermögen, die Ordnung als eine unter vielen zu begreifen. Dies ist
           auch der Schnittpunkt, an dem, in selbstironischer Kategorisierung als Kriminalnovelle
-          proklamiert, <emph><sic><rs type="work" ref="http://www.wikidata.org/entity/Q123511226"
-                >Camen Nova</rs></sic></emph> ansetzt. <persName
-            ref="http://www.wikidata.org/entity/Q12807">Ecos</persName> führt den Strom ironischer
+          proklamiert, <emph><rs type="work" ref="http://www.wikidata.org/entity/Q123511226"
+                ><sic>Camen</sic> Nova</rs></emph> ansetzt. <persName
+            ref="http://www.wikidata.org/entity/Q12807">Eco</persName> führt den Strom ironischer
           Stilisierung fort, läßt ihn explodieren und beleuchtet mit ihrem metaphorischen, manchmal
           bewußt überzogenen Schein die Lächerlichkeit moderner Endzeitmetaphysik, um die sowohl
           humanistische Wissenschaft wie neuzeitliche Philosophie kriseln (siehe auch das Nachwort
-          von <persName ref="http://www.wikidata.org/entity/Q179109"><emph>Roland
-            Barthes</emph></persName>). Der Kriminalroman als Paradigma schuldbeladener
+          von <emph><persName ref="http://www.wikidata.org/entity/Q179109">Roland
+            Barthes</persName>)</emph>. Der Kriminalroman als Paradigma schuldbeladener
           Geisteswissenschaften bricht sich hier an dem Eis der Novelle, die sich in ihrer ziellosen
           Suche beständig persifliert. Auf der Reise nach dem <emph>schwarzen Falken</emph>
           wiederholt sie sich selbst, womit das Prinzip des von neuem immer Gleichen
           kriminalistischer Trivialliteratur, von perfekter Banalität seinem Ende entgegengeht. Und
-          an diesem Ende des Regenbogen wartet Carmen, verführerisch, katzenhaft, nicht männliche
-          Leidenschaft, sondern weibliche Eleganz, um das apokalyptische Verbrennen zum nächtlichen
-          geheimnisvollen Anfang zurückzutreiben – doch ohne sie, allein der Name, der lockt.
-          Carmen!</p>
-        <signed>Stephen Pelagius</signed>
+          an diesem Ende des <sic>Regenbogen</sic> wartet Carmen, verführerisch, katzenhaft, nicht
+          männliche Leidenschaft, sondern weibliche Eleganz, um das apokalyptische Verbrennen zum
+          nächtlichen geheimnisvollen Anfang zurückzutreiben – doch ohne sie, allein der Name, der
+          lockt. Carmen!</p>
+        <signed><persName>Stephen Pelagius</persName></signed>
       </prologue>
     </front>
     <pb n="7" xml:id="p7"/>
