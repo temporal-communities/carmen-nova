@@ -1,0 +1,56 @@
+.sidenote:before {
+  content: "*";
+}
+
+.sidenote small:before {
+  content: "*";
+  margin-inline-end: 0.25em;
+  vertical-align: 0.1em;
+  /* Place marker outside of sidenote */
+  display: inline-block;
+}
+
+/* Constants for large viewport */
+:root {
+  --sidenote-text-color: grey;
+  --sidenote-text-size: 0.8rem;
+  --sidenote-width: 16rem;
+  --sidenote-margin: 4rem;
+}
+
+/* Narrow viewport (no media query, as it's the default) */
+.sidenote small {
+  display: block;
+  float: left;
+  text-align: left;
+  clear: both;
+  position: relative;
+  margin: 0.8rem 2.5%;
+  width: 95%;
+
+  font-size: var(--sidenote-text-size);
+  color: var(--sidenote-text-color);
+}
+
+/* Wide viewport */
+@media (min-width: 1280px) {
+  /* Override styles for large viewport */
+  .sidenote small {
+    display: block;
+
+    /* Reset the other properties */
+    clear: inherit;
+    position: inherit;
+    margin: auto;
+
+    float: right;
+    width: var(--sidenote-width);
+    height: 0; /* Avoid extra space */
+
+    /* Right margin: negative sidenote width + sidenote margin */
+    margin-right: calc(-1 * (var(--sidenote-width) + var(--sidenote-margin)));
+
+    /* Align sidenote top with main text */
+    margin-top: calc(0.25 * var(--sidenote-text-size));
+  }
+}

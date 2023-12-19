@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="favicon.ico" />
     <link href="css/tei.css" rel="stylesheet" />
+    <link href="css/sidenotes.css" rel="stylesheet" />
     <script src="js/CETEI.js"></script>
     <script>
       const CETEIcean = new CETEI()
@@ -46,6 +47,20 @@
           author: [["[ref]", ['<a href="$rw@ref" target="_blank">', "</a>"]]],
           // Turn rs tags with @ref attributes into links
           rs: [["[ref]", ['<a href="$rw@ref" target="_blank">', "</a>"]]],
+          note: [
+            [
+              // Footnotes to sidenotes
+              "[place='foot']",
+              (el) => {
+                const span = document.createElement("span")
+                span.classList.add("sidenote")
+                const small = document.createElement("small")
+                small.innerHTML = el.innerHTML
+                span.appendChild(small)
+                return span
+              },
+            ],
+          ],
         },
       }
 
