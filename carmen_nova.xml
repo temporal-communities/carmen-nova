@@ -100,7 +100,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <pb n="1"/>
+    <pb n="1" xml:id="p1"/>
     <front>
       <titlePage>
         <docAuthor>Umberto Eco</docAuthor>
@@ -110,7 +110,7 @@
         </docTitle>
       </titlePage>
       <p>Nachwort von Roland Barthes</p>
-      <pb n="2"/>
+      <pb n="2" xml:id="p2"/>
       <docImprint>
         <publisher>© Octopus Books Limited <lb/>Baker Street, London <lb/>in cooperation with
           <lb/>Sherrinford &amp; Sacker</publisher>
@@ -128,7 +128,7 @@
         <lb/>1. Auflage <docDate>1983</docDate>
         <idno type="ISBN">ISBN 1-725-22863-1</idno>
         <lb/>Alle Rechte vorbehalten</docImprint>
-      <pb n="3"/>
+      <pb n="3" xml:id="p3"/>
       <div type="contents">
         <head>Inhalt</head>
         <list>
@@ -140,7 +140,7 @@
           <item>Auszüge aus einem Interview mit Umberto Eco <ref target="#p61">61</ref></item>
         </list>
       </div>
-      <pb n="4"/>
+      <pb n="4" xml:id="p4"/>
       <div type="epigraph">
         <epigraph>
           <cit>
@@ -218,9 +218,9 @@
             Kunst gut zu erzählen</emph>, wie es <persName
             ref="http://www.wikidata.org/entity/Q157271">Schlegel</persName> formulierte, bilden
           Motor wie Karosserie einer Novelle, deren Struktur ihr Gehalt ist. Die Novelle ist also
-          von Natur aus mobil <pb n="6"/> und vielseitig, da sie ihre Ästhetik vollständig in den
-          Stil „zurücknimmt“, die Vielfältigkeit der Ironie zur Form werden läßt. Der
-            <emph>architektonische Witz</emph> (<persName
+          von Natur aus mobil <pb n="6" xml:id="p6"/> und vielseitig, da sie ihre Ästhetik
+          vollständig in den Stil „zurücknimmt“, die Vielfältigkeit der Ironie zur Form werden läßt.
+          Der <emph>architektonische Witz</emph> (<persName
             ref="http://www.wikidata.org/entity/Q157271">Schlegel</persName>) bringt in seiner
           konkreten Nüchternheit alles Doktrinäre und Allgemeine ins Wanken, der Zufall, das
           Ereignis, nicht die Epoche oder das Gesetz sind König. Wenn <persName
@@ -261,7 +261,7 @@
         <docAuthor>Umberto Eco</docAuthor>
         <head type="main">CARMEN NOVA</head>
         <head type="sub">Kriminalnovelle</head>
-        <pb n="8"/>
+        <pb n="8" xml:id="p8"/>
         <epigraph>
           <cit>
             <quote>Wer sucht, ohne zuvor die Ausweglosigkeit durchgestanden zu haben, der gleicht
@@ -317,9 +317,9 @@
               wenn man so will, mit zehn Eigenschaftswörtern zu beschreiben sein, von denen jedes
               auf drei Teile ihrer Person anwendbar ist. Sie muß zum Beispiel drei schwarze Dinge an
               sich haben: Augen, Wimpern und Brauen; drei feine: Finger, Lippen und Haare usf. Das
-              übrige findet sich bei <pb n="9"/> Brantome. Meine Zigeunerin konnte keine solche
-              Vollkommenheit beanspruchen. Ihre übrigens völlig ebenmäßige Haut näherte sich stark
-              der Kupferfarbe. Ihre Augen waren schräg, aber bewundernswürdig geschlitzt, ihre
+              übrige findet sich bei <pb n="9" xml:id="p9"/> Brantome. Meine Zigeunerin konnte keine
+              solche Vollkommenheit beanspruchen. Ihre übrigens völlig ebenmäßige Haut näherte sich
+              stark der Kupferfarbe. Ihre Augen waren schräg, aber bewundernswürdig geschlitzt, ihre
               Lippen vielleicht ein wenig voll, aber gut geschnitten: sie ließen Zähne, weißer als
               geschälte Mandelkerne, sehen. Ihr vielleicht etwas zu starkes Haar war schwarz, lang
               und glänzend, mit bläulichem Schimmer wie ein Rabenflügel. Um nicht durch eine
@@ -377,8 +377,9 @@
           Art jenseits der verhaßten Ordonnanz von Geschehen. In diesem auf einem undurchdringlichen
           Ozean schwimmenden Ölfleck, der allein die Sicherheit des über ihm residierenden festen
           Eisenspans gebot, in dessen Festkörpern sich die gesamte Ordnung der Stadt inkarnierte,
-          wühlte ich, um zum Zentrum des Kohlenwasserstoffreigens <pb n="11"/> vorzudringen. Meine
-          Aufgabe, dieses Esternetz aufzutrennen und seine klebrigen Fangarme zu kappen.</p>
+          wühlte ich, um zum Zentrum des Kohlenwasserstoffreigens <pb n="11" xml:id="p11"/>
+          vorzudringen. Meine Aufgabe, dieses Esternetz aufzutrennen und seine klebrigen Fangarme zu
+          kappen.</p>
         <p>Mein Schlüssel sollte Carmen sein – im Nachhinein denke ich, daß ich schon damals nicht
           vom Gefühl einer zwanghaft von fremder Seite auferlegten Mission freikam; das hatte nichts
           mit meinem Auftrag zu tun, sondern stellte sich sukzessive als von meinen Nachforschungen
@@ -405,22 +406,23 @@
           das Gebiet einsickerten, sowohl ihrer Immanenz wie Kontinuität beraubt. Es war, als ob ich
           ein unmodelliertes Schwingungsfeld betreten hätte, dessen verborgene Strukturen diesem
           selbst notwendigerweise unklar, dessen Verschwommenheit im Gegenteil eine seiner
-          wesentlichen Richtlinien wären, Perspektiven, die durch meine <pb n="12"/> Suche nach
-          Carmen urplötzlich in eine Ebene gedrückt und maskenartig gepresst wurden, bevor die
-          allgemeine Apathie sich wieder erholt und zur ursprünglichen Größe gedehnt hatte. Schräge
-          Blicke, überzogenes Schulterzucken, mißtrauisches Ausweichen waren die wenigen Reaktionen,
-          die ich empfing, verfolgende, in paranoidem Glanz erstrahlende Augen, geflüsterte
-          Absprachen und verschwörerisches Kopfnicken die einzigen Fragen, die mich bedrängten. Die
-          mannigfaltigen, mit der Aura des Geldes getarnten, von mir ausgelegten Fallen schienen
-          ignoriert zu werden, weswegen ich vorzog, die Räume zu verlassen, um nicht die Position
-          des Jägers mit der des Gejagten zu vertauschen, und andernorts meine Netze auszuwerfen. Im
-          Begriff mich von diesem zwielichtigen Ort davonzustehlen, zog mich eine feuchte, zittrige
-          Hand in den Schatten des Gebäudes und flüsterte mir zu: „Du willst etwas über Carmen
-          wissen?“ Mein bejahendes Nicken kündigte propädeutisch ein hübsches finanzielles Sümmchen
-          an, welches er soeben mit einem umfassenden Informationsabwurf zu verdienen ansetzte, als
-          sich seine Pupillen scheinbar grundlos zu starren Kreisen versteiften, die mit dem
-          Abwürgen der Stimme tödliche Einfachheit propagierten. Wenige Augenblicke später fiel auch
-          vor meinen Augen der Vorhang, wenn auch nur des ersten Aktes. Knock-Out.</p>
+          wesentlichen Richtlinien wären, Perspektiven, die durch meine <pb n="12" xml:id="p12"/>
+          Suche nach Carmen urplötzlich in eine Ebene gedrückt und maskenartig gepresst wurden,
+          bevor die allgemeine Apathie sich wieder erholt und zur ursprünglichen Größe gedehnt
+          hatte. Schräge Blicke, überzogenes Schulterzucken, mißtrauisches Ausweichen waren die
+          wenigen Reaktionen, die ich empfing, verfolgende, in paranoidem Glanz erstrahlende Augen,
+          geflüsterte Absprachen und verschwörerisches Kopfnicken die einzigen Fragen, die mich
+          bedrängten. Die mannigfaltigen, mit der Aura des Geldes getarnten, von mir ausgelegten
+          Fallen schienen ignoriert zu werden, weswegen ich vorzog, die Räume zu verlassen, um nicht
+          die Position des Jägers mit der des Gejagten zu vertauschen, und andernorts meine Netze
+          auszuwerfen. Im Begriff mich von diesem zwielichtigen Ort davonzustehlen, zog mich eine
+          feuchte, zittrige Hand in den Schatten des Gebäudes und flüsterte mir zu: „Du willst etwas
+          über Carmen wissen?“ Mein bejahendes Nicken kündigte propädeutisch ein hübsches
+          finanzielles Sümmchen an, welches er soeben mit einem umfassenden Informationsabwurf zu
+          verdienen ansetzte, als sich seine Pupillen scheinbar grundlos zu starren Kreisen
+          versteiften, die mit dem Abwürgen der Stimme tödliche Einfachheit propagierten. Wenige
+          Augenblicke später fiel auch vor meinen Augen der Vorhang, wenn auch nur des ersten Aktes.
+          Knock-Out.</p>
         <p>Rote Schlieren fächerten das Bild ungleichmäßig auf und ließen mich mehr fordern:
           brüchige Sterne wandelten sich zu geometrischen Formen und die dritte Dimension begann mir
           die Netzhaut zu küssen. Noch durchlebten Form und Farbe eine proteisches Stadium,
@@ -434,18 +436,19 @@
           des öffentlichen Lebens an, dessen Blut inzwischen auf den mittäglichen Herzinfarkt
           zuzirkulierte. Einige ballspielende Kinder schauten schelmisch in meine Richtung, ließen
           sich jedoch nicht in ihrer Tätigkeit irritieren. Tastend erhob ich mich, während der
-          Hinterkopf wie vom Tumor besessen <pb n="13"/> klopfte, die geknickte Wirbelsäule richtete
-          sich dankbar an der morbiden Steinwand auf, Putz bröckelte und verschleierte mir für
-          Momente die Sicht, bis die Tränen auch diesen letzten Rest meiner Niederlage weggeschwemmt
-          hatten. Zögernd wankte ich, noch immer von höllischen Schmerzen gemartert, auf die grelle,
-          von Turbulenzen geplagte Straße. Doch bevor ich mich in den Fluß einfädelte, schaute ich
-          ein letztes Mal auf den Hof zurück, wo sich aus dem spielenden Kinderschwarm inzwischen
-          ein kleines Mädchen herausgelöst hatte, welches mich, einige Schritte von den übrigen
-          isoliert, neugierig in einer Art fixierte, die weder aus Überraschung noch aus Angst
-          resultierte, sondern eher aus einem Systematisierungs- und Bezeichnungswunsch meiner
-          Person sproß. Gleichsam in Sofortaufnahmen wurden meine Intentionen und Hoffnungen
-          taxiert, durchforsteten Röntgenstrahlen meinen Assoziationsdschungel, dessen Unkraut des
-          Mißtrauens durch von Flugzeugen ausgeworfenen Herbizidladungen ausgelöscht wurde.</p>
+          Hinterkopf wie vom Tumor besessen <pb n="13" xml:id="p13"/> klopfte, die geknickte
+          Wirbelsäule richtete sich dankbar an der morbiden Steinwand auf, Putz bröckelte und
+          verschleierte mir für Momente die Sicht, bis die Tränen auch diesen letzten Rest meiner
+          Niederlage weggeschwemmt hatten. Zögernd wankte ich, noch immer von höllischen Schmerzen
+          gemartert, auf die grelle, von Turbulenzen geplagte Straße. Doch bevor ich mich in den
+          Fluß einfädelte, schaute ich ein letztes Mal auf den Hof zurück, wo sich aus dem
+          spielenden Kinderschwarm inzwischen ein kleines Mädchen herausgelöst hatte, welches mich,
+          einige Schritte von den übrigen isoliert, neugierig in einer Art fixierte, die weder aus
+          Überraschung noch aus Angst resultierte, sondern eher aus einem Systematisierungs- und
+          Bezeichnungswunsch meiner Person sproß. Gleichsam in Sofortaufnahmen wurden meine
+          Intentionen und Hoffnungen taxiert, durchforsteten Röntgenstrahlen meinen
+          Assoziationsdschungel, dessen Unkraut des Mißtrauens durch von Flugzeugen ausgeworfenen
+          Herbizidladungen ausgelöscht wurde.</p>
         <p>Neue Haine der Wünsche und Träume wurden angelegt, obgleich der alte Baumbestand noch als
           erhaltenswert galt. »Carmen!« echote es in den Häuserschluchten und sprengte meine
           intelligible Nußschale, unterdessen das Mädchen sich gelangweilt abwandte und dem Ruf
@@ -465,7 +468,7 @@
             Wortspielen und Anspielungen auf italienische Verhältnisse, so daß es im Interesse des
             deutschen Publikums angebracht war, die häufigen Slangausdrücke und Wendungen großzügig
             zu übersetzen. (Der Übersetzer)</note></p>
-        <pb n="14"/>
+        <pb n="14" xml:id="p14"/>
         <p>Die Menge trug mich in ihren rhythmischen Schlingbewegungen fort, jonglierte in
           schwebenden Verfahren über die natürliche Komplementität von Wichtig und Unwichtig und
           stieß mich dann endlich in ihre seichtere Randzone, in der sie mich mit dem Glauben an die
@@ -499,20 +502,21 @@
           endlich einige provisorische Schematisierungen der Unteren Welt in Angriff zu nehmen
           wagte. Zusammensetzung und Druck der Atmosphäre glichen sich weitgehend den beiden anderen
           Welten an, bis auf eine geringfügige, scheinbar irrelevante Nuance, die es aber wert ist,
-          näher analysiert zu werden. <pb n="15"/> Neben der üblichen, in Systemen dieser Ordnung
-          anzutreffenden Blasiertheit war dem Bild ein Tupfer weniger <foreign xml:lang="fr"
-            >laissez-faire</foreign> als gewöhnlich beigemischt oder anders prononciert, stachen die
-          Verhältnisse mehr ins Organisierte, fest <sic>ausgehandelte</sic>, waren mit einem
-          ausgeklügelten Plan unterlegt. Notgedrungen konnte es bei solchen Bedingungen nicht lange
-          währen, daß ich angesprochen und auf meine Intentionen abgeklopft wurde, wobei sich aber
-          auch hier alle Beteiligten mit meinen bereitwillig zur Verfügung gestellten Angaben
-          zufrieden gaben, ja sogar mehr als das, denn wenige Minuten später führte man mich bereits
-          in eines der vielen abseits gelegenen Hinterzimmer, wo augenscheinlich eine Gruppe von
-          Personen damit beschäftigt war, eine kriminelle Operation ersten Grades auszuarbeiten.
-          Kaum davon überzeugt aus diesem Diskurs eine magische Information oder Spur hinsichtlich
-          meines Unterfangens herauszufiltern, war ich soeben im Begriff die Beratschlagenden wieder
-          sich selbst zu überlassen, als man sich mir in einer Art zuwandte, die es mir
-          schlechterdings verunmöglichte, mich unbehelligt aus der Affäre zu ziehen.</p>
+          näher analysiert zu werden. <pb n="15" xml:id="p15"/> Neben der üblichen, in Systemen
+          dieser Ordnung anzutreffenden Blasiertheit war dem Bild ein Tupfer weniger <foreign
+            xml:lang="fr">laissez-faire</foreign> als gewöhnlich beigemischt oder anders
+          prononciert, stachen die Verhältnisse mehr ins Organisierte, fest
+          <sic>ausgehandelte</sic>, waren mit einem ausgeklügelten Plan unterlegt. Notgedrungen
+          konnte es bei solchen Bedingungen nicht lange währen, daß ich angesprochen und auf meine
+          Intentionen abgeklopft wurde, wobei sich aber auch hier alle Beteiligten mit meinen
+          bereitwillig zur Verfügung gestellten Angaben zufrieden gaben, ja sogar mehr als das, denn
+          wenige Minuten später führte man mich bereits in eines der vielen abseits gelegenen
+          Hinterzimmer, wo augenscheinlich eine Gruppe von Personen damit beschäftigt war, eine
+          kriminelle Operation ersten Grades auszuarbeiten. Kaum davon überzeugt aus diesem Diskurs
+          eine magische Information oder Spur hinsichtlich meines Unterfangens herauszufiltern, war
+          ich soeben im Begriff die Beratschlagenden wieder sich selbst zu überlassen, als man sich
+          mir in einer Art zuwandte, die es mir schlechterdings verunmöglichte, mich unbehelligt aus
+          der Affäre zu ziehen.</p>
         <p>„Du suchst Carmen, nicht wahr? Da liegst du ja bei uns goldrichtig, wir treffen sie
           nämlich“, sagte der eben noch mit einem Stift über den Stadtplan fahrende hagere Mann und
           fügte nach einer kleinen Pause, in der mich alle Anwesenden eingehend musterten,
@@ -530,7 +534,7 @@
           Forschung zu suchen. Ich bestach daher den Fährmann, mich noch einmal über den Fluß zu
           setzen und schickte mich nach Betreten des wohlgeläufigen Bodens von neuem an, die
           Querschnitte der Stadt zu verlegen.</p>
-        <pb n="16"/>
+        <pb n="16" xml:id="p16"/>
         <p>Wochenlang streunte ich durch das steinerne Labyrinth und kratzte den Mörtel unter den
           Brücken zu wundervollen Fresken, händeringend nach einer Idee. Täglich erstattete ich
           meinen Auftraggebern per Zeitungsannonce Bericht, in der laut Vereinbarung der Erfolg
@@ -559,10 +563,10 @@
           an den leeren Raum zwischen den Körpern verschwendete. Kurz vor Aufbruch nahm es den
           Anschein, als ob der Erfolg mich doch noch mittels einer maskierten Person mit seiner
           Sonnenseite zu wärmen beliebte; leider stellte sich heraus, daß es sich nur um meinen
-          aufgrund der Anzeige angelockten Auftraggeber handelte, <pb n="17"/> der weder Interesse
-          an einer Diskussion noch am Glühwein zeigte und mir angesichts meines Trommelrevolvers mit
-          einem Schnellfeuergewehr drohte, so daß ich vorzog, meine Sachen einzupacken und
-          unverrichteter Dinge neues zu erfinden.</p>
+          aufgrund der Anzeige angelockten Auftraggeber handelte, <pb n="17" xml:id="p17"/> der
+          weder Interesse an einer Diskussion noch am Glühwein zeigte und mir angesichts meines
+          Trommelrevolvers mit einem Schnellfeuergewehr drohte, so daß ich vorzog, meine Sachen
+          einzupacken und unverrichteter Dinge neues zu erfinden.</p>
         <p>Die Zeit drängte, zumal der Auftraggeber mir durch die Blume hatte zukommen lassen, daß
           er sein Zeitungsabonnement zu kündigen beabsichtige, ich mir infolge dessen zukünftig
           neben der Suche nach Carmen das Rätsel eines neuen Abonnements, wenn er den Zeitungen
@@ -589,41 +593,41 @@
           wünschelrutenartigen Paroxysmen ein plötzliches Ende, indem sie sich zwischen die von mir
           soeben angepeilte Abteilung des mittels der Initialen Alpha–Omega kategorisierten Autoren
           und meine Person warf. Erbost stellte sie mich zur Rede. Nur schwerlich vermochte ich
-          diesem Gesuch nachzukommen, da <pb n="18"/> ich zwischen Überraschung und Melancholie
-          mäandrierend, über kein rechtes Gespür für den Boden unter meinen Füßen verfügte. Als ich
-          dann meine körperliche und geistige Muskulatur soweit beruhigt hatte, daß ich zur
-          Auskunftserteilung imstande war, regte sich anfangs nur sehr wenig, melasseartig und zäh
-          tropften die Worte von meinem Lippen, wagten kaum die Initimität des Kehlkopfraumes
-          aufzugeben und die Wildnis gefahrenumwitterter Wellenspasmen zu schnuppern, undeutlich und
-          verschwommen bündelten sich die Tropfen, nährten sich selbst, um den kraftlosen Rinnsal
-          zum breiten Bett der Moldau zu weiten, die, gefördert von der sich entspannenden Mimik
-          meines Gegenübers und der Wohlwollen indizierenden Eintrübung ihrer Augen, das kurze
-          klimatische Zwischenspiel eines Verhörs als Albtraum überbordete. Ich erzählte und
-          erzählte, wie ein Lindwurm wanden sich die Worte um mich herum, hüllten mich in Mäntel aus
-          Impressionen und Anklagen, spulten sich zu metaphysischen Formen auf und purzelten die
-          Wendeltreppe der Angst hinab, wo sie alsbald vor den Füßen der gänzlich in Grund und Boden
-          gestampften Bibliothekarin zum Halten kamen. Da stand sie nun, einstmals Bollwerk der
-          Macht dieser Bücherregistratur, Autorität über Myriaden von Schriftzeilen, Herrin
-          fixierten Wissens, Epiphanien des Realen, stand sie da, die vormalige Staatsanwältin, die
-          sich zur mitfühlenden Mutter eines geplagten und geschändeten Lederstrumpfes wandelte. Und
-          lange überlegte sie, warf ihre Stirn in Falten und forschte nach dem Spielzeug dieses
-          kleinen Detektivs, der sich vor ihr eröffnete, nackt jeder Vorstellung und bar jedes
-          Hinweises. Ein Flackern ihrer schauenden Augen illuminierte das in Melancholie
-          aufgeweichte Antlitz unseres Helden, munterte mich wortlos auf, der ich es sofort als
-          Ouvertüre zu Höherem empfand. Wie wahr: Kaum daß sie in den Magazinen herumstöberte, da
-          überreichte sie mir ein ledereingebundenes schwarzes Buch mit der Bemerkung, daß es wohl
-          das sei, was mir am Herzen läge. Wenige Fetzen des Dankes stammelnd, machte ich mich in
-          einer stillen Ecke des Lesesaales wie ein Verdurstender über das Buch her, das auch im
-          Inneren weder Titel noch Autor auswies. Der Stolpersteine impressaler Zuweisungen
-          exklusiver Natur beraubt, breitete sich sogleich der gesamte Inhalt aus, der sich jenseits
-          einführender Paraphrasierungen in die komplexesten Knäuel von Handlung stürzte:
-            <sic>„Gleich</sic> jenem orkanankündigenden unterschwelligen Vibrationen des
-          Erd-Luftgefüges, zu dessen Wahrnehmung nur die sensibleren, mit der Natur vertrauten <pb
-            n="19"/> Lebewesen fähig sind, deren unaufhaltsamer Beigeschmack dennoch auch Menschen
-          von geringerer Feinfühligkeit nicht völlig entgeht, sondern etwa durch partielle
-          Mißstimmungen oder Allerweltslangeweilen, die unwillkürlich als wetterumschlags- oder
-          linksbeinig aufgestanden (<foreign xml:lang="it"><emph>alzoch si con la luna
-            storte</emph></foreign>) bedingt rationalisiert werden, die Oberfläche der Routine
+          diesem Gesuch nachzukommen, da <pb n="18" xml:id="p18"/> ich zwischen Überraschung und
+          Melancholie mäandrierend, über kein rechtes Gespür für den Boden unter meinen Füßen
+          verfügte. Als ich dann meine körperliche und geistige Muskulatur soweit beruhigt hatte,
+          daß ich zur Auskunftserteilung imstande war, regte sich anfangs nur sehr wenig,
+          melasseartig und zäh tropften die Worte von meinem Lippen, wagten kaum die Initimität des
+          Kehlkopfraumes aufzugeben und die Wildnis gefahrenumwitterter Wellenspasmen zu schnuppern,
+          undeutlich und verschwommen bündelten sich die Tropfen, nährten sich selbst, um den
+          kraftlosen Rinnsal zum breiten Bett der Moldau zu weiten, die, gefördert von der sich
+          entspannenden Mimik meines Gegenübers und der Wohlwollen indizierenden Eintrübung ihrer
+          Augen, das kurze klimatische Zwischenspiel eines Verhörs als Albtraum überbordete. Ich
+          erzählte und erzählte, wie ein Lindwurm wanden sich die Worte um mich herum, hüllten mich
+          in Mäntel aus Impressionen und Anklagen, spulten sich zu metaphysischen Formen auf und
+          purzelten die Wendeltreppe der Angst hinab, wo sie alsbald vor den Füßen der gänzlich in
+          Grund und Boden gestampften Bibliothekarin zum Halten kamen. Da stand sie nun, einstmals
+          Bollwerk der Macht dieser Bücherregistratur, Autorität über Myriaden von Schriftzeilen,
+          Herrin fixierten Wissens, Epiphanien des Realen, stand sie da, die vormalige
+          Staatsanwältin, die sich zur mitfühlenden Mutter eines geplagten und geschändeten
+          Lederstrumpfes wandelte. Und lange überlegte sie, warf ihre Stirn in Falten und forschte
+          nach dem Spielzeug dieses kleinen Detektivs, der sich vor ihr eröffnete, nackt jeder
+          Vorstellung und bar jedes Hinweises. Ein Flackern ihrer schauenden Augen illuminierte das
+          in Melancholie aufgeweichte Antlitz unseres Helden, munterte mich wortlos auf, der ich es
+          sofort als Ouvertüre zu Höherem empfand. Wie wahr: Kaum daß sie in den Magazinen
+          herumstöberte, da überreichte sie mir ein ledereingebundenes schwarzes Buch mit der
+          Bemerkung, daß es wohl das sei, was mir am Herzen läge. Wenige Fetzen des Dankes
+          stammelnd, machte ich mich in einer stillen Ecke des Lesesaales wie ein Verdurstender über
+          das Buch her, das auch im Inneren weder Titel noch Autor auswies. Der Stolpersteine
+          impressaler Zuweisungen exklusiver Natur beraubt, breitete sich sogleich der gesamte
+          Inhalt aus, der sich jenseits einführender Paraphrasierungen in die komplexesten Knäuel
+          von Handlung stürzte: <sic>„Gleich</sic> jenem orkanankündigenden unterschwelligen
+          Vibrationen des Erd-Luftgefüges, zu dessen Wahrnehmung nur die sensibleren, mit der Natur
+          vertrauten <pb n="19"/> Lebewesen fähig sind, deren unaufhaltsamer Beigeschmack dennoch
+          auch Menschen von geringerer Feinfühligkeit nicht völlig entgeht, sondern etwa durch
+          partielle Mißstimmungen oder Allerweltslangeweilen, die unwillkürlich als wetterumschlags-
+          oder linksbeinig aufgestanden (<foreign xml:lang="it"><emph>alzoch si con la luna
+              storte</emph></foreign>) bedingt rationalisiert werden, die Oberfläche der Routine
           kräuseln – jenen Unstimmigkeiten also, die Psychotherapeuten, Astrologen und
           Pharmakaindustrie ins Kraut schießen lassen, wellenschlagende Vibrationen dieser Art waren
           es, die das Ereignis einläuteten, auf das ich nun zu sprechen komme. Obwohl es weniger ein
@@ -649,8 +653,8 @@
           Spannungsmomentes bedurfte, um allen aufgestauten Müll oberflächlichen Wissens,
           desinteressierten Notengagements und dämonischer Halbwertzeiten zu zerschlagen und ein
           paradiesisches Zeitalter konzertierter Aktionen und pressionsfreier Gedärme zu
-          prophezeien. Obwohl sich einige wenige <pb n="20"/> Philosophen in eine Utopie
-          zementierter Zufälle flüchteten, den sie mehr am menschlichen Schlawittchen als am
+          prophezeien. Obwohl sich einige wenige <pb n="20" xml:id="p20"/> Philosophen in eine
+          Utopie zementierter Zufälle flüchteten, den sie mehr am menschlichen Schlawittchen als am
           radegebrochenen Wort packten, konnte keiner von ihnen dem Durchbruch zur Schönheit und
           Wahrheit vorweisen.</p>
         <p>So gesehen wußte man eigentlich alles oder auch nichts, je nach dem, abgesehen von den
@@ -680,12 +684,12 @@
           diesen wenigen leutselig vorgetragenen verbalen Brennstößen wurde ein Taifun ausgelöst,
           der durch alle soziologischen und ökonomischen Ebenen raste und Feuerwirbel im Laufwerk
           der politischen Uhr veranstaltete. Depeschen höchster Regierungsmitglieder gingen beim
-          Verlag ein, Abgeordnete aller <pb n="21"/> Parteien wurden bei Bruno vorstellig,
-          Journalisten brachen wiederholt in sein als Hobby betriebenes Fotoatelier ein und diverse
-          Attentate verfehlten ihr Ziel nur knapp – aber alles vergebens, Organisation und
-          Geheimhaltung der Arbeit waren perfekt und lückenlos, keine Andeutung, keine versteckte
-          Anspielung oder verdeckter Hinweis drangen nach draußen, was offensichtlich von dem
-          Umstand herrührte, daß außer den wenigen, effektiv notwendigen Mitarbeitern nicht eine
+          Verlag ein, Abgeordnete aller <pb n="21" xml:id="p21"/> Parteien wurden bei Bruno
+          vorstellig, Journalisten brachen wiederholt in sein als Hobby betriebenes Fotoatelier ein
+          und diverse Attentate verfehlten ihr Ziel nur knapp – aber alles vergebens, Organisation
+          und Geheimhaltung der Arbeit waren perfekt und lückenlos, keine Andeutung, keine
+          versteckte Anspielung oder verdeckter Hinweis drangen nach draußen, was offensichtlich von
+          dem Umstand herrührte, daß außer den wenigen, effektiv notwendigen Mitarbeitern nicht eine
           überflüssige Person über Bedeutung und Umfang des sogenannten Buches auch nur ansatzweise
           informiert war – denn inzwischen rechtfertigte sich der gewaltige Aufwand selbst für die
           Fahnenträger des Verlages kaum noch mit einem Buch allein.</p>
@@ -709,8 +713,8 @@
           Schnüfflerlizenz gerechnet. Gegenüber dem in autoritärer Allmacht erstrahlenden grauen
           Büro (<foreign xml:lang="it"><emph>agenzia sommerse</emph></foreign>) jedoch trübten sich
           meine sonst so lässig bei der Stange gehaltenen Gedanken zu einem Durcheinander ein. Auch
-          der Anblick der mich im mir zugewiesenen <pb n="22"/> Zimmer erwartenden, zu allem
-          Überfluß auch noch maskierten Personen trug nicht besonders zur Klärung meiner
+          der Anblick der mich im mir zugewiesenen <pb n="22" xml:id="p22"/> Zimmer erwartenden, zu
+          allem Überfluß auch noch maskierten Personen trug nicht besonders zur Klärung meiner
           gedanklichen Irrungen bei; die wenigen Einsichten, die ich dieser Situation abzugewinnen
           vermochte, wie etwa meine völlige Unkenntnis aller Anwesenden, ganz abgesehen von den
           infolge ihrer Maskierung nurmehr mangelhaften individuellen Unterscheidungskriterien,
@@ -802,8 +806,8 @@
           noch das Schließgeräusch der Tür zur Kenntnis nahm. Erst nachdem ich den Raum wohl an die
           fünf oder sechs Male auf mögliche einsame Schafe der Notenherde abgetastet hatte, wandte
           ich meine Aufmerksamkeit wieder den Menschen zu, von denen allerdings kein einziger mehr
-          anwesend war, was bedeuten soll, daß sie wirklich <pb n="25"/> nicht mehr vorhanden,
-          verschwunden, sich in Luft aufgelöst hatten.</p>
+          anwesend war, was bedeuten soll, daß sie wirklich <pb n="25" xml:id="p25"/> nicht mehr
+          vorhanden, verschwunden, sich in Luft aufgelöst hatten.</p>
         <p>Da sich nun auch für mich keine Notwendigkeit weiterer Anwesenheit in diesem Zimmer
           stellte, klemmte ich vorsichtshalber das Geldbündel unter mein Hemd, schlich, nach allen
           Seiten witternd, aus dem Gebäude und eilte nach Hause, um dort alles weitere zu
@@ -831,13 +835,13 @@
           mündete meine Suche immerhin in folgendem Abschnitt: »Carmen Nova. Das Werk der Werke! Was
           im Vorfeld schon Grauen und Entsetzen, aber auch Hoffnung und Freude freisetzte, das Buch
           der Weisheit und Wollust – es wird erscheinen, es muß erscheinen. Hoffen und glauben sie
-          mit uns, vertrauen sie auf uns, <pb n="26"/> denken sie an uns. Carmen, Ekstase, Rache,
-          Freilebigkeit – Carmen, Aggressivität und tollkühner Tanz am Firmament, wir denken daran,
-          auch ohne Werk, sie glauben an uns, auch ohne Autor.« So oder ähnlich lautete die
-          Erläuterung zum Buch und endete mit einem unverbindlichen Neujahrswunsch und der allgemein
-          gehaltenen Sehnsucht nach dem nächsten Sommerurlaub, die ihre Bezugspunkte sicherlich aus
-          dem zur Zeit gängigen Witz vom Weihnachtsmann im Mallorca-Urlaub sogen, dessen Pointe mir
-          leider entfallen war.</p>
+          mit uns, vertrauen sie auf uns, <pb n="26" xml:id="p26"/> denken sie an uns. Carmen,
+          Ekstase, Rache, Freilebigkeit – Carmen, Aggressivität und tollkühner Tanz am Firmament,
+          wir denken daran, auch ohne Werk, sie glauben an uns, auch ohne Autor.« So oder ähnlich
+          lautete die Erläuterung zum Buch und endete mit einem unverbindlichen Neujahrswunsch und
+          der allgemein gehaltenen Sehnsucht nach dem nächsten Sommerurlaub, die ihre Bezugspunkte
+          sicherlich aus dem zur Zeit gängigen Witz vom Weihnachtsmann im Mallorca-Urlaub sogen,
+          dessen Pointe mir leider entfallen war.</p>
         <p>Irritiert und unschlüssig verließ ich daraufhin die Buchhandlung und schlenderte die
           Straße hinab. Die Sonne färbte sich nach und nach zur Blutorange ein und übergoß die immer
           noch vielköpfig belebte Szenerie mit einem Hauch von Untergang. Müde und resigniert, woran
@@ -892,17 +896,17 @@
           Wesen.</p>
         <p>Als zu geschmacklos empfand ich diesen Scherz, um auch nur ein Wort generöser Nachsicht
           oder ernsthafter Prüfung daran zu verschwenden, schon gedachte ich mich abzuwenden, als am
-          gegenüberliegenden <pb n="28"/> Rand der Ansammlung zufällig eine Person ins Sichtfeld
-          geriet, der ich gewisse Ähnlichkeiten mit meinen Auftraggebern nicht absprechen konnte.
-          Ohne Umschweife steuerte ich auf ihn zu und versperrte mit einem offensiven »Hallo Mister«
-          sogleich sämtliche Fluchtwege. Im Schneckentempo drehte er mir den Kopf zu und musterte
-          mich mit einem unendlich lange währenden Blick, den er kaum mehr einzufangen in der Lage
-          war. Dann endlich preßte er ein »Sie auch?« über die Lippen und schlug, begeleitet von
-          einem mir verschwörerisch zugeraunten »Viva Carmen«, mit seinem behandschuhten rechten
-          Zeigefinger ein Kreuz über mein Gesicht. Wenn diese geheimnisvollen Maßnahmen mich an
-          einen Geheimbund glauben machen sollten, dann, Freunde, hatte man mit meiner Person hier
-          sicherlich den falschen erwischt, denn so töricht war ich nun auch wieder nicht, daß ich
-          auf den ersten und sicherlich nicht besten Trick hereinfiel.</p>
+          gegenüberliegenden <pb n="28" xml:id="p28"/> Rand der Ansammlung zufällig eine Person ins
+          Sichtfeld geriet, der ich gewisse Ähnlichkeiten mit meinen Auftraggebern nicht absprechen
+          konnte. Ohne Umschweife steuerte ich auf ihn zu und versperrte mit einem offensiven »Hallo
+          Mister« sogleich sämtliche Fluchtwege. Im Schneckentempo drehte er mir den Kopf zu und
+          musterte mich mit einem unendlich lange währenden Blick, den er kaum mehr einzufangen in
+          der Lage war. Dann endlich preßte er ein »Sie auch?« über die Lippen und schlug,
+          begeleitet von einem mir verschwörerisch zugeraunten »Viva Carmen«, mit seinem
+          behandschuhten rechten Zeigefinger ein Kreuz über mein Gesicht. Wenn diese geheimnisvollen
+          Maßnahmen mich an einen Geheimbund glauben machen sollten, dann, Freunde, hatte man mit
+          meiner Person hier sicherlich den falschen erwischt, denn so töricht war ich nun auch
+          wieder nicht, daß ich auf den ersten und sicherlich nicht besten Trick hereinfiel.</p>
         <p>Stattdessen drehte ich den Spieß um und befragte ihn nach dem Plakathalter. Anfangs noch
           erkundigte ich mich recht unverbindlich nach seinen Gewohnheiten, Ansprüchen und
           Krankheiten, später dann, als ich noch immer keine befriedigenden Antworten über Herkunft
@@ -921,8 +925,8 @@
           dieser Stelle eingefunden, um den Auftrag unerledigt an seinen Mandanten zurückzugeben.
           Nur schwerlich erwehrte ich mich eines spöttischen Grinsens über diese so stümperhaft
           zusammengekleisterte Story, zog es aber vor, mich nicht eingehender nach spezifischen
-          verräterischen Details <pb n="29"/> zu erkundigen, da ich mir sicher war, daß die
-          notdürftig zusammengeschusterten Antworten meines Gegenübers keine echten
+          verräterischen Details <pb n="29" xml:id="p29"/> zu erkundigen, da ich mir sicher war, daß
+          die notdürftig zusammengeschusterten Antworten meines Gegenübers keine echten
           bedeutungsträchtigen Indizien enthalten würden.</p>
         <p>Ich bedankte <sic>mir</sic> daher, im Stillen über seine Menschenunkenntnis lachend, die
           ihn offensichtlich glauben ließ, einen Meister des Aufspürens wie mich mit einigen simplen
@@ -952,7 +956,7 @@
           seine eigene Zwangsjacke der Schuld, deren Ursache zwar noch zwischen den Fadenmustern
           schlief, aber ihr sichtbares Auftauchen verhalten und gesetzten Schrittes bereits
           souflierte.</p>
-        <pb n="30"/>
+        <pb n="30" xml:id="p30"/>
         <p>Nach einer endlos währenden Odyssee durch die anrüchigen Viertel der Metropole, in der
           die Wahrscheinlichkeitsquoten meiner Vermutungen stetig anzogen, bogen wir endlich in eine
           Toreinfahrt, hinter der ein langgesteckter Hof den Strom der Verdachtsmomente geradewegs
@@ -981,19 +985,19 @@
           ich mich sofort an die Suche, die mich in Ermangelung einer Systematik an die
           nächstliegende Wohnungstür klopfen ließ, noch während ich mir übereilt eine Begründung
           meiner Störung zusammenreimte.</p>
-        <p>Leise quietschend öffnete sich die Tür und warf einen kleinen spitzen <pb n="31"/> Keil
-          schwachen Lichtes hinaus, der in meiner linken Gesichtshälfte einschlug. Im Begriff eine
-          fadenscheinige Erklärung vorzutragen, besann ich mich, von mir selbst überrascht, eines
-          anderen und blinzelte dem kleinen Torhüter, einem Mädchen von sechs oder sieben Jahren,
-          allwissend zu: »Carmen?« Es war wohl eine jener unbewußten Eingebungen, die man in
-          Momenten höchster Anspannung und tiefsten Seinsglaubens, wie ich sie durchlebt hatte,
-          erfährt, in denen Empfindsamkeit für situative Verhältnisse auf das äußerste geschärft und
-          Sensibilität für Begriffsräume entscheidend verfeinert, Taten und Worte wie von
-          Geisterhand gelenkt werden. Ohne mich weiter in die Geheimnisse der Intuition zu
-          verlieren, packte ich umstandslos das Glück an seiner winzigen Hand und ließ mich von ihm
-          durch einen langen Flur, dessen Wände von einer im schwachem Licht kaum über die Umrisse
-          hinaus erstrahlenden Ahnengalerie gesäumt waren, in einem grell erleuchteten Raum
-          geleiten, in dem sich eine Gesellschaft munterer Leute eingefunden hatte. Vor dem in
+        <p>Leise quietschend öffnete sich die Tür und warf einen kleinen spitzen <pb n="31"
+            xml:id="p31"/> Keil schwachen Lichtes hinaus, der in meiner linken Gesichtshälfte
+          einschlug. Im Begriff eine fadenscheinige Erklärung vorzutragen, besann ich mich, von mir
+          selbst überrascht, eines anderen und blinzelte dem kleinen Torhüter, einem Mädchen von
+          sechs oder sieben Jahren, allwissend zu: »Carmen?« Es war wohl eine jener unbewußten
+          Eingebungen, die man in Momenten höchster Anspannung und tiefsten Seinsglaubens, wie ich
+          sie durchlebt hatte, erfährt, in denen Empfindsamkeit für situative Verhältnisse auf das
+          äußerste geschärft und Sensibilität für Begriffsräume entscheidend verfeinert, Taten und
+          Worte wie von Geisterhand gelenkt werden. Ohne mich weiter in die Geheimnisse der
+          Intuition zu verlieren, packte ich umstandslos das Glück an seiner winzigen Hand und ließ
+          mich von ihm durch einen langen Flur, dessen Wände von einer im schwachem Licht kaum über
+          die Umrisse hinaus erstrahlenden Ahnengalerie gesäumt waren, in einem grell erleuchteten
+          Raum geleiten, in dem sich eine Gesellschaft munterer Leute eingefunden hatte. Vor dem in
           Grüppchen über das Zimmer verstreuten sich laut Unterhaltenden, trennte ein Vorhang ein
           Podest ab, das trotz geringer Breite den Eindruck einer Theaterbühne erweckte.
           Erwartungsfreudig schritt ich die lautere Gesellschaft ab, wobei ich allerdings keinen
@@ -1011,7 +1015,7 @@
           Carmen erwartet sie. Sie kennen das, mein Freund,« und rauschte, ohne auf eine Entgegnung
           zu warten, davon, um mit erhobener Stimme, Silentium erheischend, den Beginn des Stückes
           zu verkünden.</p>
-        <pb n="32"/>
+        <pb n="32" xml:id="p32"/>
         <p>Eilends machten es sich die Gäste auf den hinter dem Vorhang herbeigeschafften Stühlen
           bequem und verharrten in spannungsglucksendem Gemurmel. Letztes Geräuspere und
           Gewänderrauschen fielen wie herbstliche Blätter zu Boden, über den sich nun langsam die
@@ -1041,14 +1045,14 @@
           Zuschauer gleichsam an seinem kometenhaften Schweif von Bedeutung auf; <emph>Carmen</emph>
           fegte es durch den Raum, worauf sich, durch ein Stichwort vereint, die vorderen
           Zuschauerreihen wie Lemminge mit gezückten Messern auf die Bühne stürzten. In irrsinniger
-          Wut stachen sie auf alles ein, <pb n="33"/> was sich bewegte, feierten gleichsam
-          besinnungslos ein Fest des Blutes. Meterhoch spritzte der kostbare Saft zur Decke, Schreie
-          umwölkten mein Gehirn, während Stuhlbeine die Luft zerschlugen und einen Stützpfeiler des
-          Theaters einknicken ließen, der im Fall den Vorhang zerriß und unter ihm einen Teil der
-          Bühne begrub. Überall vernahm ich die erstickten Todesschreie und die Hilferufe der
-          Verwundeten, als ich mir, von einem zwischen die Augen gerammten Ellenbogen erfrischt, den
-          Weg durch das Chaos zu meinem Doppelgänger bahnte, der vom Tohuwabohu unberührt, in seinem
-          Stuhl saß und mir spöttisch entgegengrinste.</p>
+          Wut stachen sie auf alles ein, <pb n="33" xml:id="p33"/> was sich bewegte, feierten
+          gleichsam besinnungslos ein Fest des Blutes. Meterhoch spritzte der kostbare Saft zur
+          Decke, Schreie umwölkten mein Gehirn, während Stuhlbeine die Luft zerschlugen und einen
+          Stützpfeiler des Theaters einknicken ließen, der im Fall den Vorhang zerriß und unter ihm
+          einen Teil der Bühne begrub. Überall vernahm ich die erstickten Todesschreie und die
+          Hilferufe der Verwundeten, als ich mir, von einem zwischen die Augen gerammten Ellenbogen
+          erfrischt, den Weg durch das Chaos zu meinem Doppelgänger bahnte, der vom Tohuwabohu
+          unberührt, in seinem Stuhl saß und mir spöttisch entgegengrinste.</p>
         <p>Und wieder tat einer so, als ob er mich schon seit Unzeiten erwartet, meinen Lebenslauf
           auswendig kennen und mich nur noch als stereotypes Versatzstück seines Puzzles betrachten
           würde: »Na, das wurde ja auch Zeit«, seufzte er und zündete sich, unbeachtet des von
@@ -1071,18 +1075,18 @@
           ganz gewöhnlicher.« Er hielt inne und lauschte reglos dem Klang seiner Worte, dann
           plötzlich erhob er sich und wandte sich zum Gehen. Ehe er jedoch die ersten Schritte in
           Richtung Ausgang getätigt hatte, griff ich ihm, von einem Wutanfall übermannt, zwischen
-          die Haare und riß die Maske oder das, was <pb n="34"/> meine Eingebung als Maske gemutmaßt
-          hatte, vom Gesicht. Wenn es auch keine Maske im eigentlichen Sinne war, so bildeten die
-          mir in die Finger fallenden verstellenden Teile von Toupet, Bart und Nasenfortsatz eine
-          zumindest fragmentarische Gesichtstarnung, hinter der nun eine etwas gealterte Version
-          jenes Plakathalters zum Vorschein kam, dessen Botschaft ich einstmals sowenig Glauben
-          geschenkt hatte. Meine Brutalität einfach übergehend, strich sich der Mann über das
-          schüttere Haar, fuhr mit dem spuckebenetzten Zeigefinger über die Augenbrauen und deutete
-          mir sodann mit einem ironischen Blick an, ihm zu folgen. Wir schlängelten uns durch die in
-          allen Lagen den Boden bedeckenden Körpern, von denen die meisten tot oder nahe dem
-          Verbluten waren, und erreichten endlich die Seitenbühne, wo wir vor einer mit einem weißen
-          Kreuz markierten Tür haltmachten und anklopften. Ein schwaches von innen erklingendes
-          Herein ließ uns die Tür öffnen.</p>
+          die Haare und riß die Maske oder das, was <pb n="34" xml:id="p34"/> meine Eingebung als
+          Maske gemutmaßt hatte, vom Gesicht. Wenn es auch keine Maske im eigentlichen Sinne war, so
+          bildeten die mir in die Finger fallenden verstellenden Teile von Toupet, Bart und
+          Nasenfortsatz eine zumindest fragmentarische Gesichtstarnung, hinter der nun eine etwas
+          gealterte Version jenes Plakathalters zum Vorschein kam, dessen Botschaft ich einstmals
+          sowenig Glauben geschenkt hatte. Meine Brutalität einfach übergehend, strich sich der Mann
+          über das schüttere Haar, fuhr mit dem spuckebenetzten Zeigefinger über die Augenbrauen und
+          deutete mir sodann mit einem ironischen Blick an, ihm zu folgen. Wir schlängelten uns
+          durch die in allen Lagen den Boden bedeckenden Körpern, von denen die meisten tot oder
+          nahe dem Verbluten waren, und erreichten endlich die Seitenbühne, wo wir vor einer mit
+          einem weißen Kreuz markierten Tür haltmachten und anklopften. Ein schwaches von innen
+          erklingendes Herein ließ uns die Tür öffnen.</p>
         <p>»Gestatten«, setzte mein Führer an, noch ehe die Tür ganz geöffnet und ich überhaupt ins
           Zimmer blicken konnte, wurde aber von der Stimme eines in der Mitte des offensichtlich als
           Schminkraum benutzten Zimmers stehenden Mannes unterbrochen: »Sherrinford &amp; Sacker«,
@@ -1102,9 +1106,9 @@
           allen ist gemein – und ich enthülle Ihnen sicherlich kein Geheimnis, wenn ich Ihnen
           mitteile, daß Sie heute <sic>abend</sic> nicht die einzigen aus diesem Fach hier
           Anwesenden waren –, daß sie nicht übermäßig gut bezahlt, hingegen bei Nicht-Erfolg
-          liquidiert <pb n="35"/> werden oder auch nicht. Je nachdem. Manchmal anders. Oder so.
-          Naja. Die konkreten Vereinbarungen überlasse ich dann mal meinem Freund Bruno, der Ihnen
-          sicherlich auch kein unbeschriebenes Blatt ist«, woraufhin er in den hinter ihm
+          liquidiert <pb n="35" xml:id="p35"/> werden oder auch nicht. Je nachdem. Manchmal anders.
+          Oder so. Naja. Die konkreten Vereinbarungen überlasse ich dann mal meinem Freund Bruno,
+          der Ihnen sicherlich auch kein unbeschriebenes Blatt ist«, woraufhin er in den hinter ihm
           befindlichen Wandschrank trat und verschwand. »Um es auf den Nenner zu bringen«, lächelte
           der die andere Tür des Schrankes aufklinkende Mann uns an, »sie machen weiter wie bisher,
           aber verlangen nur das Unmögliche von uns. Und: Verstehen Sie das als kleine Warnung:
@@ -1131,8 +1135,8 @@
           ab, daß der Sachverhalt Carmen Nova zumindest mehr als die Brunos und Sherrinfords
           beinhaltete, die Zeichenfolgen sich aber schneller mit deren Hilfe zu einer eindeutigen
           Spur zusammensponnen. Da uns aber zur Zeit weder der Aufenthaltsort der beiden noch die
-          Substanz <pb n="36"/> oder der Gehalt Carmens geläufig waren, hatten wir uns vorerst mit
-          den verbliebenen Bezügen zu beschäftigen.</p>
+          Substanz <pb n="36" xml:id="p36"/> oder der Gehalt Carmens geläufig waren, hatten wir uns
+          vorerst mit den verbliebenen Bezügen zu beschäftigen.</p>
         <p>Während mein Kompagnon (<foreign xml:lang="it"><emph>sommaa</emph></foreign>) aus dem
           dargestellten Faktenmaterial die Wahrscheinlichkeit eines in naher Zukunft sich
           einstellenden Schnittpunktes Carmens und unserer Handlungsstränge errechnete, verschaltete
@@ -1160,20 +1164,20 @@
         <p>Obwohl sich die Zerfallsreihen von platonischer Urteilskraft und aristotelischem
           Schlußvermögen zu einem statistischen Gleichgewicht zusammenschlossen, zahlte ich der
           Verseuchung meinen Tribut der Auflösung. Zelle um Zelle, resigniert und verwässert, sang
-          ihr Lied der Dekonstruktion. Röntgen um Röntgen, wurde das <pb n="37"/> Programm der Ideen
-          geknackt und zu einem System eigener Art ummoduliert, wurde die Einheit von Form und
-          Materie zerschlagen und der große Binder und Löser, der heilige Gestalter, in einen Kosmos
-          heidnischen Irrwitzes geworfen. So schmolz das Eis des Ordo von allen Seiten unter dem
-          Feuer von Alpha-, Beta- und Gammastrahlen, zersprang die Wahrheit des Seins ebenso wie
-          sich die Syllogismen in endlosen Zyklen verloren, sich schlußleer und aussagelahm zur
-          Atrophie entleerten, in deren schwarzem Loch Morphé und Hýlé, Akt und Potenz sich
-          verzehrten. Und Carmen? Ein System von Carmen zeugte sich selbst, Spuren von ihr trieben
-          zwischen den Zeilen ihre Blüten, erhitzten messages, jagten Sinnkorpuskeln durch die
-          Teilchenbeschleuniger der Anmut. Distinguierte Kälte und zigeunereigener Charme verglühten
-          die metallene Rüstung detektivistischer Sinnaufforstung; zu viele Lockrufe, zu verhalten
-          die Treibstoffeinspritzung. Gleich einer Verbrennung, ohne gefordert zu sein, Schmoren im
-          eigenen Saft, der schon beizeiten verdunstet war, wenngleich die Rasterung der Indizien in
-          Eingabe, Ausgabe und Gesetze als Rückstand verblieb.</p>
+          ihr Lied der Dekonstruktion. Röntgen um Röntgen, wurde das <pb n="37" xml:id="p37"/>
+          Programm der Ideen geknackt und zu einem System eigener Art ummoduliert, wurde die Einheit
+          von Form und Materie zerschlagen und der große Binder und Löser, der heilige Gestalter, in
+          einen Kosmos heidnischen Irrwitzes geworfen. So schmolz das Eis des Ordo von allen Seiten
+          unter dem Feuer von Alpha-, Beta- und Gammastrahlen, zersprang die Wahrheit des Seins
+          ebenso wie sich die Syllogismen in endlosen Zyklen verloren, sich schlußleer und
+          aussagelahm zur Atrophie entleerten, in deren schwarzem Loch Morphé und Hýlé, Akt und
+          Potenz sich verzehrten. Und Carmen? Ein System von Carmen zeugte sich selbst, Spuren von
+          ihr trieben zwischen den Zeilen ihre Blüten, erhitzten messages, jagten Sinnkorpuskeln
+          durch die Teilchenbeschleuniger der Anmut. Distinguierte Kälte und zigeunereigener Charme
+          verglühten die metallene Rüstung detektivistischer Sinnaufforstung; zu viele Lockrufe, zu
+          verhalten die Treibstoffeinspritzung. Gleich einer Verbrennung, ohne gefordert zu sein,
+          Schmoren im eigenen Saft, der schon beizeiten verdunstet war, wenngleich die Rasterung der
+          Indizien in Eingabe, Ausgabe und Gesetze als Rückstand verblieb.</p>
         <p>Wort für Wort zogen die Aussagen meiner Klienten an mir vorüber und wurden nach
           verborgenen Mustern und signalisierten Antagonismen abgetastet. Unverrichteter Dinge
           konzentrierte ich mich auf die Gespräche mit Sherrinford und Bruno, deren klischierten
@@ -1189,8 +1193,8 @@
           Beweis genug waren die von ihm forcierte Trennung sowie die überstürzte Flucht aus dem
           Theater, zu deren Zustandekommen er nicht unwesentlich beigetragen hatte. Figurierte ich
           demnach nur als Marionette dieses Ziehvaters der Paranoia?</p>
-        <p>Aus dieser Fertigung eines ellenlangen angstbeladenen Fragenkatalogs <pb n="38"/>
-          schreckte mich der plötzliche Lärm von Revolverschüssen, die mich meine
+        <p>Aus dieser Fertigung eines ellenlangen angstbeladenen Fragenkatalogs <pb n="38"
+            xml:id="p38"/> schreckte mich der plötzliche Lärm von Revolverschüssen, die mich meine
           Manipulationsvisionen einige Momente zurückstellen ließen, in denen der soeben noch im
           imaginären Kreuzverhör stehende Kompagnon aus einer Seitengasse auftauchte, mir etwas auf
           die Entfernung Unverständliches zurief, während er unablässig mit den Fingern in der Luft
@@ -1219,11 +1223,11 @@
               ><emph>paloma</emph>, mil. sl.</foreign>) des Wortlauts »es hat für mich keinen Sinn
           mehr. Das Buch ist weg, schreib du es weiter« zu und verschied. Blitzschnell löste auch
           ich mich von dieser Bildfläche ab, was in der allgemeinen Verwirrung und Empörung infolge
-          der <pb n="39"/> durch die sich überschlagenden Ereignisse, wie schon erläutert,
-          verunmöglichten Flucht des – wie immer – unbeteiligten Publikums sich als relativ
-          problemlos erwies. An einem anderen Ort und Bild, dessen Beschreibung zur Klärung des
-          Falles nicht vonnöten ist, begann ich die Aussagen des Sterbenden zu interpretieren. Ich
-          sollte also weiterschreiben, na gut, schlimmer konnte es ja nicht werden ...«</p>
+          der <pb n="39" xml:id="p39"/> durch die sich überschlagenden Ereignisse, wie schon
+          erläutert, verunmöglichten Flucht des – wie immer – unbeteiligten Publikums sich als
+          relativ problemlos erwies. An einem anderen Ort und Bild, dessen Beschreibung zur Klärung
+          des Falles nicht vonnöten ist, begann ich die Aussagen des Sterbenden zu interpretieren.
+          Ich sollte also weiterschreiben, na gut, schlimmer konnte es ja nicht werden ...«</p>
         <p>Mit diesen Zeilen brach das Buch überraschend ab, was, wie eine genauere Untersuchung der
           Seitenbindung ergab, aus der gewaltsamen Entfernung der letzten 46 Seiten resultierte.
           Enttäuscht und verunsichert erhob ich mich von meinem Leseplatz und steuerte jene
@@ -1249,10 +1253,10 @@
           allerdings nur die Wirkungen zugänglich gewesen waren.</p>
         <p>Ihre Observation verlief, kurz gefaßt, blamabel. Ich lauerte ihr zwar an der
           Bibliothekstür auf, konnte aber kaum mehr beobachten, als daß sie in die nun hinlänglich
-          bekannte schwarze Limousine <pb n="40"/> einstieg und sich mir dann aus den Augen verlor.
-          Auch ein eilends geordertes Taxi beförderte mich leider nicht mehr in die Lage, in der ich
-          zur Wiederaufnahme ihrer Spur fähig gewesen wäre, weswegen ich mich letzlich vor weniger
-          als einem Scherbenhaufen wiederfand.</p>
+          bekannte schwarze Limousine <pb n="40" xml:id="p40"/> einstieg und sich mir dann aus den
+          Augen verlor. Auch ein eilends geordertes Taxi beförderte mich leider nicht mehr in die
+          Lage, in der ich zur Wiederaufnahme ihrer Spur fähig gewesen wäre, weswegen ich mich
+          letzlich vor weniger als einem Scherbenhaufen wiederfand.</p>
         <p>Nach einigen Heimsuchungen deduktiver Natur gab ich als Losung meines weiteren Tuns das
           Axiom aus, daß bei Abwesenheit des zu untersuchenden Faktors dessen Wirkraum der Analyse
           zu unterwerfen wäre. Also stürzten wir uns auf die Bibliothek, womit wir wieder beim alten
@@ -1278,10 +1282,11 @@
           zu danken und ihn nach dem genauen Standort zu befragen. Wie der gelangweilte Leser
           inzwischen wohl vorausgesehen haben wird, kam ich jedoch nicht mehr dazu, da der Mann
           soeben mit einen Messer im Rücken verschied. Die in Windeseile organisierte Suche nach dem
-          Täter erbrachte, <pb n="41"/> wie befürchtet, auch keinen Hinweis und dennoch war ich nun
-          – über eine Leiche – das erste Mal einen Schritt vorangekommen, dem Phantom eine Schicht
-          näher, denn dieses Buch konnte mir zu jener heiß ersehnten Spur verhelfen, deren
-          geheimnisvollem Zauber schon so viele Menschen und Dinge zum Opfer gefallen waren.</p>
+          Täter erbrachte, <pb n="41" xml:id="p41"/> wie befürchtet, auch keinen Hinweis und dennoch
+          war ich nun – über eine Leiche – das erste Mal einen Schritt vorangekommen, dem Phantom
+          eine Schicht näher, denn dieses Buch konnte mir zu jener heiß ersehnten Spur verhelfen,
+          deren geheimnisvollem Zauber schon so viele Menschen und Dinge zum Opfer gefallen
+          waren.</p>
         <p>Ich schlug das Buch auf und las: »Carmen, Carmen – durch die Adern der Stadt fließt das
           Gift der Schönheit, der Schönheit, die Bestie ist«, und wieder einmal sah ich mich
           genarrt. Oder doch nicht? Hing der Schlüssel, <emph>marruchine</emph> vielleicht in den
@@ -1306,9 +1311,9 @@
           Indiziensammler und der hartgesottene Privatdektiv, die uns zu einem der umsatzstärksten
           Verlage dieser Zeit hatten wachsen lassen, zogen sich in die Welten ihrer kausalen
           Versuchsreihen zurück und wünschten, von den lesenden Touristen in Ruhe gelassen zu
-          werden. Jede neue, vom Management geförderte Veröffentlichung <pb n="42"/> in dieser
-          Richtung zog im geringsten Fall ein Ordnungsgeld von nicht unbeträchtlicher Höhe und im
-          größeren Maßstab eine Beschlagnahme der Besuchserlaubnis im märchenhaften Reich der
+          werden. Jede neue, vom Management geförderte Veröffentlichung <pb n="42" xml:id="p42"/> in
+          dieser Richtung zog im geringsten Fall ein Ordnungsgeld von nicht unbeträchtlicher Höhe
+          und im größeren Maßstab eine Beschlagnahme der Besuchserlaubnis im märchenhaften Reich der
           ratiocination nach sich, die häufig die Einmottung der gesamten Auflage zur Folge
           hatte.</p>
         <p>Obwohl sich das gesamte phantastische Land detectionistischer Kombinatorik mit dererlei
@@ -1337,10 +1342,11 @@
           Verwirrungsmanövern und Selbstschußanlagen durchsetzt erweisen würde. Gleichgültig ob
           Handlung oder Methode huldigend, der Fortgang des Werkes mußte gesichert sein, auch wenn
           er in Gestalt des Projektes selbst von statten ging. Obwohl man Kausalitätsreihen nicht
-          abgeneigt war, stellten sie in letzter Instanz kein <pb n="43"/> Muß dar, wichtig war vor
-          allem die Bewegung, wenngleich sie auch in sich selbst münden mochte. Da man mich als
-          Hauptperson oder zentralen Faktor im Auge hatte, übertrug man mir die ehrenvolle Aufgabe,
-          die Sache ins Rollen zu bringen, denn schließlich sollte ich ja von und mit ihr leben.</p>
+          abgeneigt war, stellten sie in letzter Instanz kein <pb n="43" xml:id="p43"/> Muß dar,
+          wichtig war vor allem die Bewegung, wenngleich sie auch in sich selbst münden mochte. Da
+          man mich als Hauptperson oder zentralen Faktor im Auge hatte, übertrug man mir die
+          ehrenvolle Aufgabe, die Sache ins Rollen zu bringen, denn schließlich sollte ich ja von
+          und mit ihr leben.</p>
         <p>Ich klapperte also am nächsten Morgen sämtliche beim Verlag angestellten Ghostwriter in
           der Absicht ab, ihnen ein größtmögliches Quantum von Irrwitz und Handlung zu entlocken.
           Der Vormittag verstrich und der Mittag reizte bereits meine Magenschleimhäute, als ich sie
@@ -1365,9 +1371,10 @@
           Unendlichkeit, floß vor Komplexität über, ohne auch nur näherungsweise von Verwicklungen
           gesättigt zu sein. Das Netz des Geschehens reihte sich zu Enzyclopädien, die ein
           wohlgefälliges Register ordnete, in seinen Ansatzpunkten verteilte und schlußlogisch
-          verdrahtete. Obgleich dieses Surplus an Informationen meine zerebralen <pb n="44"/>
-          Sicherungen stark belastete, entbehrte es, den Sarkasmus mit Löffeln trinkend, gerade
-          jenes Stich- und Speicherwortes, dessen wir so dringend bedurften: Carmen.</p>
+          verdrahtete. Obgleich dieses Surplus an Informationen meine zerebralen <pb n="44"
+            xml:id="p44"/> Sicherungen stark belastete, entbehrte es, den Sarkasmus mit Löffeln
+          trinkend, gerade jenes Stich- und Speicherwortes, dessen wir so dringend bedurften:
+          Carmen.</p>
         <p>Eben dieser schicksalshaften Ironie war es auch zuzuschreiben, daß ich <sic>mit</sic>
           einen anderen Weg bahnte, der mich weder über die dokumentarisierten Ereignisbusse der
           korrupten Realität transportierte noch mit den verstrickten Mustern monströs aufgeblasener
@@ -1395,14 +1402,15 @@
           Erläuterungen gesonderter Handlungsfäden zu ergehen. 2. Das große Arkanum, das über den
           Rahmen des kleinen hinaus einige spektakuläre Glanzpunkte der ihnen in 1 prophezeiten
           Möglichkeiten bietet, weswegen es auch entsprechend kostspieliger ist und schließlich
-          Nummer 3, das große Arkanum <pb n="45"/> plus einen soziologisch-philosophischen Anhang,
-          in dem wir versuchen, ihnen die Beweggründe und kausalen Zusammenhänge ihrer diversen
-          Handlungsstränge nahezubringen, was sie dementsprechend natürlich am teuersten kommen
-          würde. Alle Preise verstehen sich selbstverständlich inkl. Mehrwertssteuer und«, so fuhr
-          sie, von meinem zur Schau getragenem unsicheren Verhalten bestärkt, fort, »wenn ich ihnen
-          einen kostenlosen Rat geben darf: Die meisten unserer Kunden entscheiden sich für ein
-          Mischprogramm aus 1 und 3, was einerseits preislich entlastet, andererseits aber nicht des
-          fundierten Überblicks entbehrt.«</p>
+          Nummer 3, das große Arkanum <pb n="45" xml:id="p45"/> plus einen
+          soziologisch-philosophischen Anhang, in dem wir versuchen, ihnen die Beweggründe und
+          kausalen Zusammenhänge ihrer diversen Handlungsstränge nahezubringen, was sie
+          dementsprechend natürlich am teuersten kommen würde. Alle Preise verstehen sich
+          selbstverständlich inkl. Mehrwertssteuer und«, so fuhr sie, von meinem zur Schau
+          getragenem unsicheren Verhalten bestärkt, fort, »wenn ich ihnen einen kostenlosen Rat
+          geben darf: Die meisten unserer Kunden entscheiden sich für ein Mischprogramm aus 1 und 3,
+          was einerseits preislich entlastet, andererseits aber nicht des fundierten Überblicks
+          entbehrt.«</p>
         <p>Als Mann von Welt war ich natürlich mit solch ordinären geschäftlichen Tricks vertraut,
           lehnte deshalb höflich ab und wählt Nummer 1/pur, zumal mir kaum mehr als die für dieses
           Horoskop verlangte Summe zur Verfügung stand. Geringschätzigen Blickes zog die Wahrsagerin
@@ -1425,7 +1433,7 @@
           Wahnsinn, in der sich die Klüften von Tiefsinn und empirischen Zerfall zu neuen Höhen
           fanden, wo eine frische Brise die unüberwindlichen Hürden des Widersinns mit sich
           fortwehte und die vielfältigen Bedürfnisse von Ereignissen formulierte.</p>
-        <pb n="46"/>
+        <pb n="46" xml:id="p46"/>
         <p>Bewegt von freudiger Erregung, brachen die miniaturisierten Schemen des Handlungskatalogs
           aus der Macht der Inventarisierung und schwebten in einen Traum universaler Gültigkeit,
           wenn auch nicht Wahrheit. Von einem unsichtbaren Zeremonienmeister dirigiert, wurden die
@@ -1455,13 +1463,14 @@
           Qualität auf, so gliederte sich das Vorgehen prinzipiell nach drei Kategorien auf. Zum
           einen sei die Methode der <emph>unklaren Suche </emph>festzuhalten, die durch
           akzidentielle, unscharfe Ereignisse ausgelöst, ungerichtet, objektungebunden und
-          unsystematisch <pb n="47"/> ablaufe, des weiteren die gezielte Suche, deren Ziel aber
-          nicht weniger undeutlich denn die Auslöser in der vorhergehenden Variante verblieben, sich
-          aber durch den Anschein einer zügigen, steten Vorgehensweise, die sich nicht in den
-          Prozessen der Aleatorik verhake, unterschied und drittens schließlich war der Bereich der
-          suchenden Suche zu bestimmen, die mit der ungerichteten Suche in der fehlenden Bewegung
-          kontrastierte, weil sie sich allein auf die Mechanismen passiver Rezeption beschränkte,
-          wohl glaubend, auf diese Art die Überlebensnaheste Methode zu selektieren.</p>
+          unsystematisch <pb n="47" xml:id="p47"/> ablaufe, des weiteren die gezielte Suche, deren
+          Ziel aber nicht weniger undeutlich denn die Auslöser in der vorhergehenden Variante
+          verblieben, sich aber durch den Anschein einer zügigen, steten Vorgehensweise, die sich
+          nicht in den Prozessen der Aleatorik verhake, unterschied und drittens schließlich war der
+          Bereich der suchenden Suche zu bestimmen, die mit der ungerichteten Suche in der fehlenden
+          Bewegung kontrastierte, weil sie sich allein auf die Mechanismen passiver Rezeption
+          beschränkte, wohl glaubend, auf diese Art die Überlebensnaheste Methode zu
+          selektieren.</p>
         <p>Während der leitende Offizier dieses den Eindruck von Abgerundet- und Ausgewogenheit
           implizierende Material seinen Untergebenen vortrug, war ihm durchaus bewußt, daß er zum
           Wohle einer allgemeinen und umfassenden Systematik Erkundungen aus dem Spiel zu lassen
@@ -1484,7 +1493,7 @@
           verlegerisches Projekt Carmen tatsächlich mit dem realen Faktum gleichen Namens über
           Carmen übereinstimmte oder ob es allein als Finte fungierte, war dem Sonderressortleiter
           der Akte Carmen und Geheimdienstoffizier im Spezialauftrag nicht weniger klar.</p>
-        <pb n="48"/>
+        <pb n="48" xml:id="p48"/>
         <p>Wo also drängeln in diesem Komplet aus Rätsel und Lösung, die beide aus dem Metall der
           Botschaft geschmiedet waren, fragte, marterte ich mich, Fiktion und Realität vermengend,
           als die Wahrsagerin mir gegen ein entsprechendes Entgelt anbot, nun doch den
@@ -1544,8 +1553,8 @@
           sinnlichen Stils zogen, der den Kodex des Körpers jenseits des eifernden Fanatismus und
           solipsistischen Planes ans Licht schleuderte. Blendendes Gelb der Forsythien, schwarze,
           wilde Schönheit, die durch die illusionäre Raumerschließung barocker Gestaltungskraft
-          vagabundierte, <pb n="50"/> mit ephemeren Schnitten die sakralen Gewänder dumpfen
-          allwissenden Ordos auftrennte, den um Erbarmen flehenden und um seine Taxonomien
+          vagabundierte, <pb n="50" xml:id="p50"/> mit ephemeren Schnitten die sakralen Gewänder
+          dumpfen allwissenden Ordos auftrennte, den um Erbarmen flehenden und um seine Taxonomien
           fürchtenden Senex durch die offenen, unendlich wuchernden Verweigungen aus Kartuschen,
           Voluten, Balustern und Laternen jagte, dessen enigmatische Wege weder Richtung noch
           Perspektive festschrieben. Er stürzte von seinem Thron, weil er fallen mußte, doch er
@@ -1559,7 +1568,7 @@
         <p>Zu lesen, zu schreiben ... Carmen, Carmen – ...</p>
       </div>
     </body>
-    <pb n="51"/>
+    <pb n="51" xml:id="p51"/>
     <back>
       <head>ANHANG</head>
       <pb n="52" xml:id="p52"/>
@@ -1651,12 +1660,12 @@
             >Finnegans Wake</rs> Gestalt gegebene Chaosmos und Microchasm die wohl denkwürdigste und
           witzigste Verkörperung von Ordnung und Chaos abgeben.</p>
         <p>Insofern stellt diese Novelle auch eine Widmung an die riverrun-Poetik der Sprache selbst
-          dar. Ihre Neuveröffentlichung in einer <pb n="54"/> Zeit, da eine „afrikanisch-heitere“
-          und „senta-sentimentals“ ferne Carmen dem reichhaltigen pikardischen Repertoire wieder zum
-          Ausdruck verhilft und die coincidentia oppositorum, jenseits befriedender Lieblichkeit und
-          erbarmungswürdigen Mitleidens, in ihrer gesamten Grausamkeit wie Schönheit ins Zentrum des
-          Interesses rückt, wirkt diese Kriminalnovelle im Tangoschritt der 80er Jahre aktueller
-          denn je.</p>
+          dar. Ihre Neuveröffentlichung in einer <pb n="54" xml:id="p54"/> Zeit, da eine
+          „afrikanisch-heitere“ und „senta-sentimentals“ ferne Carmen dem reichhaltigen pikardischen
+          Repertoire wieder zum Ausdruck verhilft und die coincidentia oppositorum, jenseits
+          befriedender Lieblichkeit und erbarmungswürdigen Mitleidens, in ihrer gesamten Grausamkeit
+          wie Schönheit ins Zentrum des Interesses rückt, wirkt diese Kriminalnovelle im
+          Tangoschritt der 80er Jahre aktueller denn je.</p>
       </div>
       <pb n="55" xml:id="p55"/>
       <div type="note">
@@ -1728,11 +1737,12 @@
             >verweist auf „39 Stufen“ oder „Vertigo“ von <persName
               ref="http://www.wikidata.org/entity/Q7374">Hitchcock</persName>; die Lüftung der Maske
             dient als Voraussetzung neuer Morde/Masken, die reale Darstellung wird zu einem
-            undurchdringlichen Spielelement des Filmes. <pb n="56"/> »Jedes kann von jedem erwartet
-            werden, gemäß der Tauschwirtschaft, die sich auch auf Gesichter bezieht, und die wie in
-            einem <persName ref="http://www.wikidata.org/entity/Q7374">Alfred Hitchcock</persName>
-            Film, nicht einmal die Richtung kennt, woher der Stoß kommt.« (<persName
-              ref="http://www.wikidata.org/entity/Q57240">Ernst Bloch</persName>).</gloss>
+            undurchdringlichen Spielelement des Filmes. <pb n="56" xml:id="p56"/> »Jedes kann von
+            jedem erwartet werden, gemäß der Tauschwirtschaft, die sich auch auf Gesichter bezieht,
+            und die wie in einem <persName ref="http://www.wikidata.org/entity/Q7374">Alfred
+              Hitchcock</persName> Film, nicht einmal die Richtung kennt, woher der Stoß kommt.«
+              (<persName ref="http://www.wikidata.org/entity/Q57240">Ernst
+            Bloch</persName>).</gloss>
           <term xml:id="tor-und-torhueter" rend="italic">Tor- und Türhüter</term> – <gloss
             target="#tor-und-torhueter">»‘Alle streben doch nach dem Gesetz’, sagt der Mann, ‘wieso
             kommt es, daß in den vielen Jahren niemand außer mir Einlaß verlangt hat?’ Der Torhüter
@@ -1787,13 +1797,13 @@
           nichts anderes entgegengestellt werden kann, die sich dann wieder in den morbiden Vororten
           der Bourgeoisie von Los Angeles oder San Francisco zu Motivserien verfestigt.</p>
         <p>Den eigentlichen Schlußpunkt setzt jedoch ein anderer, eine Figur, mit der der
-          Kriminalroman seine letzte große Variation formuliert: <pb n="58"/> James Bond, zum Töten
-          lizensierter (!) Agent. Hier löst sich die detection, die Sühnung ödipalen Vergehens in
-          seiner eigenen Schematisierung auf, in der das Ziel der Entlarvung hinfällig wird.
-          Sämtliche Beziehungen, seien es die zwischen Täter und Opfer oder Indizien und Bedeutung,
-          sind im Vorhinein bekannt, das Rätsel findet sich a priori gelöst und der Reiz schwindet,
-          hart an der Grenze zum nouveau roman, zum produzierten Geschehen, daß, anstatt den Triumph
-          der Logik zu bezeichnen, den Bankrott des Denkens zelebriert (<persName
+          Kriminalroman seine letzte große Variation formuliert: <pb n="58" xml:id="p58"/> James
+          Bond, zum Töten lizensierter (!) Agent. Hier löst sich die detection, die Sühnung ödipalen
+          Vergehens in seiner eigenen Schematisierung auf, in der das Ziel der Entlarvung hinfällig
+          wird. Sämtliche Beziehungen, seien es die zwischen Täter und Opfer oder Indizien und
+          Bedeutung, sind im Vorhinein bekannt, das Rätsel findet sich a priori gelöst und der Reiz
+          schwindet, hart an der Grenze zum nouveau roman, zum produzierten Geschehen, daß, anstatt
+          den Triumph der Logik zu bezeichnen, den Bankrott des Denkens zelebriert (<persName
             ref="http://www.wikidata.org/entity/Q1283738">Boileau</persName>/<persName
             ref="http://www.wikidata.org/entity/Q1686762">Narcejac</persName>). Die 007-Romane
           suggerieren die Etablierung eines ordnenden Kanons auf einer Ebene, auf der sich
@@ -1819,9 +1829,9 @@
           eine Angst des sich selbst in Frage stellenden Denkens eigener Erkenntnis einnistet, lebt
           in jeder Form von detection – literarisch oder wissenschaftlich – immer wieder auf. Der
           Anfang des Alphas, das wie das Omega des Endes in den Falten des Alephs siedelt,
-          (Steinbock Wassermann...), seiner <pb n="59"/> Schalen Schluß um Schluß, Aufdeckung um
-          Aufdeckung entblättert, der chaotisierende Sündenfall, der sich zwischen die göttliche
-          Parallelität von Menschen und Dingen schiebt und uns in die Historizität eines
+          (Steinbock Wassermann...), seiner <pb n="59" xml:id="p59"/> Schalen Schluß um Schluß,
+          Aufdeckung um Aufdeckung entblättert, der chaotisierende Sündenfall, der sich zwischen die
+          göttliche Parallelität von Menschen und Dingen schiebt und uns in die Historizität eines
           Zeichensystems zwingt, dem die Dechiffrierung eines Anderen in den Maßen des Gleichen
           zukommt.</p>
         <p>Das Verbrechen, der Mord spielt dabei die Rolle der Paradiesvertreibung wie des
@@ -1858,14 +1868,14 @@
           einen Raum von gleichwertigen Alternativen. Neben <persName
             ref="http://www.wikidata.org/entity/Q868">Aristoteles</persName>, dem großen Logiker und
           Götzen klassischer Kriminalliteratur wie mittelalterlichen Kommentars, – eine nicht
-          zufällige Koinzidenz – tritt nun Carmen, <pb n="60"/> der Zufall des tangoartig
-          stilisierten Kriminogenen, der ruchlosen Eleganz, die in cortes und quebradas durch die
-          Welt tanzt, sich an ihr schadlos hält, ohne sie festzuhalten. Voraussetzung dafür ist die
-          Distanz zu sich selbst und zur Welt, deren Ansicht nicht mehr unschuldig und fromm mit den
-          Erkenntnismodellen verschmilzt, sondern in einem Balanceakt der Ironie in der Schwebe
-          gehalten wird. Einer Ironie, die die methodische Form, die Art der Rede und den Stil in
-          den Vordergrund stellt, zum wesentlichen erklärt, ohne den starren opaken Gewichtigkeiten
-          aufzusitzen.</p>
+          zufällige Koinzidenz – tritt nun Carmen, <pb n="60" xml:id="p60"/> der Zufall des
+          tangoartig stilisierten Kriminogenen, der ruchlosen Eleganz, die in cortes und quebradas
+          durch die Welt tanzt, sich an ihr schadlos hält, ohne sie festzuhalten. Voraussetzung
+          dafür ist die Distanz zu sich selbst und zur Welt, deren Ansicht nicht mehr unschuldig und
+          fromm mit den Erkenntnismodellen verschmilzt, sondern in einem Balanceakt der Ironie in
+          der Schwebe gehalten wird. Einer Ironie, die die methodische Form, die Art der Rede und
+          den Stil in den Vordergrund stellt, zum wesentlichen erklärt, ohne den starren opaken
+          Gewichtigkeiten aufzusitzen.</p>
         <p>Nous autres, athees, Wir, die Gottlosen – diese von <persName
             ref="http://www.wikidata.org/entity/Q160333">Mérimée</persName> überlieferte Wendung,
           die ihn sich wohltuend von den Verehrern <persName
@@ -1915,7 +1925,7 @@
           <speaker>Eco:</speaker>
           <p>Nein, so ist das sicherlich nicht gemeint. Es ist eher so, daß der Zufall das
             unersetzliche Pandon zu jeglichem Ordnungsmodell des Menschen, jedem semiologischen
-            Prinzip, <pb n="62"/> ist, der Zufall also immer den Grenzstein für unser
+            Prinzip, <pb n="62" xml:id="p62"/> ist, der Zufall also immer den Grenzstein für unser
             Zeichnungsvermögen stellt. Insofern wirkt der Zufall aber auch als Katalysator dieser
             Systeme, indem er sie bei überhöhter und unerträglicher Geschlossenheit und
             Eindeutigkeit sprengt und so die Perspektive auf offenere Verweisungsnetze einbringt.
@@ -1948,7 +1958,7 @@
             noch über Botschaften von geringem Informationsgehalt. Ordnung und Unordnung sind also,
             wie du siehst, relative Begriffe.</p>
         </sp>
-        <pb n="63"/>
+        <pb n="63" xml:id="p63"/>
         <sp>
           <speaker>Liberation:</speaker>
           <p>Trotzdem sagt aber William von Baskerville, daß wir nur einem Anschein von Ordnung
@@ -1971,7 +1981,7 @@
         </sp>
         <p>(...)</p>
       </div>
-      <pb n="64"/>
+      <pb n="64" xml:id="p64"/>
     </back>
   </text>
 </TEI>
