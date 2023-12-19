@@ -16,11 +16,18 @@
         </author>
         <respStmt>
           <resp>Encoded by</resp>
-          <name type="org">RA5 of EXC2020 »Temporal Communities«</name>
+          <name type="person" ref="https://orcid.org/0009-0001-0013-7205">Dîlan Canan Çakir</name>
+          <name type="person" ref="https://orcid.org/0000-0003-2419-6629">Frank Fischer</name>
+          <name type="person" ref="https://orcid.org/0000-0002-7334-781X">Viktor J. Illmer</name>
+          <name type="person" ref="">Jonas Rohe</name>
+          <name type="person" ref="https://orcid.org/0000-0002-4337-2467">Mark Schwindt</name>
+          <name type="person" ref="https://orcid.org/0000-0002-3845-605X">Bart Soethaert</name>
+          <name type="person" ref="">Lilly Welz</name>
+          <name type="person" ref="">Roya Zendebudie</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>RA5 of EXC2020 »Temporal Communities«</publisher>
+        <publisher>RA5 of EXC2020 »Temporal Communities« at Freie Universität Berlin</publisher>
         <idno type="URL">https://www.temporal-communities.de/research/digital-communities/</idno>
         <availability>
           <!-- fake publisher -->
@@ -1786,8 +1793,9 @@
           Sämtliche Beziehungen, seien es die zwischen Täter und Opfer oder Indizien und Bedeutung,
           sind im Vorhinein bekannt, das Rätsel findet sich a priori gelöst und der Reiz schwindet,
           hart an der Grenze zum nouveau roman, zum produzierten Geschehen, daß, anstatt den Triumph
-          der Logik zu bezeichnen, den Bankrott des Denkens zelebriert (<persName ref="Q1283738"
-            >Boileau</persName>/<persName ref="Q1686762">Narcejac</persName>). Die 007-Romane
+          der Logik zu bezeichnen, den Bankrott des Denkens zelebriert (<persName
+            ref="http://www.wikidata.org/entity/Q1283738">Boileau</persName>/<persName
+            ref="http://www.wikidata.org/entity/Q1686762">Narcejac</persName>). Die 007-Romane
           suggerieren die Etablierung eines ordnenden Kanons auf einer Ebene, auf der sich
           action-determinierter Macrokosmos und minuziös aufgelisteter Mikrokosmos gegenseitig
           bedingen. Während sich das Beiläufige – das Geläufige – zu seitenlangen Beschreibungen
