@@ -10,6 +10,13 @@ main {
   background-color: antiquewhite;
   padding-inline: 2em;
 }
+a, a:visited {
+  color: black;
+  transition: opacity 0.5s ease-in-out;
+}
+a:hover {
+  opacity: 0.5;
+}
 tei-front,
 tei-back,
 tei-prologue,
@@ -31,10 +38,10 @@ tei-cit {
   max-width: 42ch;
 }
 tei-persname, tei-author {
-  background-color: yellow;
+  background-color: rgba(255, 255, 0, 0.5);
 }
 tei-rs {
-  background-color: aqua;
+  background-color: rgba(127, 255, 212, 0.5);
 }
 tei-quote,
 tei-emph,
