@@ -50,7 +50,9 @@
       }
 
       CETEIcean.addBehaviors(behaviors)
-      CETEIcean.getHTML5("../carmen_nova.xml").then((data) => {
+      CETEIcean.getHTML5(
+        "https://raw.githubusercontent.com/temporal-communities/carmen-nova/main/carmen_nova.xml",
+      ).then((data) => {
         document.body.appendChild(data)
       })
     </script>
