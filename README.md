@@ -1,4 +1,4 @@
-# TEI Edition of *Carmen Nova*: Aspects of a Pseudo Umberto Eco Novella
+# TEI Edition of *Carmen Nova* (Pseudo Umberto Eco Novella)
 
 ## Scan
 - Staats- und Universitätsbibliothek (SuUB) Bremen ([urn:nbn:de:gbv:46:1-162417](https://nbn-resolving.org/urn:nbn:de:gbv:46:1-162417))
@@ -7,7 +7,7 @@
 - orthografische Fehler, inkl. Namen (*Hammet* statt *Hammett*, *Hemmingway* statt *Hemingway*)
 - grammatische Fehler
 - Anführungszeichen (wechseln zwischen »« und „“)
-- Absätze: einfache Zeilenumbrüche vs. Zeilenumbruch plus Leerzeile
+- Textstrukturierung: einfache Absätze vs. Absätze plus Leerzeile (parskip)
 - Zitate aus der pseudo-italienischen Vorlage
 
 ## TEI
