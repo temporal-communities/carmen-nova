@@ -29,6 +29,9 @@ tei-cit {
 tei-persname {
   background-color: yellow;
 }
+tei-rs {
+  background-color: aqua;
+}
 tei-quote,
 tei-emph,
 [rend="italic"] {
