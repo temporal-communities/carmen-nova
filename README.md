@@ -2,6 +2,7 @@
 
 ## Webversion
 - https://temporal-communities.github.io/carmen-nova/
+- Erstveröffentlichung: 20. Dezember 2023
 
 ## Scan
 - Staats- und Universitätsbibliothek (SuUB) Bremen ([urn:nbn:de:gbv:46:1-162417](https://nbn-resolving.org/urn:nbn:de:gbv:46:1-162417))
@@ -32,7 +33,7 @@
 - längste Wörter
 - …
 
-## Carmen-Playlist
+## Carmen-Playlist 😊
 - [auf YouTube](https://www.youtube.com/playlist?list=PLwwYoQq959IuCeUaNichLxaGfN1d03Kwz)
 
 ## Team
