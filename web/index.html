@@ -53,7 +53,7 @@
       CETEIcean.getHTML5(
         "https://raw.githubusercontent.com/temporal-communities/carmen-nova/main/carmen_nova.xml",
       ).then((data) => {
-        document.body.appendChild(data)
+        document.querySelector("main.container").appendChild(data)
       })
     </script>
   </head>
@@ -61,5 +61,15 @@
     <noscript>
       <p>Please enable JavaScript in your browser and reload the page.</p>
     </noscript>
+    <header>
+      <h1>TEI Edition of »Carmen Nova«.</h1>
+      <p>Based on the scan of the copy at SuUB Bremen <a href="https://nbn-resolving.org/urn:nbn:de:gbv:46:1-162417">(urn:nbn:de:gbv:46:1-162417)</a>, with kind permission. Licence: Rights of use restricted – Free access – Non-commercial.
+</p>
+      <p>Encoded by Dîlan Canan Çakir, Frank Fischer, Viktor J. Illmer, Jonas Rohe, Mark Schwindt, Bart Soethaert, Lilly Welz, Roya Zendebudie (EXC2020, Freie Universität Berlin).</p>
+      <p>First published December 20, 2023.</p>
+      <p><a href="https://github.com/temporal-communities/carmen-nova">GitHub</a> repo.</p> 
+    </header>
+    <main class="container">
+    </main>
   </body>
 </html>
