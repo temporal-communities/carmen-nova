@@ -144,3 +144,7 @@ tei-tei {
 tei-titlepage {
   display: block;
 }
+tei-sic::after {
+  content: " [sic]";
+  color: grey;
+}
