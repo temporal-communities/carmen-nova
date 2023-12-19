@@ -26,7 +26,7 @@ tei-cit {
   text-align: right;
   max-width: 42ch;
 }
-tei-persname {
+tei-persname, tei-author {
   background-color: yellow;
 }
 tei-rs {
