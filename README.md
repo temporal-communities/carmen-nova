@@ -1,4 +1,4 @@
-# TEI Edition of "Carmen Nova" – Aspects of a Pseudo Umbert Eco Novella
+# TEI Edition of *Carmen Nova*: Aspects of a Pseudo Umberto Eco Novella
 
 ## Scan
 - Staats- und Universitätsbibliothek (SuUB) Bremen ([urn:nbn:de:gbv:46:1-162417](https://nbn-resolving.org/urn:nbn:de:gbv:46:1-162417))
