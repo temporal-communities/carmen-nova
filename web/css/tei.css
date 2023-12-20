@@ -159,3 +159,6 @@ tei-sic::after {
   content: " [sic]";
   color: grey;
 }
+tei-p[rend="parskip"] {
+  margin-top: 1em;
+}
