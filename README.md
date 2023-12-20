@@ -2,7 +2,7 @@
 
 ## Webversion
 - https://temporal-communities.github.io/carmen-nova/
-- Erstveröffentlichung: 20. Dezember 2023
+- Erstveröffentlichung: 21. Dezember 2023
 - gerendert mit [CETEIcean](https://github.com/TEIC/CETEIcean)
 
 ## Scan
@@ -42,15 +42,7 @@
 - [auf YouTube](https://www.youtube.com/playlist?list=PLwwYoQq959IuCeUaNichLxaGfN1d03Kwz)
 
 ## Team
-- Miguel Araneda Lavín ([RA5](https://www.temporal-communities.de/research/digital-communities/) des Exzellenzclusters EXC2020 »Temporal Communities«, Freie Universität Berlin)
-- Dîlan Canan Çakir
-- Frank Fischer (dito)
-- Viktor J. Illmer (dito)
-- Jonas Rohe (dito)
-- Mark Schwindt (dito)
-- Bart Soethaert (dito)
-- Lilly Welz (dito)
-- Roya Zendebudie (dito)
+- Miguel Araneda Lavín, Dîlan Canan Çakir, Frank Fischer, Viktor J. Illmer, Jonas Rohe, Mark Schwindt, Bart Soethaert, Lilly Welz, Roya Zendebudie ([RA5](https://www.temporal-communities.de/research/digital-communities/) des Exzellenzclusters EXC2020 »Temporal Communities«, Freie Universität Berlin)
 
 ## Dank an
 - Niels Penke (Universität Siegen)
