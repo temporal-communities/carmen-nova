@@ -14,7 +14,8 @@ main {
   background-color: antiquewhite;
   padding-inline: 2em;
 }
-a, a:visited {
+a,
+a:visited {
   color: black;
   transition: opacity 0.5s ease-in-out;
 }
@@ -41,7 +42,8 @@ tei-cit {
   text-align: right;
   max-width: 42ch;
 }
-tei-persname, tei-author {
+tei-persname,
+tei-author {
   background-color: rgba(255, 255, 0, 0.5);
 }
 tei-rs {
