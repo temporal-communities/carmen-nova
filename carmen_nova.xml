@@ -204,8 +204,7 @@
             ><sic>Hammets</sic></persName> und dessen in <persName
             ref="http://www.wikidata.org/entity/Q23434"><sic>Hemmingwayscher</sic></persName>
           Tradition stehendem Realismus des Understatement, zeichnet sich eine Linie, die in
-            <persName ref="http://www.wikidata.org/entity/Q12807">Ecos</persName>
-          <rs type="work" ref="http://www.wikidata.org/entity/Q123511226">Giallo</rs> bewußt
+            <persName ref="http://www.wikidata.org/entity/Q12807">Ecos</persName> Giallo bewußt
           aufgedeckt und zur Sprache gebracht wird. Die nüchterne Sicht alles Subjektiven, das aus
           der Handlung exkommuniziert, und in der Stilisierung der Ordnung und ihrer
           Bewußtseinsmuster in neuer Form verehrt wird, rührt jedoch nicht allein an der <persName
@@ -239,8 +238,7 @@
           systematisch-logische Position die Grenzen ihres aufklärerischen Wirkens und fesselt sich
           selbst in zynischem Unvermögen, die Ordnung als eine unter vielen zu begreifen. Dies ist
           auch der Schnittpunkt, an dem, in selbstironischer Kategorisierung als Kriminalnovelle
-          proklamiert, <emph><rs type="work" ref="http://www.wikidata.org/entity/Q123511226"
-                ><sic>Camen</sic> Nova</rs></emph> ansetzt. <persName
+          proklamiert, <emph><sic>Camen</sic> Nova</emph> ansetzt. <persName
             ref="http://www.wikidata.org/entity/Q12807">Eco</persName> führt den Strom ironischer
           Stilisierung fort, läßt ihn explodieren und beleuchtet mit ihrem metaphorischen, manchmal
           bewußt überzogenen Schein die Lächerlichkeit moderner Endzeitmetaphysik, um die sowohl
@@ -1581,34 +1579,31 @@
       <pb n="52" xml:id="p52"/>
       <div type="note">
         <head>Editorische Notiz</head>
-        <p><rs type="work" ref="http://www.wikidata.org/entity/Q123511226">Carmen Nova</rs> wurde
-          Mitte der Sechziger Jahre unter einem Pseudonym <persName
+        <p><emph>Carmen Nova</emph> wurde Mitte der Sechziger Jahre unter einem Pseudonym <persName
             ref="http://www.wikidata.org/entity/Q12807">Umberto Ecos</persName> in der
-          Literaturzeitschrift <foreign xml:lang="it">Notizie di lingua e estetica</foreign>
-          veröffentlicht und nahm damit in ironischer Form Bezug auf eine sich zur damaligen Zeit
-          auch über Italien ausbreitenden Welle von Kriminal- und Thrillerromanen, die von den
-          italienischen Intellektuellen nur mit Geringschätzung und Desinteresse bedacht wurde.
-            <persName ref="http://www.wikidata.org/entity/Q12807">Ecos</persName> Intention war es,
-          mit dieser <foreign xml:lang="it"><rs type="work"
-              ref="http://www.wikidata.org/entity/Q123511226">giallo</rs></foreign> einerseits in
-          witziger Art und Weise auf den tiefer reichenden Hintergrund der Trivialliteratur
-          anzuspielen und andererseits die gegenüber dem Phänomen geäußerte Arroganz und Hochmut
-          bloßzustellen. Diese Novelle verweist in ihrem wissenschaftlichen Charakter unter anderem
-          auf eine nahezu gleichzeitig verfertigte Analysensammlung zum Romanwerk <persName
-            ref="http://www.wikidata.org/entity/Q12807">Ian Flemings</persName>, an der auch
-            <persName ref="http://www.wikidata.org/entity/Q12807">Eco</persName> nicht ganz
-          unbeteiligt war; insbesondere möchten wir an dieser Stelle <rs type="work"
-            ref="http://www.wikidata.org/entity/Q123862029">den Band</rs> zum <rs type="work"
-            ref="http://www.wikidata.org/entity/Q844">James Bond</rs> Genre von <persName
-            ref="http://www.wikidata.org/entity/Q3885585">Oreste del Buono</persName> und <persName
-            ref="http://www.wikidata.org/entity/Q12807">Umberto Eco</persName> anführen, in dem die
-          bis heute noch wegweisenden literaturtheoretischen, semiologischen, soziologischen und
-          psychologischen Abhandlungen über ein Zeichen unserer Zeit zusammengetragen wurden. Unter
-          anderem ist hier auch <persName ref="http://www.wikidata.org/entity/Q12807">
-            Ecos</persName> Aufsatz <foreign xml:lang="it">la strutture narrative</foreign> in
-          Fleming anzutreffen, auf den mittelbar <persName
-            ref="http://www.wikidata.org/entity/Q179109">Roland Barthes</persName> in seinem
-          Nachwort Bezug nimmt.</p>
+          Literaturzeitschrift <emph>Notizie di lingua e estetica</emph> veröffentlicht und nahm
+          damit in ironischer Form Bezug auf eine sich zur damaligen Zeit auch über Italien
+          ausbreitenden Welle von Kriminal- und Thrillerromanen, die von den italienischen
+          Intellektuellen nur mit Geringschätzung und Desinteresse bedacht wurde. <persName
+            ref="http://www.wikidata.org/entity/Q12807">Ecos</persName> Intention war es, mit dieser
+            <emph>giallo</emph> einerseits in witziger Art und Weise auf den tiefer reichenden
+          Hintergrund der Trivialliteratur anzuspielen und andererseits die gegenüber dem Phänomen
+          geäußerte Arroganz und Hochmut bloßzustellen. Diese Novelle verweist in ihrem
+          wissenschaftlichen Charakter unter anderem auf eine nahezu gleichzeitig verfertigte
+          Analysensammlung zum Romanwerk <persName ref="http://www.wikidata.org/entity/Q12807">Ian
+            Flemings</persName>, an der auch <persName ref="http://www.wikidata.org/entity/Q12807"
+            >Eco</persName> nicht ganz unbeteiligt war; insbesondere möchten wir an dieser Stelle
+            <rs type="work" ref="http://www.wikidata.org/entity/Q123862029">den Band</rs> zum <rs
+            type="work" ref="http://www.wikidata.org/entity/Q844">James Bond</rs> Genre von
+            <persName ref="http://www.wikidata.org/entity/Q3885585">Oreste del Buono</persName> und
+            <persName ref="http://www.wikidata.org/entity/Q12807">Umberto Eco</persName> anführen,
+          in dem die bis heute noch wegweisenden literaturtheoretischen, semiologischen,
+          soziologischen und psychologischen Abhandlungen über ein Zeichen unserer Zeit
+          zusammengetragen wurden. Unter anderem ist hier auch <persName
+            ref="http://www.wikidata.org/entity/Q12807"> Ecos</persName> Aufsatz <foreign
+            xml:lang="it">la strutture narrative</foreign> in Fleming anzutreffen, auf den mittelbar
+            <persName ref="http://www.wikidata.org/entity/Q179109">Roland Barthes</persName> in
+          seinem Nachwort Bezug nimmt.</p>
         <p>Liest man diese Analysen heute erneut, so muß man feststellen, daß sie wohl bis dato noch
           immer zu dem besten vorliegenden Material in diesem Bereich zählen. Neben dem wenig später
           in Frankreich von den Kriminalromanautoren <persName
@@ -1644,13 +1639,12 @@
           Begeisterung in sich, wie wir sie als Voraussetzung jeglicher Ironie empfinden. Wie diese
           voluntaristische Anschauung dann aber wieder an der vom Zufall beherrschten Welt eines
           Zeichendschungels postmoderner Coleur zerplatzt und somit einer „strukturellen“ Ironie zum
-          Ausdruck verhilft, erzählen uns <rs type="work"
-            ref="http://www.wikidata.org/entity/Q123511226">Carmen Nova</rs> und <rs type="work"
-            ref="http://www.wikidata.org/entity/Q155018">Der Name der Rose</rs> gleichermaßen,
-          obwohl die anders ausgerichtete Novelle diese Kraft mehr in nuce zu offenbaren scheint,
-          wohingegen der große Roman jenseits stilistischer Verkürzung – was ja gerade den Reiz der
-          Novelle ausmacht, ihre anekdotische Würze – das Thema vorwiegend inhaltlich
-          ausbreitet.</p>
+          Ausdruck verhilft, erzählen uns <emph>Carmen Nova</emph> und <emph><rs type="work"
+              ref="http://www.wikidata.org/entity/Q155018">Der Name der Rose</rs></emph>
+          gleichermaßen, obwohl die anders ausgerichtete Novelle diese Kraft mehr in nuce zu
+          offenbaren scheint, wohingegen der große Roman jenseits stilistischer Verkürzung – was ja
+          gerade den Reiz der Novelle ausmacht, ihre anekdotische Würze – das Thema vorwiegend
+          inhaltlich ausbreitet.</p>
         <p>Daher sind beide Werke einerseits mehr als Ergänzung denn als Wiederholung zu
           interpretieren, beleuchten sich also eher gegenseitig als sich zu überstrahlen und können
           andererseits als aneinander anschließend aufgefaßt werden. Betachten wir die vorliegende
