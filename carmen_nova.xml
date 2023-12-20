@@ -16,14 +16,15 @@
         </author>
         <respStmt>
           <resp>Encoded by</resp>
+          <name type="person">Miguel Araneda Lavín</name>
           <name type="person" ref="https://orcid.org/0009-0001-0013-7205">Dîlan Canan Çakir</name>
           <name type="person" ref="https://orcid.org/0000-0003-2419-6629">Frank Fischer</name>
           <name type="person" ref="https://orcid.org/0000-0002-7334-781X">Viktor J. Illmer</name>
-          <name type="person" ref="">Jonas Rohe</name>
+          <name type="person">Jonas Rohe</name>
           <name type="person" ref="https://orcid.org/0000-0002-4337-2467">Mark Schwindt</name>
           <name type="person" ref="https://orcid.org/0000-0002-3845-605X">Bart Soethaert</name>
-          <name type="person" ref="">Lilly Welz</name>
-          <name type="person" ref="">Roya Zendebudie</name>
+          <name type="person">Lilly Welz</name>
+          <name type="person">Roya Zendebudie</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -745,9 +746,9 @@
           Rechnungshofes aus diesem Grunde zu Tagungszwecken und ähnlichen Treffen vermietet,
           Zwecken wie eben diesen hier.« Ein stoßhaftes, kaum von der Atmung gefedertes Lachen <pb
             n="23"/> schüttelte ihn und weitete sich schnell zum Krampf, der auch nach einer höflich
-          vom Plenum zugeteilten Warteminute nicht wich. Befehlsgealtig traten zwei bisher im
-          Hintergrund verharrte Akteure vor und schlugen den noch immer in Lachsalven erbebenden,
-          inzwischen vor Anstrengung puterrot leuchtenden Sprecher mit einem stumpfen,
+          vom Plenum zugeteilten Warteminute nicht wich. <sic>Befehlsgealtig</sic> traten zwei
+          bisher im Hintergrund verharrte Akteure vor und schlugen den noch immer in Lachsalven
+          erbebenden, inzwischen vor Anstrengung puterrot leuchtenden Sprecher mit einem stumpfen,
           tuchbespannten Gegenstand über den Kopf, womit sich in Momenten ein entspannendes Koma
           über Gesicht und Körper des von Spasmen Geschüttelten verteilte. Unterdessen war ein
           weiteres Mitglied der Gruppe, die Gunst der Stunde nutzend, ins Rampenlicht getreten und
@@ -770,12 +771,13 @@
           wahrnehmende Tonband wiederzugeben: »Wieso wir gerade auf Sie gekommen sind? Nun, wir
           dachten uns, daß der Schlechteste genau dort am besten ist, wo die Besten am schlechtesten
           waren – und glauben Sie uns, wir haben alle ausprobiert, alle, angefangen mit dem großen
-            <persName ref="http://www.wikidata.org/entity/Q549047">Dupin</persName>, dessen Heil und
-          Wehe in den Fänger der ratiocination lag, fortsetzend mit <persName
-            ref="http://www.wikidata.org/entity/Q170534">Hercule Poirot</persName> und sich
-          beschleunigend über <persName ref="http://www.wikidata.org/entity/Q2533737">Sam
-            Spade</persName> und <persName ref="http://www.wikidata.org/entity/Q623732">Phillip
-            Marlowe</persName>, Capablanca der Handlung, der zwischen <sic>detectionistischer</sic>
+            <persName type="fictional" ref="http://www.wikidata.org/entity/Q549047"
+          >Dupin</persName>, dessen Heil und Wehe in den Fänger der ratiocination lag, fortsetzend
+          mit <persName type="fictional" ref="http://www.wikidata.org/entity/Q170534">Hercule
+            Poirot</persName> und sich beschleunigend über <persName type="fictional"
+            ref="http://www.wikidata.org/entity/Q2533737">Sam Spade</persName> und <persName
+            type="fictional" ref="http://www.wikidata.org/entity/Q623732"><sic>Phillip</sic>
+            Marlowe</persName>, Capablanca der Handlung, der zwischen detectionistischer
           Notwendigkeit und aufweichendem Realismus hin- und hergepeitscht wurde, sie alle <pb
             n="24"/> stellten wir zu Lüftung des Geheimnisses an, dessen Gewebe sie mit den
           Injektionen der Indizien zu vergiften oder über die Elektroschocks der Motivmuster zu
@@ -795,31 +797,31 @@
           gräulichen Linienmusters in der oberen Hälfte der Notiz, die sich im Laufe der Zeit zu
           Worten und Sätzen verdichtete, sich mir aber kaum über das »Lieber <persName
             ref="http://www.wikidata.org/entity/Q123579338">H. C. E.</persName>, ich liebe ...« der
-          Anrede hinaus entzifferte, weil man, vom <foreign xml:lang="en">Come-Back</foreign> der
-          Zauberschrift gewarnt, mir das Papier-Engramm just in dem Augenblick entwandt, als ich
-          hinter dem abschließenden »Wir melden uns« ein aus dem Weiß emportauchendes »Wir bringen
-          dich sowiewiewie ...« gewahrte. Mit einem überlegenen Grinsen verflüssigte jener Mann, in
-          dem ich den Kanülenleger vermutete, meine Gedanken zu einigen unzusammenhängenden Fragen,
-          die vollends durch eine einschmeichelnde Geste, mit der er ein Bündel Banknoten
-          herüberreichte und kurz vor Übergabe zu Boden flattern ließ, zerstreut wurden. Panik
-          zelebrierend, hetzte ich in den vor der Zugluft über den Flur geradewegs auf ein
-          halboffenes Fenster wehenden Scheinen nach, wobei ich weder die vorbeiziehenden Beinpaare
-          noch das Schließgeräusch der Tür zur Kenntnis nahm. Erst nachdem ich den Raum wohl an die
-          fünf oder sechs Male auf mögliche einsame Schafe der Notenherde abgetastet hatte, wandte
-          ich meine Aufmerksamkeit wieder den Menschen zu, von denen allerdings kein einziger mehr
-          anwesend war, was bedeuten soll, daß sie wirklich <pb n="25" xml:id="p25"/> nicht mehr
-          vorhanden, verschwunden, sich in Luft aufgelöst hatten.</p>
+          Anrede hinaus entzifferte, weil man, vom Come-Back der Zauberschrift gewarnt, mir das
+          Papier-Engramm just in dem Augenblick entwandt, als ich hinter dem abschließenden »Wir
+          melden uns« ein aus dem Weiß emportauchendes »Wir bringen dich sowiewiewie ...« gewahrte.
+          Mit einem überlegenen Grinsen verflüssigte jener Mann, in dem ich den Kanülenleger
+          vermutete, meine Gedanken zu einigen unzusammenhängenden Fragen, die vollends durch eine
+          einschmeichelnde Geste, mit der er ein Bündel Banknoten herüberreichte und kurz vor
+          Übergabe zu Boden flattern ließ, zerstreut wurden. Panik zelebrierend, hetzte ich in den
+          vor der Zugluft über den Flur geradewegs auf ein halboffenes Fenster wehenden Scheinen
+          nach, wobei ich weder die vorbeiziehenden Beinpaare noch das Schließgeräusch der Tür zur
+          Kenntnis nahm. Erst nachdem ich den Raum wohl an die fünf oder sechs Male auf mögliche
+          einsame Schafe der Notenherde abgetastet hatte, wandte ich meine Aufmerksamkeit wieder den
+          Menschen zu, von denen allerdings kein einziger mehr anwesend war, was bedeuten soll, daß
+          sie wirklich <pb n="25" xml:id="p25"/> nicht mehr vorhanden, verschwunden, sich in Luft
+          aufgelöst hatten.</p>
         <p>Da sich nun auch für mich keine Notwendigkeit weiterer Anwesenheit in diesem Zimmer
           stellte, klemmte ich vorsichtshalber das Geldbündel unter mein Hemd, schlich, nach allen
           Seiten witternd, aus dem Gebäude und eilte nach Hause, um dort alles weitere zu
           durchdenken. Obwohl mir bereits jetzt leidlich klar war, daß es gar nichts zu durchdenken
           gab, da die sich mir stellende Alternative nur formalen Charakter annahm: Handeln oder
           gehandelt werden; auf diese Weise wurde ich zwar vor der unseeligen Gefahr bewahrt, in
-          einen echten Zwiespalt zu verfallen, kam aber dennoch nicht umhin, mit neue Rätsel
-          vorzulegen, Rätsel, die sich als Fragen tarnten: Der Beginn der Suche war zum Beispiel
-          eine dieser Fragen, denn es war schließlich schon alles versucht worden, Entführungen,
-          Wanzen, Hypnose, Konkursandrohungen und -verwirklichungen, Sprengstoff, Apokalypsen, Sex,
-          Morde alle Art ...</p>
+          einen echten Zwiespalt zu verfallen, kam aber dennoch nicht umhin, <sic>mit</sic> neue
+          Rätsel vorzulegen, Rätsel, die sich als Fragen tarnten: Der Beginn der Suche war zum
+          Beispiel eine dieser Fragen, denn es war schließlich schon alles versucht worden,
+          Entführungen, Wanzen, Hypnose, Konkursandrohungen und -verwirklichungen, Sprengstoff,
+          Apokalypsen, Sex, Morde alle Art ...</p>
         <p rend="parskip">Andererseits mußte ich mir eingestehen, daß ich mich bisher noch kaum um
           den ganzen Irrsinn gekümmert hatte, noch nicht einmal wußte, um was es sich eigentlich
           genau handelte – aber wer wußte das schon? In meiner Zwickmühle, meiner hoffnungslosen
@@ -830,9 +832,9 @@
           Intelligenzquotienten, dessen Nenner ich aus verständlichen Gründen verschweige, zumal der
           sittliche Anstand mir damals gebot, meine intellektuellen Kräfte, von denen in diesem
           Kontext noch großes erwartet wurde, nicht in physiologisch-vulgären Betrachtungen über das
-          Alter, die Jahreszahl oder die Zeit in toto zu verstricken. Schnurstracks begab ich mich
-          also in die nächste Buchhandlung und hielt Einblick in die Ankündigungen von
-          Neuerscheinungen im Verlag Sherrinford &amp; Co. Nach intensiver Durchschau und
+          Alter, die Jahreszahl oder die Zeit <emph>in toto</emph> zu verstricken. Schnurstracks
+          begab ich mich also in die nächste Buchhandlung und hielt Einblick in die Ankündigungen
+          von Neuerscheinungen im Verlag Sherrinford &amp; Co. Nach intensiver Durchschau und
           weitreichenden Irrfahrten durch die Prospektregister mündete meine Suche immerhin in
           folgendem Abschnitt: »Carmen Nova. Das Werk der Werke! Was im Vorfeld schon Grauen und
           Entsetzen, aber auch Hoffnung und Freude freisetzte, das Buch der Weisheit und Wollust –
@@ -858,9 +860,10 @@
           sich ins Endlose, bis dann aus dem Nichts ein Mann auftauchte, der sich auf der Suche nach
           Carmen befand, beseelt von dem Wunsch, ihr auf die Sprünge zu helfen, die verstreuten
           Schnipsel eines carmen vita einzusammeln und auf die Menge zu verteilen, ein mythischer
-          Retter, <persName ref="http://www.wikidata.org/entity/Q47231">Odysseus</persName> und
-            <persName ref="http://www.wikidata.org/entity/Q41746">Achill</persName> in einem. Doch,
-          was geschah? Nichts <emph>(im Orig. deutsch)</emph>. Stattdessen ließ man diesen Befreier
+          Retter, <persName type="fictional" ref="http://www.wikidata.org/entity/Q47231"
+            >Odysseus</persName> und <persName type="fictional"
+            ref="http://www.wikidata.org/entity/Q41746">Achill</persName> in einem. Doch, was
+          geschah? Nichts <emph>(im Orig. deutsch)</emph>. Stattdessen ließ man diesen Befreier
           sogar hungern und frieren – konnte er aus einsichtigen Gründen es doch nicht wagen, die
           ihm auf so seltsamen Wegen zugeflogene finanzielle Unterstützung anzubrechen –, schupste
           und stieß ihn vor sich her, hauchte ihm übel riechenden Atem ins Gesicht und erniedrigte
@@ -877,25 +880,26 @@
           durchdrang meinen Körper und zerrte meine selbstergebenen Sehnsüchte aus der dunklen Höhle
           der Resignation in die offenen Weiten ungeschönter Selbsterkenntnis. Abgeklärten Kopfes
           richtete ich mich auf und trachtete allein danach, aus diesem beunruhigenden
-          Menschenstrudel auszuscheren, was mir nach langwierigen Bemühen auch gelang. Während ich
-          mich rücksichtslos durch die Menge geboxt und meinen Weg an den Rand dieses menschlichen
-          Strudels gebahnt hatte, war mein Blick starr auf den Boden fixiert gewesen, schon allein
-          um mich nicht durch neue und ablenkende Eindrücke in meinem Vorhaben irritieren zu lassen.
-          Erst jetzt, als ich mich der Menge entkommen wähnte, hob ich meinen Kopf wieder und fand
-          mich erneut in einem Menschenknäuel wieder, das sich um einen plakathaltenden Mann
-          zentriert hatte. Neben den älteren Teilnehmern an dieser laut palavernden Versammlung, die
-          vermeintlichen Glühwein zu trinken schienen, der übrigens auch mir in Anbetracht der rüden
-          Witterung gut getan hätte, trugen Jüngere Dispute über den üblichen Krimskrams unserer
-          Tage aus, dabei mutmaßlich auf den Effekt abzielend, sich die Köpfe heiß zu reden, was
-          immerhin geringfügige Erwärmung versprach. Erst jetzt selektierte ich die zuvor
-          übergangene Botschaft des Plakates aus, in der zu meiner großen Überraschung mit meinem
-          teuren Auftrag – teuer auch für mein billiges Leben – Schindluder betrieben wurde.</p>
+          Menschenstrudel auszuscheren, was mir nach <sic>langwierigen</sic> Bemühen auch gelang.
+          Während ich mich rücksichtslos durch die Menge geboxt und meinen Weg an den Rand dieses
+          menschlichen Strudels gebahnt hatte, war mein Blick starr auf den Boden fixiert gewesen,
+          schon allein um mich nicht durch neue und ablenkende Eindrücke in meinem Vorhaben
+          irritieren zu lassen. Erst jetzt, als ich mich der Menge entkommen wähnte, hob ich meinen
+          Kopf wieder und fand mich erneut in einem Menschenknäuel wieder, das sich um einen
+          plakathaltenden Mann zentriert hatte. Neben den älteren Teilnehmern an dieser laut
+          palavernden Versammlung, die vermeintlichen Glühwein zu trinken schienen, der übrigens
+          auch mir in Anbetracht der rüden Witterung gut getan hätte, trugen Jüngere Dispute über
+          den üblichen Krimskrams unserer Tage aus, dabei mutmaßlich auf den Effekt abzielend, sich
+          die Köpfe heiß zu reden, was immerhin geringfügige Erwärmung versprach. Erst jetzt
+          selektierte ich die zuvor übergangene Botschaft des Plakates aus, in der zu meiner großen
+          Überraschung mit meinem teuren Auftrag – teuer auch für mein billiges Leben – Schindluder
+          betrieben wurde.</p>
         <p>So behauptete dieses Individuum doch allen Ernstes, meine Carmen zu personifizieren! Man
           stelle sich vor, eine zufällig im Laufe eines Menschenbades angetroffene Person,
           unauffällig und gewöhnlich in Zeit und Raum situiert, ein Mensch, der also nicht einmal
-          zum Aufbewahren der Accesoires meiner Carmen geeignet, geschweige denn geboren war, eine
-          solche Person betrieb unter meinen Augen ein lästerliches Spiel mit diesem göttlichen
-          Wesen.</p>
+          zum Aufbewahren der <sic>Accesoires</sic> meiner Carmen geeignet, geschweige denn geboren
+          war, eine solche Person betrieb unter meinen Augen ein lästerliches Spiel mit diesem
+          göttlichen Wesen.</p>
         <p>Als zu geschmacklos empfand ich diesen Scherz, um auch nur ein Wort generöser Nachsicht
           oder ernsthafter Prüfung daran zu verschwenden, schon gedachte ich mich abzuwenden, als am
           gegenüberliegenden <pb n="28" xml:id="p28"/> Rand der Ansammlung zufällig eine Person ins
@@ -904,11 +908,12 @@
           Mister« sogleich sämtliche Fluchtwege. Im Schneckentempo drehte er mir den Kopf zu und
           musterte mich mit einem unendlich lange währenden Blick, den er kaum mehr einzufangen in
           der Lage war. Dann endlich preßte er ein »Sie auch?« über die Lippen und schlug,
-          begeleitet von einem mir verschwörerisch zugeraunten »Viva Carmen«, mit seinem
-          behandschuhten rechten Zeigefinger ein Kreuz über mein Gesicht. Wenn diese geheimnisvollen
-          Maßnahmen mich an einen Geheimbund glauben machen sollten, dann, Freunde, hatte man mit
-          meiner Person hier sicherlich den falschen erwischt, denn so töricht war ich nun auch
-          wieder nicht, daß ich auf den ersten und sicherlich nicht besten Trick hereinfiel.</p>
+            <sic>begeleitet</sic> von einem mir verschwörerisch zugeraunten »Viva Carmen«, mit
+          seinem behandschuhten rechten Zeigefinger ein Kreuz über mein Gesicht. Wenn diese
+          geheimnisvollen Maßnahmen mich an einen Geheimbund glauben machen sollten, dann, Freunde,
+          hatte man mit meiner Person hier sicherlich den falschen erwischt, denn so töricht war ich
+          nun auch wieder nicht, daß ich auf den ersten und sicherlich nicht besten Trick
+          hereinfiel.</p>
         <p>Stattdessen drehte ich den Spieß um und befragte ihn nach dem Plakathalter. Anfangs noch
           erkundigte ich mich recht unverbindlich nach seinen Gewohnheiten, Ansprüchen und
           Krankheiten, später dann, als ich noch immer keine befriedigenden Antworten über Herkunft
