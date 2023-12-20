@@ -14,7 +14,8 @@ main {
   background-color: antiquewhite;
   padding-inline: 2em;
 }
-a, a:visited {
+a,
+a:visited {
   color: black;
   transition: opacity 0.5s ease-in-out;
 }
@@ -41,7 +42,8 @@ tei-cit {
   text-align: right;
   max-width: 42ch;
 }
-tei-persname, tei-author {
+tei-persname,
+tei-author {
   background-color: rgba(255, 255, 0, 0.5);
 }
 tei-rs {
@@ -110,7 +112,7 @@ tei-doctitle > tei-titlepart[type="main"] {
 tei-doctitle > tei-titlepart[type="subtitle"] {
   font-size: 2em;
 }
-tei-emph[rend="bold"] {
+tei-emph[rend~="bold"] {
   font-weight: bold;
 }
 tei-figure {
@@ -124,7 +126,7 @@ tei-figure > tei-p {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
-tei-hi[rend="italics"] {
+tei-hi[rend~="italics"] {
   font-style: italic;
 }
 tei-l {
@@ -159,6 +161,10 @@ tei-sic::after {
   content: " [sic]";
   color: grey;
 }
-tei-p[rend="parskip"] {
+tei-p[rend~="parskip"] {
   margin-top: 1em;
 }
+[rend~="sans-serif"] {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
