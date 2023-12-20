@@ -173,12 +173,13 @@
                 <l>Halt ihn fest und er wird entfliehen,</l>
                 <l>weichst du ihm aus, flugs ist er da!</l>
               </lg></quote>
-            <bibl rend="italic">(<title level="a" ref="http://www.wikidata.org/entity/Q692648"
-                >Habanera</title> aus <author ref="http://www.wikidata.org/entity/Q56158"
-                >Bizets</author>
-              <title level="s" ref="http://www.wikidata.org/entity/Q185968">Carmen</title>, <title
-                level="a" ref="http://www.wikidata.org/entity/Q692648">L'amour est un oiseau
-                rebelle</title>)</bibl>
+            <bibl rend="italic">(<title level="a"><rs type="work"
+                  ref="http://www.wikidata.org/entity/Q692648">Habanera</rs></title> aus <author
+                ref="http://www.wikidata.org/entity/Q56158">Bizets</author>
+              <title level="s"><rs type="work" ref="http://www.wikidata.org/entity/Q185968"
+                  >Carmen</rs></title>, <title level="a"><rs type="work"
+                  ref="http://www.wikidata.org/entity/Q692648">L'amour est un oiseau
+                rebelle</rs></title>)</bibl>
           </cit>
         </epigraph>
       </div>
@@ -271,7 +272,7 @@
               zuvor ohne Weg ist.</quote>
             <bibl rend="italic">(<author ref="http://www.wikidata.org/entity/Q868"
                 >Aristoteles</author> – <title><rs type="work"
-                  ref="http://www.wikidata.org/entity/Q661655">Metaphysik</rs></title>) </bibl>
+                  ref="http://www.wikidata.org/entity/Q661655">Metaphysik</rs></title>)</bibl>
           </cit>
         </epigraph>
         <epigraph>
@@ -332,9 +333,9 @@
               Redensart, die von feiner Beobachtung zeugt. Wer keine Zeit hat, im zoologischen
               Garten den Blick eines Wolfes zu studieren, beobachte eine Katze, wenn sie einem Spatz
               auflauert.</emph></quote><note place="foot"><bibl><author
-                ref="http://www.wikidata.org/entity/Q160333">Mérimée</author>, <title
-                ref="http://www.wikidata.org/entity/Q674832">Carmen</title></bibl> (Der
-            Übersetzer)</note></p>
+                ref="http://www.wikidata.org/entity/Q160333">Mérimée</author>, <title><rs
+                  type="work" ref="http://www.wikidata.org/entity/Q674832"
+              >Carmen</rs></title></bibl> (Der Übersetzer)</note></p>
         <p>Carmen, Carmen – durch die Adern der Stadt fließt das Gift der Schönheit, der Schönheit,
           die Bestie ist, ohne ihrer zu bedürfen. Vipernde Straßen, die in der morgendlichen Hitze
           den Schweiß der Nacht ausdünsten, gekühlte Quader, die sich an Parallelen zu Tode reiben.
@@ -1774,29 +1775,30 @@
         <p>Vollgesogen von Ödipus, analysierte <persName ref="http://www.wikidata.org/entity/Q57240"
             >Ernst Bloch</persName> den Kriminalroman<note place="foot"><bibl><author
                 ref="http://www.wikidata.org/entity/Q57240">Ernst Bloch</author>, <title level="a"
-                >Philosophische Ansicht des Detektivromans</title>, <title level="s">Literarische
-                Aufsätze Gesamtausgabe Bd. 9</title></bibl> (Der Übersetzer)</note>, vergafft in
-          sein kleines Geheimnis ante rem; den Mord vor Handlungsbeginn, der sich im Roman
-          ausgebreitet und zugeordnet findet. Es ist der Urstoff allen Detektorischen, das seine
-          Kraft eben aus diesem immerwährenden Ur-Fall zieht, dessen Bewältigung sich im thanatalen
-          Wiederholungszwang endlos zyklisiert. In der ewigen Suche nach sich selbst, was nichts
-          anderes als die Suche nach der Suche bedeutet, textet sich das Geschehen zur Handlung.
-          Rätsel und Entzifferung betten sich in einem Raum kodifizierter Symbolik, die Sicherheit
-          wie Alleinanspruch deduktiver Logik gewähren. Es sind die verzweifelten Versuche, das
-          zerstörte mittelalterliche ordo, thomistisches dispositio, in haßgeliebter Wiederkehr des
-          Ursprungs neu erstehen zu lassen. Ein lächerliches Unterfangen wie Eco es in seiner
-          Novelle aufzeigt, mehr unfreiwillige Persiflage denn landgewinnende Dammerrichtung. Am
-          Anfang noch von der Macht der ratio überzeugt, breiten die neuzeitlichen Heroen, die
-          großen Detektive die Indizienketten aus, die sie in den vorwiegend als Tatort fungierenden
-          geschlossenen Räumen (!) eingraviert finden, entlarven in der Rue Morgue das tollwütige
-          Affentier, Inkarnation des Unlogischen, und beweisen solcherart die Überlegenheit der
-          ratiocination. Das erste Mal bringen die amerikanischen Hardboiled dieses geschlossene
-          Denkmuster in Verlegenheit, indem sie den Muff der in Kammern eingesperrten Logik in den
-          offenen Räumen der Metropole verfliegen lassen, wo ihnen eine brutale Realität kaum mehr
-          Zeit für Indizienverfahren zugesteht. So ist es denn eher Resignation gegenüber einem zwar
-          als hinfällig durchschauten Ordnungsmuster, dem aber in sarkastischer Selbsterkenntnis
-          nichts anderes entgegengestellt werden kann, die sich dann wieder in den morbiden Vororten
-          der Bourgeoisie von Los Angeles oder San Francisco zu Motivserien verfestigt.</p>
+                  ><rs type="work">Philosophische Ansicht des Detektivromans</rs></title>, <title
+                level="s"><rs type="work">Literarische Aufsätze Gesamtausgabe Bd.
+              9</rs></title></bibl> (Der Übersetzer)</note>, vergafft in sein kleines Geheimnis ante
+          rem; den Mord vor Handlungsbeginn, der sich im Roman ausgebreitet und zugeordnet findet.
+          Es ist der Urstoff allen Detektorischen, das seine Kraft eben aus diesem immerwährenden
+          Ur-Fall zieht, dessen Bewältigung sich im thanatalen Wiederholungszwang endlos zyklisiert.
+          In der ewigen Suche nach sich selbst, was nichts anderes als die Suche nach der Suche
+          bedeutet, textet sich das Geschehen zur Handlung. Rätsel und Entzifferung betten sich in
+          einem Raum kodifizierter Symbolik, die Sicherheit wie Alleinanspruch deduktiver Logik
+          gewähren. Es sind die verzweifelten Versuche, das zerstörte mittelalterliche ordo,
+          thomistisches dispositio, in haßgeliebter Wiederkehr des Ursprungs neu erstehen zu lassen.
+          Ein lächerliches Unterfangen wie Eco es in seiner Novelle aufzeigt, mehr unfreiwillige
+          Persiflage denn landgewinnende Dammerrichtung. Am Anfang noch von der Macht der ratio
+          überzeugt, breiten die neuzeitlichen Heroen, die großen Detektive die Indizienketten aus,
+          die sie in den vorwiegend als Tatort fungierenden geschlossenen Räumen (!) eingraviert
+          finden, entlarven in der Rue Morgue das tollwütige Affentier, Inkarnation des Unlogischen,
+          und beweisen solcherart die Überlegenheit der ratiocination. Das erste Mal bringen die
+          amerikanischen Hardboiled dieses geschlossene Denkmuster in Verlegenheit, indem sie den
+          Muff der in Kammern eingesperrten Logik in den offenen Räumen der Metropole verfliegen
+          lassen, wo ihnen eine brutale Realität kaum mehr Zeit für Indizienverfahren zugesteht. So
+          ist es denn eher Resignation gegenüber einem zwar als hinfällig durchschauten
+          Ordnungsmuster, dem aber in sarkastischer Selbsterkenntnis nichts anderes entgegengestellt
+          werden kann, die sich dann wieder in den morbiden Vororten der Bourgeoisie von Los Angeles
+          oder San Francisco zu Motivserien verfestigt.</p>
         <p>Den eigentlichen Schlußpunkt setzt jedoch ein anderer, eine Figur, mit der der
           Kriminalroman seine letzte große Variation formuliert: <pb n="58" xml:id="p58"/> James
           Bond, zum Töten lizensierter (!) Agent. Hier löst sich die detection, die Sühnung ödipalen
