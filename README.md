@@ -34,6 +34,10 @@
 - längste Wörter
 - …
 
+## Vorschläge/Todo
+- erwähnte Orte auszeichnen mit `<placeName>` (z. B. Italien, Moldau, New Yorker Bronx, Frankreich, Amerika, Los Angeles, San Francisco, Liffey)
+- Sätze kennzeichnen mit `<s>`
+
 ## Carmen-Playlist 😊
 - [auf YouTube](https://www.youtube.com/playlist?list=PLwwYoQq959IuCeUaNichLxaGfN1d03Kwz)
 

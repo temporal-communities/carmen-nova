@@ -172,7 +172,8 @@
                 <l>bald ist er fern, bald ist er nah.</l>
                 <l>Halt ihn fest und er wird entfliehen,</l>
                 <l>weichst du ihm aus, flugs ist er da!</l>
-              </lg></quote>
+              </lg>
+            </quote>
             <bibl rend="italic">(<title level="a"><rs type="work"
                   ref="http://www.wikidata.org/entity/Q692648">Habanera</rs></title> aus <author
                 ref="http://www.wikidata.org/entity/Q56158">Bizets</author>
@@ -297,8 +298,9 @@
         </epigraph>
         <epigraph>
           <cit>
-            <quote>James Bond, with two double bourbon inside him, sat in the final departure lounge
-              of Miami Airport and thought about life and death.</quote>
+            <quote><persName type="fictional" ref="http://www.wikidata.org/entity/Q2009573">James
+                Bond</persName>, with two double bourbon inside him, sat in the final departure
+              lounge of Miami Airport and thought about life and death.</quote>
             <bibl rend="italic">(<author ref="http://www.wikidata.org/entity/Q82104"
                 >Fleming</author> – <title><rs type="work"
                   ref="http://www.wikidata.org/entity/Q1777426">Goldfinger</rs></title>)</bibl>
@@ -312,7 +314,9 @@
                   >Jugendbildnis</rs></title>)</bibl>
           </cit>
         </epigraph>
-        <p><quote><emph>Ich bezweifle sehr, daß Fräulein Carmen reinrassig war, jedenfalls war sie
+        <p>
+          <quote>
+            <emph>Ich bezweifle sehr, daß Fräulein Carmen reinrassig war, jedenfalls war sie
               unendlich viel hübscher als alle Frauen ihres Volks, denen ich je begegnet bin. Um
               schön zu sein, sagen die Spanier, muß eine Frau dreißig <sic>Bedingugen</sic> erfüllen
               oder aber, wenn man so will, mit zehn Eigenschaftswörtern zu beschreiben sein, von
@@ -332,10 +336,13 @@
               Menschen Gesicht wiedergefunden habe. Zigeunerauge, Wolfsauge, lautete eine spanische
               Redensart, die von feiner Beobachtung zeugt. Wer keine Zeit hat, im zoologischen
               Garten den Blick eines Wolfes zu studieren, beobachte eine Katze, wenn sie einem Spatz
-              auflauert.</emph></quote><note place="foot"><bibl><author
-                ref="http://www.wikidata.org/entity/Q160333">Mérimée</author>, <title><rs
-                  type="work" ref="http://www.wikidata.org/entity/Q674832"
-              >Carmen</rs></title></bibl> (Der Übersetzer)</note></p>
+              auflauert.</emph>
+          </quote>
+          <note place="foot"><bibl><author ref="http://www.wikidata.org/entity/Q160333"
+                >Mérimée</author>, <title><rs type="work"
+                  ref="http://www.wikidata.org/entity/Q674832">Carmen</rs></title></bibl> (Der
+            Übersetzer)</note>
+        </p>
         <p>Carmen, Carmen – durch die Adern der Stadt fließt das Gift der Schönheit, der Schönheit,
           die Bestie ist, ohne ihrer zu bedürfen. Vipernde Straßen, die in der morgendlichen Hitze
           den Schweiß der Nacht ausdünsten, gekühlte Quader, die sich an Parallelen zu Tode reiben.
@@ -795,21 +802,21 @@
           erst. Wir melden uns.« Während des Lesens bemerkte ich die schwache Silhouette eines
           gräulichen Linienmusters in der oberen Hälfte der Notiz, die sich im Laufe der Zeit zu
           Worten und Sätzen verdichtete, sich mir aber kaum über das »Lieber <persName
-            ref="http://www.wikidata.org/entity/Q123579338">H. C. E.</persName>, ich liebe ...« der
-          Anrede hinaus entzifferte, weil man, vom Come-Back der Zauberschrift gewarnt, mir das
-          Papier-Engramm just in dem Augenblick entwandt, als ich hinter dem abschließenden »Wir
-          melden uns« ein aus dem Weiß emportauchendes »Wir bringen dich sowiewiewie ...« gewahrte.
-          Mit einem überlegenen Grinsen verflüssigte jener Mann, in dem ich den Kanülenleger
-          vermutete, meine Gedanken zu einigen unzusammenhängenden Fragen, die vollends durch eine
-          einschmeichelnde Geste, mit der er ein Bündel Banknoten herüberreichte und kurz vor
-          Übergabe zu Boden flattern ließ, zerstreut wurden. Panik zelebrierend, hetzte ich in den
-          vor der Zugluft über den Flur geradewegs auf ein halboffenes Fenster wehenden Scheinen
-          nach, wobei ich weder die vorbeiziehenden Beinpaare noch das Schließgeräusch der Tür zur
-          Kenntnis nahm. Erst nachdem ich den Raum wohl an die fünf oder sechs Male auf mögliche
-          einsame Schafe der Notenherde abgetastet hatte, wandte ich meine Aufmerksamkeit wieder den
-          Menschen zu, von denen allerdings kein einziger mehr anwesend war, was bedeuten soll, daß
-          sie wirklich <pb n="25" xml:id="p25"/> nicht mehr vorhanden, verschwunden, sich in Luft
-          aufgelöst hatten.</p>
+            type="fictional" ref="http://www.wikidata.org/entity/Q123579338">H. C. E.</persName>,
+          ich liebe ...« der Anrede hinaus entzifferte, weil man, vom Come-Back der Zauberschrift
+          gewarnt, mir das Papier-Engramm just in dem Augenblick entwandt, als ich hinter dem
+          abschließenden »Wir melden uns« ein aus dem Weiß emportauchendes »Wir bringen dich
+          sowiewiewie ...« gewahrte. Mit einem überlegenen Grinsen verflüssigte jener Mann, in dem
+          ich den Kanülenleger vermutete, meine Gedanken zu einigen unzusammenhängenden Fragen, die
+          vollends durch eine einschmeichelnde Geste, mit der er ein Bündel Banknoten herüberreichte
+          und kurz vor Übergabe zu Boden flattern ließ, zerstreut wurden. Panik zelebrierend, hetzte
+          ich in den vor der Zugluft über den Flur geradewegs auf ein halboffenes Fenster wehenden
+          Scheinen nach, wobei ich weder die vorbeiziehenden Beinpaare noch das Schließgeräusch der
+          Tür zur Kenntnis nahm. Erst nachdem ich den Raum wohl an die fünf oder sechs Male auf
+          mögliche einsame Schafe der Notenherde abgetastet hatte, wandte ich meine Aufmerksamkeit
+          wieder den Menschen zu, von denen allerdings kein einziger mehr anwesend war, was bedeuten
+          soll, daß sie wirklich <pb n="25" xml:id="p25"/> nicht mehr vorhanden, verschwunden, sich
+          in Luft aufgelöst hatten.</p>
         <p>Da sich nun auch für mich keine Notwendigkeit weiterer Anwesenheit in diesem Zimmer
           stellte, klemmte ich vorsichtshalber das Geldbündel unter mein Hemd, schlich, nach allen
           Seiten witternd, aus dem Gebäude und eilte nach Hause, um dort alles weitere zu
@@ -1100,30 +1107,30 @@
           schwachen Ton von Indifferenz und Vieldeutigkeit, der die mitschwingende Aussage sowohl
           als Kennzeichnung seiner eigenen Person wie auch als Definition unserer Person zu
           qualifizieren erlaubte. Ich beschloß sie vorerst ihm zuzuschreiben und nahm damit von den
-          Assoziationen an einen weiteren <persName ref="http://www.wikidata.org/entity/Q283111"
-            >Moriarty</persName> Abstand; möglicherweise war ich es aber auch einfach nur leid,
-          ständig nach weiteren Indizien und neuen Zeichen zu forschen. Wie dem auch sei, wir
-          standen also dem berühmten Verleger Sherrinford und Co, Inaugurator des Carmenmythos und
-          Betreiber eines der gewichtigsten Unternehmen der Gegenwart gegenüber. »Ja, meine Herren,
-          leibhaftig und ehrenhaft, ich bin es«, resümierte er unser verblüfftes Schweigen und
-          führte uns sogleich in die Materie ein: »Sie beide sind zwei der tausend Nußknacker, die
-          auf mich und mein Geheimnis angesetzt wurden, nun, vielleicht nicht die besten, aber dafür
-          durchschnittliche Repräsentanten einer neuen Branche, der sogenannten Carmenjäger. Ihnen
-          allen ist gemein – und ich enthülle Ihnen sicherlich kein Geheimnis, wenn ich Ihnen
-          mitteile, daß Sie heute abend nicht die einzigen aus diesem Fach hier Anwesenden waren –,
-          daß sie nicht übermäßig gut bezahlt, hingegen bei Nicht-Erfolg liquidiert <pb n="35"
-            xml:id="p35"/> werden oder auch nicht. Je nachdem. Manchmal anders. Oder so. Naja. Die
-          konkreten Vereinbarungen überlasse ich dann mal meinem Freund Bruno, der Ihnen sicherlich
-          auch kein unbeschriebenes Blatt ist«, woraufhin er in den hinter ihm befindlichen
-          Wandschrank trat und verschwand. »Um es auf den Nenner zu bringen«, lächelte der die
-          andere Tür des Schrankes aufklinkende Mann uns an, »sie machen weiter wie bisher, aber
-          verlangen nur das Unmögliche von uns. Und: Verstehen Sie das als kleine Warnung: Hände weg
-          von Carmen.« Sprach's und hatte die Tür bereits halb zugeklappt, als er seinen Kopf noch
-          einmal durch die schmale Öffnung steckte und uns unter vorgehaltener Hand zuraunte, daß
-          die Polizei <emph>(<foreign xml:lang="it">gli altri</foreign>)</emph> anrücke. Dann duckte
-          er sich blitzschnell und entfleuchte zwischen den Schubladen. Obwohl ich ihm sogleich
-          nachsetzte, war das einzige Resultat eine mir von der nachschlagenden Tür beigebrachte
-          Schwellung am Kopfe.</p>
+          Assoziationen an einen weiteren <persName type="fictional"
+            ref="http://www.wikidata.org/entity/Q283111">Moriarty</persName> Abstand; möglicherweise
+          war ich es aber auch einfach nur leid, ständig nach weiteren Indizien und neuen Zeichen zu
+          forschen. Wie dem auch sei, wir standen also dem berühmten Verleger Sherrinford und Co,
+          Inaugurator des Carmenmythos und Betreiber eines der gewichtigsten Unternehmen der
+          Gegenwart gegenüber. »Ja, meine Herren, leibhaftig und ehrenhaft, ich bin es«, resümierte
+          er unser verblüfftes Schweigen und führte uns sogleich in die Materie ein: »Sie beide sind
+          zwei der tausend Nußknacker, die auf mich und mein Geheimnis angesetzt wurden, nun,
+          vielleicht nicht die besten, aber dafür durchschnittliche Repräsentanten einer neuen
+          Branche, der sogenannten Carmenjäger. Ihnen allen ist gemein – und ich enthülle Ihnen
+          sicherlich kein Geheimnis, wenn ich Ihnen mitteile, daß Sie heute abend nicht die einzigen
+          aus diesem Fach hier Anwesenden waren –, daß sie nicht übermäßig gut bezahlt, hingegen bei
+          Nicht-Erfolg liquidiert <pb n="35" xml:id="p35"/> werden oder auch nicht. Je nachdem.
+          Manchmal anders. Oder so. Naja. Die konkreten Vereinbarungen überlasse ich dann mal meinem
+          Freund Bruno, der Ihnen sicherlich auch kein unbeschriebenes Blatt ist«, woraufhin er in
+          den hinter ihm befindlichen Wandschrank trat und verschwand. »Um es auf den Nenner zu
+          bringen«, lächelte der die andere Tür des Schrankes aufklinkende Mann uns an, »sie machen
+          weiter wie bisher, aber verlangen nur das Unmögliche von uns. Und: Verstehen Sie das als
+          kleine Warnung: Hände weg von Carmen.« Sprach's und hatte die Tür bereits halb zugeklappt,
+          als er seinen Kopf noch einmal durch die schmale Öffnung steckte und uns unter
+          vorgehaltener Hand zuraunte, daß die Polizei <emph>(<foreign xml:lang="it">gli
+              altri</foreign>)</emph> anrücke. Dann duckte er sich blitzschnell und entfleuchte
+          zwischen den Schubladen. Obwohl ich ihm sogleich nachsetzte, war das einzige Resultat eine
+          mir von der nachschlagenden Tür beigebrachte Schwellung am Kopfe.</p>
         <p rend="parskip">»Laß den Quatsch, das funktioniert eh nur bei denen«, zischte mir mein neu
           gewachsener Begleiter zu und zerrte mich zum Fenster, von wo eine Feuerleiter uns den Weg
           zum Dach wies. Der Rest war ein Kinderspiel. Wir sprangen von Giebel zu Giebel und fanden
@@ -1419,27 +1426,28 @@
           Mischprogramm aus 1 und 3, was einerseits preislich entlastet, andererseits aber nicht des
           fundierten Überblicks entbehrt.«</p>
         <p>Als Mann von Welt war ich natürlich mit solch ordinären geschäftlichen Tricks vertraut,
-          lehnte deshalb höflich ab und wählt Nummer 1/pur, zumal mir kaum mehr als die für dieses
-          Horoskop verlangte Summe zur Verfügung stand. Geringschätzigen Blickes zog die Wahrsagerin
-          die Vorhänge zu und dunkelte das Licht genügend ab, daß der Glanz der nun rotierenden
-          Kugel deutlich sichtbar den gesamten Raum erfüllte. Zwar hatte ich mit ähnlichen
-          Stereotypen gerechnet, konnte mich aber dennoch nicht einer gewissen Faszination der das
-          gesamte Farbenspektrum durcheilenden Kugel erwehren und glitt langsam von einem halbwachen
-          Zustand in das Land der Visionen, dessen rüde Gegenständlichkeit mich an die Echtheit
-          dieser Welt glauben machte. Es war nicht die zukünftige Welt, die hier gottesgläubig auf
-          das Tableau des Wissens gehoben wurde, sondern es wurden mehrere Zukunften, Möglichkeiten
-          von Zukunft, Ereignisfelder, die sich scheinbar alle mit dem Ruhm des Logos schmückten,
-          umrissen. Streifen von Handlung wanderten an mir vorüber und paßten sich in Systeme ein,
-          von denen keines mit seinem agnostizistischen Alleinanspruch prahlte, weil dieser nur dort
-          zu gedeihen vermag, wo die Erfahrungen an die Revision gehindert werden. Fahles Zwielicht
-          dämpfte den grellen Strahl meiner marodierenden Vernunft, entsandte sie in die Sphären
-          milder Gleichzeitigkeit, ohne ihr jedoch ihre Krallen zu stutzen. Die verschwimmenden
-          Konturen verschmolzen gänzlich zu einem Agglomerat sanften Wahnsinns, der nichts von
-          seinem wilden, kranken Bruder an sich trug, dem seine Irrungen keine Zuflucht, keine
-          geöffnete Ordnung sichern, die ihn zu Einkehr und Reflexion anhält; es war jene Form von
-          Wahnsinn, in der sich die Klüften von Tiefsinn und empirischen Zerfall zu neuen Höhen
-          fanden, wo eine frische Brise die unüberwindlichen Hürden des Widersinns mit sich
-          fortwehte und die vielfältigen Bedürfnisse von Ereignissen formulierte.</p>
+          lehnte deshalb höflich ab und <sic>wählt</sic> Nummer 1/pur, zumal mir kaum mehr als die
+          für dieses Horoskop verlangte Summe zur Verfügung stand. Geringschätzigen Blickes zog die
+          Wahrsagerin die Vorhänge zu und dunkelte das Licht genügend ab, daß der Glanz der nun
+          rotierenden Kugel deutlich sichtbar den gesamten Raum erfüllte. Zwar hatte ich mit
+          ähnlichen Stereotypen gerechnet, konnte mich aber dennoch nicht einer gewissen Faszination
+          der das gesamte Farbenspektrum durcheilenden Kugel erwehren und glitt langsam von einem
+          halbwachen Zustand in das Land der Visionen, dessen rüde Gegenständlichkeit mich an die
+          Echtheit dieser Welt glauben machte. Es war nicht die zukünftige Welt, die hier
+          gottesgläubig auf das Tableau des Wissens gehoben wurde, sondern es wurden mehrere
+          Zukunften, Möglichkeiten von Zukunft, Ereignisfelder, die sich scheinbar alle mit dem Ruhm
+          des Logos schmückten, umrissen. Streifen von Handlung wanderten an mir vorüber und paßten
+          sich in Systeme ein, von denen keines mit seinem agnostizistischen Alleinanspruch prahlte,
+          weil dieser nur dort zu gedeihen vermag, wo die Erfahrungen an die Revision gehindert
+          werden. Fahles Zwielicht dämpfte den grellen Strahl meiner marodierenden Vernunft,
+          entsandte sie in die Sphären milder Gleichzeitigkeit, ohne ihr jedoch ihre Krallen zu
+          stutzen. Die verschwimmenden Konturen verschmolzen gänzlich zu einem Agglomerat sanften
+          Wahnsinns, der nichts von seinem wilden, kranken Bruder an sich trug, dem seine Irrungen
+          keine Zuflucht, keine geöffnete Ordnung sichern, die ihn zu Einkehr und Reflexion anhält;
+          es war jene Form von Wahnsinn, in der sich die Klüften von Tiefsinn und empirischen
+          Zerfall zu neuen Höhen fanden, wo eine frische Brise die unüberwindlichen Hürden des
+          Widersinns mit sich fortwehte und die vielfältigen Bedürfnisse von Ereignissen
+          formulierte.</p>
         <pb n="46" xml:id="p46"/>
         <p>Bewegt von freudiger Erregung, brachen die miniaturisierten Schemen des Handlungskatalogs
           aus der Macht der Inventarisierung und schwebten in einen Traum universaler Gültigkeit,
@@ -1455,29 +1463,29 @@
           taktischer Bedeutung dem Stabsleiter zukam, der den Redeschwall seiner Untergeordneten
           abrupt unterbrach und das Resumee der gedanklichen Zerrüttung zog. In kurzer prägnanter
           Wortführung förderte er zutage, daß, unerkannt von der Einsichtnahme <emph>des
-            Büros</emph> und abseits des Regierungsinteresses, sich ein Gruppe von Doktrinären
-          konstituiert hätte, in deren Absicht die Realisierung eines unklaren Projektes namens
-          Carmen läge, zweifellos eine Tarnbezeichnung, deren wahrer Gehalt aber bis dato noch nicht
-          dechiffriert sei. Da sich weder an den Äußerungen noch den Handlungen der Gruppe eine
-          gewisse zielprägnante Zuweisung ablesen lasse, sei von einem höchst differenzierten
-          Ordnungsschematismus, der eine ebenso komplexe Organisationsstruktur wie differenziertes
-          Gedankengebäude bedinge, auszugehen. Auch die eingeschleusten Spezialagenten hätten neben
-          ihrem spurlosen Auflösen auch nichts zur Lösung beigetragen, so daß man voll und ganz auf
-          die analytische Ebene angewiesen sei. Trotzdem die Motivanalyse nichts von Bedeutung
-          erbracht habe, sei es gelungen, die Aktionen der Organisation auf die gemeinsame Kategorie
-          der Suche zu reduzieren, womit wenigstens ein potentieller Anhaltspunkt für eine
-          methodische Überwachung gewonnen sei. Schlüsselte man die Handlungen nach Umfang und
-          Qualität auf, so gliederte sich das Vorgehen prinzipiell nach drei Kategorien auf. Zum
-          einen sei die Methode der <emph>unklaren Suche </emph>festzuhalten, die durch
-          akzidentielle, unscharfe Ereignisse ausgelöst, ungerichtet, objektungebunden und
-          unsystematisch <pb n="47" xml:id="p47"/> ablaufe, des weiteren die gezielte Suche, deren
-          Ziel aber nicht weniger undeutlich denn die Auslöser in der vorhergehenden Variante
-          verblieben, sich aber durch den Anschein einer zügigen, steten Vorgehensweise, die sich
-          nicht in den Prozessen der Aleatorik verhake, unterschied und drittens schließlich war der
-          Bereich der suchenden Suche zu bestimmen, die mit der ungerichteten Suche in der fehlenden
-          Bewegung kontrastierte, weil sie sich allein auf die Mechanismen passiver Rezeption
-          beschränkte, wohl glaubend, auf diese Art die Überlebensnaheste Methode zu
-          selektieren.</p>
+            Büros</emph> und abseits des Regierungsinteresses, sich <sic>ein</sic> Gruppe von
+          Doktrinären konstituiert hätte, in deren Absicht die Realisierung eines unklaren Projektes
+          namens Carmen läge, zweifellos eine Tarnbezeichnung, deren wahrer Gehalt aber bis dato
+          noch nicht dechiffriert sei. Da sich weder an den Äußerungen noch den Handlungen der
+          Gruppe eine gewisse zielprägnante Zuweisung ablesen lasse, sei von einem höchst
+          differenzierten Ordnungsschematismus, der eine ebenso komplexe Organisationsstruktur wie
+          differenziertes Gedankengebäude bedinge, auszugehen. Auch die eingeschleusten
+          Spezialagenten hätten neben ihrem spurlosen Auflösen auch nichts zur Lösung beigetragen,
+          so daß man voll und ganz auf die analytische Ebene angewiesen sei. Trotzdem die
+          Motivanalyse nichts von Bedeutung erbracht habe, sei es gelungen, die Aktionen der
+          Organisation auf die gemeinsame Kategorie der Suche zu reduzieren, womit wenigstens ein
+          potentieller Anhaltspunkt für eine methodische Überwachung gewonnen sei. Schlüsselte man
+          die Handlungen nach Umfang und Qualität auf, so gliederte sich das Vorgehen prinzipiell
+          nach drei Kategorien auf. Zum einen sei die Methode der <emph>unklaren Suche</emph>
+          festzuhalten, die durch akzidentielle, unscharfe Ereignisse ausgelöst, ungerichtet,
+          objektungebunden und unsystematisch <pb n="47" xml:id="p47"/> ablaufe, des weiteren die
+            <emph>gezielte Suche</emph>, deren Ziel aber nicht weniger undeutlich denn die Auslöser
+          in der vorhergehenden Variante verblieben, sich aber durch den Anschein einer zügigen,
+          steten Vorgehensweise, die sich nicht in den Prozessen der Aleatorik verhake, unterschied
+          und drittens schließlich war der Bereich der <emph>suchenden Suche</emph> zu bestimmen,
+          die mit der ungerichteten Suche in der fehlenden Bewegung kontrastierte, weil sie sich
+          allein auf die Mechanismen passiver Rezeption beschränkte, wohl glaubend, auf diese Art
+          die Überlebensnaheste Methode zu selektieren.</p>
         <p>Während der leitende Offizier dieses den Eindruck von Abgerundet- und Ausgewogenheit
           implizierende Material seinen Untergebenen vortrug, war ihm durchaus bewußt, daß er zum
           Wohle einer allgemeinen und umfassenden Systematik Erkundungen aus dem Spiel zu lassen
@@ -1518,15 +1526,15 @@
           auseinanderklaffender Möglichkeiten zu retten, doch sobald ich mein Unterfangen nur noch
           wenige Schritte dem Ziel entfernt fühlte, floß die gesamte Arbeit jählings in den Strom
           der dargestellten Suche selbst zurück, kaum mehr von Achtung für die Differenz von
-          Realtiät und Traum gezüchtigt. Es verhielt sich wie mit einem zyklischen Text, der kaum
-          geendet von neuem den Donner der Ursünde aus sich herausschrie, endlos die Apokalypse
-          evozierte. Gebannt von dem Ritus ewiger Wiederkehr hatten sich meine Gedanken nur am Rande
-          mit der Person der Wahrsagerin selbst beschäftigt, deren Position mir erst mit der
-          Gewöhnung an das Modell des Umlaufs, womit eine Bereitschaft williger Revision ad acta
-          gelegter Patterns einherging, erneut zu denken gab, da ihr Beitrag zur von mir geleisteten
-          Entzifferung der Visionen nicht unwesentlich sein mochte. Daher drängte es in mir, die
-          Dämonin von Glauben und Vernunft, die die Wahrheit zu Worten streute, mein Wissen zu
-          Gestammel verkrüppelte noch einmal aufzusuchen und sie zu zwingen, ihre Rolle zu
+            <sic>Realtiät</sic> und Traum gezüchtigt. Es verhielt sich wie mit einem zyklischen
+          Text, der kaum geendet von neuem den Donner der Ursünde aus sich herausschrie, endlos die
+          Apokalypse evozierte. Gebannt von dem Ritus ewiger Wiederkehr hatten sich meine Gedanken
+          nur am Rande mit der Person der Wahrsagerin selbst beschäftigt, deren Position mir erst
+          mit der Gewöhnung an das Modell des Umlaufs, womit eine Bereitschaft williger Revision ad
+          acta gelegter Patterns einherging, erneut zu denken gab, da ihr Beitrag zur von mir
+          geleisteten Entzifferung der Visionen nicht unwesentlich sein mochte. Daher drängte es in
+          mir, die Dämonin von Glauben und Vernunft, die die Wahrheit zu Worten streute, mein Wissen
+          zu Gestammel verkrüppelte noch einmal aufzusuchen und sie zu zwingen, ihre Rolle zu
           offenbaren.</p>
         <p>Erst jetzt wurde ich darauf aufmerksam, daß ich mich, in Gedanken versunken, bereits
           beträchtlich vom Zelt der Wahrsagerin entfernt hatte. Entschlossen, den Grund der Wahrheit
@@ -1556,15 +1564,15 @@
           und Umläufen erwartete ich das Ende. Und dann läutete sich jener Tanz ein, den ich seit
           langem so gefürchtet wie ersehnt hatte: Carmen. Flüsterndes Säuseln, verführerisches
           Umschmeicheln von Sinnen und Geist, die sich in den lüsternden Lockungen süßen Anreizes
-          verirrten, die <sic>Codizes</sic> der ernsten Weisheiten entblätterten und in den Strudel
-          sinnlichen Stils zogen, der den Kodex des Körpers jenseits des eifernden Fanatismus und
+          verirrten, die Codizes der ernsten Weisheiten entblätterten und in den Strudel sinnlichen
+          Stils zogen, der den Kodex des Körpers jenseits des eifernden Fanatismus und
           solipsistischen Planes ans Licht schleuderte. Blendendes Gelb der Forsythien, schwarze,
           wilde Schönheit, die durch die illusionäre Raumerschließung barocker Gestaltungskraft
           vagabundierte, <pb n="50" xml:id="p50"/> mit ephemeren Schnitten die sakralen Gewänder
           dumpfen allwissenden Ordos auftrennte, den um Erbarmen flehenden und um seine Taxonomien
-          fürchtenden Senex durch die offenen, unendlich wuchernden Verweigungen aus Kartuschen,
-          Voluten, Balustern und Laternen jagte, dessen enigmatische Wege weder Richtung noch
-          Perspektive festschrieben. Er stürzte von seinem Thron, weil er fallen mußte, doch er
+          fürchtenden Senex durch die offenen, unendlich wuchernden <sic>Verweigungen</sic> aus
+          Kartuschen, Voluten, Balustern und Laternen jagte, dessen enigmatische Wege weder Richtung
+          noch Perspektive festschrieben. Er stürzte von seinem Thron, weil er fallen mußte, doch er
           würde immer versuchen wiederzukehren, seinen Traum der Welt, einen nach frommen Zwecken
           aufgeteilten und hierarchisierten Plan, einer Allmacht panoptischer Wahrheit, erneut zu
           krönen und die bindungslosen, schnellfüßigen Wanderer, Hermes und Shem, in die lichtlosen,
@@ -1594,53 +1602,54 @@
           Analysensammlung zum Romanwerk <persName ref="http://www.wikidata.org/entity/Q12807">Ian
             Flemings</persName>, an der auch <persName ref="http://www.wikidata.org/entity/Q12807"
             >Eco</persName> nicht ganz unbeteiligt war; insbesondere möchten wir an dieser Stelle
-            <rs type="work" ref="http://www.wikidata.org/entity/Q123862029">den Band</rs> zum <rs
-            type="work" ref="http://www.wikidata.org/entity/Q844">James Bond</rs> Genre von
-            <persName ref="http://www.wikidata.org/entity/Q3885585">Oreste del Buono</persName> und
-            <persName ref="http://www.wikidata.org/entity/Q12807">Umberto Eco</persName> anführen,
-          in dem die bis heute noch wegweisenden literaturtheoretischen, semiologischen,
-          soziologischen und psychologischen Abhandlungen über ein Zeichen unserer Zeit
-          zusammengetragen wurden. Unter anderem ist hier auch <persName
-            ref="http://www.wikidata.org/entity/Q12807"> Ecos</persName> Aufsatz <foreign
-            xml:lang="it">la strutture narrative</foreign> in Fleming anzutreffen, auf den mittelbar
-            <persName ref="http://www.wikidata.org/entity/Q179109">Roland Barthes</persName> in
-          seinem Nachwort Bezug nimmt.</p>
+            <rs type="work" ref="http://www.wikidata.org/entity/Q123862029">den Band</rs> zum
+            <persName type="fictional" ref="http://www.wikidata.org/entity/Q2009573">James
+            Bond</persName> Genre von <persName ref="http://www.wikidata.org/entity/Q3885585">Oreste
+            del Buono</persName> und <persName ref="http://www.wikidata.org/entity/Q12807">Umberto
+            Eco</persName> anführen, in dem die bis heute noch wegweisenden literaturtheoretischen,
+          semiologischen, soziologischen und psychologischen Abhandlungen über ein Zeichen unserer
+          Zeit zusammengetragen wurden. Unter anderem ist hier auch <persName
+            ref="http://www.wikidata.org/entity/Q12807">Ecos</persName> Aufsatz <emph><sic>la</sic>
+            strutture narrative in Fleming</emph> anzutreffen, auf den mittelbar <persName
+            ref="http://www.wikidata.org/entity/Q179109">Roland Barthes</persName> in seinem
+          Nachwort Bezug nimmt.</p>
         <p>Liest man diese Analysen heute erneut, so muß man feststellen, daß sie wohl bis dato noch
           immer zu dem besten vorliegenden Material in diesem Bereich zählen. Neben dem wenig später
           in Frankreich von den Kriminalromanautoren <persName
             ref="http://www.wikidata.org/entity/Q1283738">Boileau</persName>/<persName
             ref="http://www.wikidata.org/entity/Q1686762">Narcejac</persName> veröffentlichten Werk
-            <foreign xml:lang="fr">
-            <rs type="work">le roman policier</rs></foreign> (»den Zerfall des Denkens zelebrieren«)
-          finden wir auch zur Zeit nur wenig neues Material, das nicht beständig auf alte Quellen
-          rekurriert bzw. sich auf die Modifikationen längst bekannter strukturaler Betrachtungen
-          beschränkt. In diesem Zusammenhang erscheint uns die Neuveröffentlichung der <persName
-            ref="http://www.wikidata.org/entity/Q12807">Ecoschen</persName> Novelle, auch unter der
-          Prämisse eines Vorreiters seines großen „Detektiv“romans <rs type="work"
-            ref="http://www.wikidata.org/entity/Q172850">Der Name der Rose</rs> umso relevanter, als
-          sie viele in diesem Monumentalwerk eingehender beleuchtete inhaltliche Linien zumindest
-          schon im Kern vorwegnimmt. Was Eco in <rs type="work"><foreign xml:lang="it">storia della
-              filosofia</foreign></rs> an gelockerter Erkenntniskritik begann, führt er hier zum
-          ironischen Höhepunkt, mit dem er in geschickter Weise an die <persName
-            ref="http://www.wikidata.org/entity/Q160333">mériméeische</persName> Carmen angeknüpft
-          und dank ihrer den zweifelhaften Wall philosophischer und geisteswissenschaftlicher <pb
-            n="53"/> Ordnungsmomente an der detectionistischen Technik mißt und zur
-          bilderrauschenden – im wahrsten Sinne des Wortes – Offenheit verführt. Der Charakter der
-          opera comique einer Carmen, vermengt mit dem sachlich und distanziert-ironischen
-          Erzählstandpunkt eines <persName ref="http://www.wikidata.org/entity/Q160333"
-            >Mérimée</persName>, bereitet viel von jenem <persName
-            ref="http://www.wikidata.org/entity/Q2715294">William von Baskerville</persName> vor,
-          der in seiner Pariser Schule die philosophischen Metamorphosen dargestellter Attitüde zu
-          verehren scheint. In der Tat tragen jene aus England stammenden Verfechter von Erfahrung
-          und Experiment wie <persName ref="http://www.wikidata.org/entity/Q43936">Occam</persName>,
-            <persName ref="http://www.wikidata.org/entity/Q190089">Duns Scotus</persName> oder
-            <persName ref="http://www.wikidata.org/entity/Q171677">Roger Bacon</persName> mit ihrer
-          die scholastische tumbe Naturwissenschaft sprengenden, alles mit distanzierter Vorsicht
-          und weltoffenem Interesse betrachtenden Nominalismus viel von jener nüchternen
-          Begeisterung in sich, wie wir sie als Voraussetzung jeglicher Ironie empfinden. Wie diese
-          voluntaristische Anschauung dann aber wieder an der vom Zufall beherrschten Welt eines
-          Zeichendschungels postmoderner Coleur zerplatzt und somit einer „strukturellen“ Ironie zum
-          Ausdruck verhilft, erzählen uns <emph>Carmen Nova</emph> und <emph><rs type="work"
+              <emph><rs type="work">le roman policier</rs></emph> (»den Zerfall des Denkens
+          zelebrieren«) finden wir auch zur Zeit nur wenig neues Material, das nicht beständig auf
+          alte Quellen rekurriert bzw. sich auf die Modifikationen längst bekannter strukturaler
+          Betrachtungen beschränkt. In diesem Zusammenhang erscheint uns die Neuveröffentlichung der
+            <persName ref="http://www.wikidata.org/entity/Q12807">Ecoschen</persName> Novelle, auch
+          unter der Prämisse eines Vorreiters seines großen „Detektiv“romans <emph><rs type="work"
+              ref="http://www.wikidata.org/entity/Q172850">Der Name der Rose</rs></emph> umso
+          relevanter, als sie viele in diesem Monumentalwerk eingehender beleuchtete inhaltliche
+          Linien zumindest schon im Kern vorwegnimmt. Was <persName
+            ref="http://www.wikidata.org/entity/Q12807">Eco</persName> in <emph><rs type="work"
+              >storia della filosofia</rs></emph> an gelockerter Erkenntniskritik begann, führt er
+          hier zum ironischen Höhepunkt, mit dem er in geschickter Weise an die <persName
+            ref="http://www.wikidata.org/entity/Q160333">mériméeische</persName>
+          <rs type="work" ref="http://www.wikidata.org/entity/Q674832">Carmen</rs> angeknüpft und
+          dank ihrer den zweifelhaften Wall philosophischer und geisteswissenschaftlicher <pb n="53"
+          /> Ordnungsmomente an der detectionistischen Technik mißt und zur bilderrauschenden – im
+          wahrsten Sinne des Wortes – Offenheit verführt. Der Charakter der opera comique einer
+          Carmen, vermengt mit dem sachlich und distanziert-ironischen Erzählstandpunkt eines
+            <persName ref="http://www.wikidata.org/entity/Q160333">Mérimée</persName>, bereitet viel
+          von jenem <persName type="fictional" ref="http://www.wikidata.org/entity/Q2715294">William
+            von Baskerville</persName> vor, der in seiner Pariser Schule die philosophischen
+          Metamorphosen dargestellter Attitude zu verehren scheint. In der Tat tragen jene aus
+          England stammenden Verfechter von Erfahrung und Experiment wie <persName
+            ref="http://www.wikidata.org/entity/Q43936">Occam</persName>, <persName
+            ref="http://www.wikidata.org/entity/Q190089">Duns Scotus</persName> oder <persName
+            ref="http://www.wikidata.org/entity/Q171677">Roger Bacon</persName> mit ihrer die
+          scholastische tumbe Naturwissenschaft sprengenden, alles mit distanzierter Vorsicht und
+          weltoffenem Interesse betrachtenden Nominalismus viel von jener nüchternen Begeisterung in
+          sich, wie wir sie als Voraussetzung jeglicher Ironie empfinden. Wie diese voluntaristische
+          Anschauung dann aber wieder an der vom Zufall beherrschten Welt eines Zeichendschungels
+          postmoderner Coleur zerplatzt und somit einer „strukturellen“ Ironie zum Ausdruck
+          verhilft, erzählen uns <emph>Carmen Nova</emph> und <emph><rs type="work"
               ref="http://www.wikidata.org/entity/Q155018">Der Name der Rose</rs></emph>
           gleichermaßen, obwohl die anders ausgerichtete Novelle diese Kraft mehr in nuce zu
           offenbaren scheint, wohingegen der große Roman jenseits stilistischer Verkürzung – was ja
@@ -1654,28 +1663,31 @@
           literarisches Arbeits- und Thesenpapier, das sich nicht scheut, bis in den metaphorischen
           Schwulst hinein alle Gebiete des späteren kriminal-philosophischen Gesamtwerks
           abzugleichen.</p>
-        <p>Das wenig später in <foreign xml:lang="en">language papers</foreign> veröffentlichte
-          Nachwort <persName ref="http://www.wikidata.org/entity/Q179109">Roland Barthes</persName>
-          läßt diese Aspekte an uns Revue passieren und macht uns dabei auf das „unterschwellige
-          Strömen“ <persName ref="http://www.wikidata.org/entity/Q6882">joyceanischer</persName>
-          Natur aufmerksam, dessen in <rs type="work" ref="http://www.wikidata.org/entity/Q6507"
-            >Finnegans Wake</rs> Gestalt gegebene Chaosmos und Microchasm die wohl denkwürdigste und
-          witzigste Verkörperung von Ordnung und Chaos abgeben.</p>
-        <p>Insofern stellt diese Novelle auch eine Widmung an die riverrun-Poetik der Sprache selbst
-          dar. Ihre Neuveröffentlichung in einer <pb n="54" xml:id="p54"/> Zeit, da eine
-          „afrikanisch-heitere“ und „senta-sentimentals“ ferne Carmen dem reichhaltigen pikardischen
-          Repertoire wieder zum Ausdruck verhilft und die coincidentia oppositorum, jenseits
-          befriedender Lieblichkeit und erbarmungswürdigen Mitleidens, in ihrer gesamten Grausamkeit
-          wie Schönheit ins Zentrum des Interesses rückt, wirkt diese Kriminalnovelle im
+        <p>Das wenig später in <emph>language papers</emph> veröffentlichte Nachwort <persName
+            ref="http://www.wikidata.org/entity/Q179109">Roland Barthes</persName> läßt diese
+          Aspekte an uns Revue passieren und macht uns dabei auf das „unterschwellige Strömen“
+            <persName ref="http://www.wikidata.org/entity/Q6882">joyceanischer</persName> Natur
+          aufmerksam, dessen in <emph><rs type="work" ref="http://www.wikidata.org/entity/Q6507"
+              >Finnegans Wake</rs></emph> Gestalt gegebene <emph>Chaosmos</emph> und
+            <emph>Microchasm</emph> die wohl denkwürdigste und witzigste Verkörperung von Ordnung
+          und Chaos abgeben.</p>
+        <p>Insofern stellt diese Novelle auch eine Widmung an die <emph>riverrun</emph>-Poetik der
+          Sprache selbst dar. Ihre Neuveröffentlichung in einer <pb n="54" xml:id="p54"/> Zeit, da
+          eine „afrikanisch-heitere“ und „senta-sentimentals“ ferne Carmen dem reichhaltigen
+          pikardischen Repertoire wieder zum Ausdruck verhilft und die coincidentia oppositorum,
+          jenseits befriedender Lieblichkeit und erbarmungswürdigen Mitleidens, in ihrer gesamten
+          Grausamkeit wie Schönheit ins Zentrum des Interesses rückt, wirkt diese Kriminalnovelle im
           Tangoschritt der 80er Jahre aktueller denn je.</p>
       </div>
       <pb n="55" xml:id="p55"/>
       <div type="note">
         <head>Anmerkungen des Übersetzers zum Text</head>
         <p><term xml:id="way-to-carmen" rend="italic">Can you show me the way to Carmen</term> –
-            <gloss target="#way-to-carmen">nimmt Bezug auf den Alabama-Song aus <persName
-              ref="http://www.wikidata.org/entity/Q38757">Brechts</persName> „Aufstieg und Fall der
-            Stadt Mahagonny“.</gloss>
+            <gloss target="#way-to-carmen">nimmt Bezug auf den <rs type="work"
+              ref="http://www.wikidata.org/entity/Q1633771">Alabama-Song</rs> aus <persName
+              ref="http://www.wikidata.org/entity/Q38757">Brechts</persName>
+            <rs type="work" ref="http://www.wikidata.org/entity/Q760054">„Aufstieg und Fall der
+              Stadt Mahagonny“</rs>.</gloss>
           <term xml:id="averroes" rend="italic"><persName
               ref="http://www.wikidata.org/entity/Q39837">Averroes</persName></term> – <gloss
             target="#averroes">arabischer Philosoph des 12. Jahrhunderts, dessen Werk sich aus
@@ -1689,16 +1701,26 @@
             Vernunft.</gloss>
           <term xml:id="conan-doyle" rend="italic"><persName
               ref="http://www.wikidata.org/entity/Q35610">Conan Doyle</persName></term> – <gloss
-            target="#conan-doyle">Schöpfer von Sherlock Holmes und Dr. Watson.</gloss>
+            target="#conan-doyle">Schöpfer von <persName type="fictional"
+              ref="http://www.wikidata.org/entity/Q4653">Sherlock Holmes</persName> und <persName
+              type="fictional" ref="http://www.wikidata.org/entity/Q187349">Dr.
+            Watson</persName>.</gloss>
           <term xml:id="plakat" rend="italic">Plakat</term> – <gloss target="#plakat">siehe dazu
-            auch die Untersuchung Ecos über „Messages – Plakat, Zeitung, Film. Semiotische Analysen
-            medialer Systeme“; außerdem Walter Banjamin: „Ausstellungswesen, Reklame, Grandville“ im
-            Passagenwerk.</gloss>
+            auch die Untersuchung <persName ref="http://www.wikidata.org/entity/Q12807"
+              >Ecos</persName> über <rs type="work">„Messages – Plakat, Zeitung, Film. Semiotische
+              Analysen medialer Systeme“</rs>; außerdem <persName ref="Q61078">Walter
+                <sic>Banjamin</sic></persName>: <rs type="work">„Ausstellungswesen, Reklame,
+              Grandville“</rs> im <rs type="work" ref="http://www.wikidata.org/entity/Q4785097"
+              >Passagenwerk</rs>.</gloss>
           <term xml:id="bibliothek" rend="italic">Bibliothek</term> – <gloss target="#bibliothek"
-            >Die <persName ref="http://www.wikidata.org/entity/Q909">Borgesche</persName> von Babel
-            und andere.</gloss>
+            >Die <persName ref="http://www.wikidata.org/entity/Q909"><sic>Borgesche</sic></persName>
+            <rs type="work" ref="http://www.wikidata.org/entity/Q473">von Babel</rs> und
+            andere.</gloss>
           <term xml:id="sherrinford-sacker" rend="italic">Sherrinford &amp; Sacker</term> – <gloss
-            target="#sherrinford-sacker">ältere Namen von Holmes und Watson.</gloss>
+            target="#sherrinford-sacker">ältere Namen von <persName type="fictional"
+              ref="http://www.wikidata.org/entity/Q4653">Holmes</persName> und <persName
+              type="fictional" ref="http://www.wikidata.org/entity/Q187349"
+            >Watson</persName>.</gloss>
           <term xml:id="sherrinford-sacker-haensel-co" rend="italic">Sherrinford, Sacker, Hänsel
             &amp; Co</term> – <gloss target="#sherrinford-sacker-haensel-co">Anspielungen auf
             korrupte wirtschaftliche und politische Praktiken in Italien, in die auch einige Verlage
@@ -1710,56 +1732,67 @@
           <term xml:id="graues-buero" rend="italic">Graues Büro</term> – <gloss
             target="#graues-buero">geflügelter italienischer Ausdruck für die Verflechtungen von
             Staat, Mafia und Wirtschaft.</gloss>
-          <term xml:id="dupin" rend="italic">Dupin</term> – <gloss target="#dupin"><persName
-              ref="http://www.wikidata.org/entity/Q16867">Edgar Allan Poes</persName> scharfsinniger
-            Detektiv in der Rue Morgue.</gloss>
-          <term xml:id="hercule-poirot" rend="italic">Hercule Poirot</term> – <gloss
+          <term xml:id="dupin" rend="italic"><persName type="fictional"
+              ref="http://www.wikidata.org/entity/Q549047">Dupin</persName></term> – <gloss
+            target="#dupin"><persName ref="http://www.wikidata.org/entity/Q16867">Edgar Allan
+              Poes</persName> scharfsinniger Detektiv in der <rs type="work"
+              ref="http://www.wikidata.org/entity/Q459667">Rue Morgue</rs>.</gloss>
+          <term xml:id="hercule-poirot" rend="italic"><persName type="fictional"
+              ref="http://www.wikidata.org/entity/Q170534">Hercule Poirot</persName></term> – <gloss
             target="#hercule-poirot">Held von <persName ref="http://www.wikidata.org/entity/Q35064"
               >Agatha Christie</persName>.</gloss>
-          <term xml:id="sam-spade-phillip-marlowe" rend="italic">Sam Spade, Phillip Marlowe</term> –
-            <gloss target="#sam-spade-phillip-marlowe">Privatdetektive von <persName
-              ref="http://www.wikidata.org/entity/Q186335">Hammet</persName> und <persName
-              ref="http://www.wikidata.org/entity/Q180377">Chandler</persName>.</gloss>
-          <term xml:id="h-c-e" rend="italic">H. C. E.</term> – <gloss target="#h-c-e">Here comes
-            Everybody; vieldeutige, symbolträchtige Figur in <persName
-              ref="http://www.wikidata.org/entity/Q6882">Joycens</persName> Roman Finnegans
-            Wake.</gloss>
+          <term xml:id="sam-spade-phillip-marlowe" rend="italic"><persName type="fictional"
+              ref="http://www.wikidata.org/entity/Q2533737">Sam Spade</persName>, <persName
+              type="fictional" ref="http://www.wikidata.org/entity/Q623732"><sic>Phillip</sic>
+              Marlowe</persName></term> – <gloss target="#sam-spade-phillip-marlowe">Privatdetektive
+            von <persName ref="http://www.wikidata.org/entity/Q186335"><sic>Hammet</sic></persName>
+            und <persName ref="http://www.wikidata.org/entity/Q180377">Chandler</persName>.</gloss>
+          <term xml:id="h-c-e" rend="italic"><persName type="fictional"
+              ref="http://www.wikidata.org/entity/Q123579338">H. C. E.</persName></term> – <gloss
+            target="#h-c-e">Here comes Everybody; vieldeutige, symbolträchtige Figur in <persName
+              ref="http://www.wikidata.org/entity/Q6882">Joycens</persName> Roman <rs type="work"
+              ref="http://www.wikidata.org/entity/Q6507">Finnegans Wake</rs>.</gloss>
           <term xml:id="intelligenzquotient-etc" rend="italic">Intelligenzquotient etc.</term> –
             <gloss target="#intelligenzquotient-etc">die lässig, snobistisch vorgetragene
-            Darstellung läßt gewisse Verbingungen des Ich-Erzählers zu den Klienten des Isidro
-            Parodi vermuten.</gloss>
+            Darstellung läßt gewisse <sic>Verbingungen</sic> des Ich-Erzählers zu den Klienten des
+              <persName type="fictional">Isidro Parodi</persName> vermuten.</gloss>
           <term xml:id="maskierung-masken-und-verwandtes" rend="italic">Maskierung, Masken und
             verwandtes</term> – <gloss target="#maskierung-masken-und-verwandtes">finden sich später
             häufig in den Analysen von Mythos und Manipulation wieder, deren Kraft dort aus der
             auktorialen Leere erklärt und entwickelt wird; zu deren Rätselhaftigkeit auch: <persName
-              ref="http://www.wikidata.org/entity/Q3265717">Lucien Sebag</persName>, Le Mythe: Code
-            et Message.</gloss>
+              ref="http://www.wikidata.org/entity/Q3265717">Lucien Sebag</persName>, <rs type="work"
+              >Le Mythe: Code et Message</rs>.</gloss>
           <term xml:id="wendeltreppe-treppenwirbel-strudel" rend="italic">Wendeltreppe,
             Treppenwirbel, Strudel</term> – <gloss target="#wendeltreppe-treppenwirbel-strudel"
-            >verweist auf „39 Stufen“ oder „Vertigo“ von <persName
-              ref="http://www.wikidata.org/entity/Q7374">Hitchcock</persName>; die Lüftung der Maske
-            dient als Voraussetzung neuer Morde/Masken, die reale Darstellung wird zu einem
-            undurchdringlichen Spielelement des Filmes. <pb n="56" xml:id="p56"/> »Jedes kann von
-            jedem erwartet werden, gemäß der Tauschwirtschaft, die sich auch auf Gesichter bezieht,
-            und die wie in einem <persName ref="http://www.wikidata.org/entity/Q7374">Alfred
-              Hitchcock</persName> Film, nicht einmal die Richtung kennt, woher der Stoß kommt.«
-              (<persName ref="http://www.wikidata.org/entity/Q57240">Ernst
-            Bloch</persName>).</gloss>
+            >verweist auf <rs type="work" ref="http://www.wikidata.org/entity/Q501105">„39
+              Stufen“</rs> oder <rs type="work" ref="http://www.wikidata.org/entity/Q202548"
+              >„Vertigo“</rs> von <persName ref="http://www.wikidata.org/entity/Q7374"
+              >Hitchcock</persName>; die Lüftung der Maske dient als Voraussetzung neuer
+            Morde/Masken, die reale Darstellung wird zu einem undurchdringlichen Spielelement des
+            Filmes. <pb n="56" xml:id="p56"/> »Jedes kann von jedem erwartet werden, gemäß der
+            Tauschwirtschaft, die sich auch auf Gesichter bezieht, und die wie in einem <persName
+              ref="http://www.wikidata.org/entity/Q7374">Alfred Hitchcock</persName> Film, nicht
+            einmal die Richtung kennt, woher der Stoß kommt.« (<persName
+              ref="http://www.wikidata.org/entity/Q57240">Ernst Bloch</persName>).</gloss>
           <term xml:id="tor-und-torhueter" rend="italic">Tor- und Türhüter</term> – <gloss
             target="#tor-und-torhueter">»‘Alle streben doch nach dem Gesetz’, sagt der Mann, ‘wieso
             kommt es, daß in den vielen Jahren niemand außer mir Einlaß verlangt hat?’ Der Torhüter
             erkennt, daß der Mann schon an seinem Ende ist, und, um sein vergehendes Gehör noch zu
             erreichen, brüllt er ihn an: ‘Hier konnte niemand sonst Einlaß erhalten, denn dieser
             Eingang war nur für dich bestimmt. Ich gehe jetzt und schließe ihn’« (aus <persName
-              ref="http://www.wikidata.org/entity/Q905">Kafkas</persName> Parabel „Vor dem
-            Gesetz“)</gloss>
-          <term xml:id="moriarty" rend="italic">Moriarty</term> – <gloss target="#moriarty"
-            >Gegenspieler Sherlock Holmes.</gloss>
+              ref="http://www.wikidata.org/entity/Q905">Kafkas</persName> Parabel <rs type="work"
+              ref="http://www.wikidata.org/entity/Q35714">„Vor dem Gesetz“</rs>)</gloss>
+          <term xml:id="moriarty" rend="italic"><persName type="fictional"
+              ref="http://www.wikidata.org/entity/Q283111">Moriarty</persName></term> – <gloss
+            target="#moriarty">Gegenspieler <persName type="fictional"
+              ref="http://www.wikidata.org/entity/Q4653">Sherlock Holmes</persName>.</gloss>
           <term xml:id="steinbock-wassermann" rend="italic">Steinbock, Wassermann...</term> – <gloss
-            target="#steinbock-wassermann">bezieht sich auf die Erzählung „Die 12 Tierkreiszeichen“
-            von „Bustos Domecq“.</gloss>
+            target="#steinbock-wassermann">bezieht sich auf die Erzählung <rs type="work">„Die 12
+              Tierkreiszeichen“</rs> von <persName ref="http://www.wikidata.org/entity/Q2632474"
+              >„Bustos Domecq“</persName>.</gloss>
           <term xml:id="bababada" rend="italic">Bababada...</term> – <gloss target="#bababada"
-            >leitet Finnegans Wake ein.</gloss>
+            >leitet <rs type="work" ref="http://www.wikidata.org/entity/Q6507">Finnegans Wake</rs>
+            ein.</gloss>
           <term xml:id="shem" rend="italic">Shem</term> – <gloss target="#shem">Repräsentant alles
             Unsteten, des Baumes gegenüber Shaum, Vertreter von Ordnung und Stein.</gloss></p>
       </div>
@@ -1768,7 +1801,10 @@
         <epigraph>
           <cit>
             <quote>This is my city and my game</quote>
-            <bibl><author ref="http://www.wikidata.org/entity/Q2533737">Sam Spade</author></bibl>
+            <bibl>
+              <author><persName type="fictional" ref="http://www.wikidata.org/entity/Q2533737">Sam
+                  Spade</persName></author>
+            </bibl>
           </cit>
         </epigraph>
         <head>Coenia Nova</head>
@@ -1778,100 +1814,113 @@
                   ><rs type="work">Philosophische Ansicht des Detektivromans</rs></title>, <title
                 level="s"><rs type="work">Literarische Aufsätze Gesamtausgabe Bd.
               9</rs></title></bibl> (Der Übersetzer)</note>, vergafft in sein kleines Geheimnis ante
-          rem; den Mord vor Handlungsbeginn, der sich im Roman ausgebreitet und zugeordnet findet.
+          rem, den Mord vor Handlungsbeginn, der sich im Roman ausgebreitet und zugeordnet findet.
           Es ist der Urstoff allen Detektorischen, das seine Kraft eben aus diesem immerwährenden
           Ur-Fall zieht, dessen Bewältigung sich im thanatalen Wiederholungszwang endlos zyklisiert.
           In der ewigen Suche nach sich selbst, was nichts anderes als die Suche nach der Suche
           bedeutet, textet sich das Geschehen zur Handlung. Rätsel und Entzifferung betten sich in
           einem Raum kodifizierter Symbolik, die Sicherheit wie Alleinanspruch deduktiver Logik
           gewähren. Es sind die verzweifelten Versuche, das zerstörte mittelalterliche ordo,
-          thomistisches dispositio, in haßgeliebter Wiederkehr des Ursprungs neu erstehen zu lassen.
-          Ein lächerliches Unterfangen wie Eco es in seiner Novelle aufzeigt, mehr unfreiwillige
-          Persiflage denn landgewinnende Dammerrichtung. Am Anfang noch von der Macht der ratio
-          überzeugt, breiten die neuzeitlichen Heroen, die großen Detektive die Indizienketten aus,
-          die sie in den vorwiegend als Tatort fungierenden geschlossenen Räumen (!) eingraviert
-          finden, entlarven in der Rue Morgue das tollwütige Affentier, Inkarnation des Unlogischen,
-          und beweisen solcherart die Überlegenheit der ratiocination. Das erste Mal bringen die
-          amerikanischen Hardboiled dieses geschlossene Denkmuster in Verlegenheit, indem sie den
-          Muff der in Kammern eingesperrten Logik in den offenen Räumen der Metropole verfliegen
-          lassen, wo ihnen eine brutale Realität kaum mehr Zeit für Indizienverfahren zugesteht. So
-          ist es denn eher Resignation gegenüber einem zwar als hinfällig durchschauten
-          Ordnungsmuster, dem aber in sarkastischer Selbsterkenntnis nichts anderes entgegengestellt
-          werden kann, die sich dann wieder in den morbiden Vororten der Bourgeoisie von Los Angeles
-          oder San Francisco zu Motivserien verfestigt.</p>
+            <persName ref="http://www.wikidata.org/entity/Q9438">thomistisches</persName>
+          dispositio, in haßgeliebter Wiederkehr des Ursprungs neu erstehen zu lassen. Ein
+          lächerliches Unterfangen wie <persName ref="http://www.wikidata.org/entity/Q12807"
+            >Eco</persName> es in seiner Novelle aufzeigt, mehr unfreiwillige Persiflage denn
+          landgewinnende Dammerrichtung. Am Anfang noch von der Macht der ratio überzeugt, breiten
+          die neuzeitlichen Heroen, die großen Detektive die Indizienketten aus, die sie in den
+          vorwiegend als Tatort fungierenden geschlossenen Räumen (!) eingraviert finden, entlarven
+          in der <rs type="work" ref="http://www.wikidata.org/entity/Q459667">Rue Morgue</rs> das
+          tollwütige Affentier, Inkarnation des Unlogischen, und beweisen solcherart die
+          Überlegenheit der ratiocination. Das erste Mal bringen die amerikanischen Hardboiled
+          dieses geschlossene Denkmuster in Verlegenheit, indem sie den Muff der in Kammern
+          eingesperrten Logik in den offenen Räumen der Metropole verfliegen lassen, wo ihnen eine
+          brutale Realität kaum mehr Zeit für Indizienverfahren zugesteht. So ist es denn eher
+          Resignation gegenüber einem zwar als hinfällig durchschauten Ordnungsmuster, dem aber in
+          sarkastischer Selbsterkenntnis nichts anderes entgegengestellt werden kann, die sich dann
+          wieder in den morbiden Vororten der Bourgeoisie von Los Angeles oder San Francisco zu
+          Motivserien verfestigt.</p>
         <p>Den eigentlichen Schlußpunkt setzt jedoch ein anderer, eine Figur, mit der der
-          Kriminalroman seine letzte große Variation formuliert: <pb n="58" xml:id="p58"/> James
-          Bond, zum Töten lizensierter (!) Agent. Hier löst sich die detection, die Sühnung ödipalen
-          Vergehens in seiner eigenen Schematisierung auf, in der das Ziel der Entlarvung hinfällig
-          wird. Sämtliche Beziehungen, seien es die zwischen Täter und Opfer oder Indizien und
-          Bedeutung, sind im Vorhinein bekannt, das Rätsel findet sich a priori gelöst und der Reiz
-          schwindet, hart an der Grenze zum nouveau roman, zum produzierten Geschehen, daß, anstatt
-          den Triumph der Logik zu bezeichnen, den Bankrott des Denkens zelebriert (<persName
-            ref="http://www.wikidata.org/entity/Q1283738">Boileau</persName>/<persName
-            ref="http://www.wikidata.org/entity/Q1686762">Narcejac</persName>). Die 007-Romane
-          suggerieren die Etablierung eines ordnenden Kanons auf einer Ebene, auf der sich
-          action-determinierter Macrokosmos und minuziös aufgelisteter Mikrokosmos gegenseitig
-          bedingen. Während sich das Beiläufige – das Geläufige – zu seitenlangen Beschreibungen
-          aufbläst, retardisiert die sich überschlagende Thrillerhandlung zur notwendigen Ergänzung.
-          Was dunkel aus einer sich chaotisierenden Welt nicht eindeutig zuzuordnender Zeichen
-          resultierte, ist gebannt zugunsten eines perfekt inszenierten Modells, das mystische
-          Versatzstücke und simulierte Enigmatik illuminieren.</p>
-        <p>Gerade auch dieses Spannungsmodell läßt Eco zur Sprache kommen, um das dieser gesamten
-          Krisenbewegung zugrundeliegende ewig gleiche Problem der condition humana zu parodieren.
-          Das moderne Denken sieht sich aus der göttlichen Metaphysik des Unendlichen herausgerissen
-          und um eine Endlichkeit rotieren, die sie die Dinge bezeichnen und erschaffen läßt,
-          gleichzeitig aber an die Grenzen der aus dem Wissen um das eigene Wesen erwachsenden
-          Erkenntnis wirft. So projiziert sich der aus der menschlichen Geschichtlichkeit entflohene
-          Ursprung, der immer schon vor der Zeit und den Dingen existierte, als vor allem Wissen
-          bereits Dagewesenes in die Zukunft, wo er als Sinn und Zweck menschlichen Denkens
-          unerreicht bleibt. Undurchdringliche Grundlage allen Wissens, dem es immer voraus ist,
-          wiederholt sich der Ursprung beständig, ohne eingeholt zu werden, beunruhigt er die den
-          Anfang des Menschen verortenden positivistischen Mechanismen wie Erkenntnisse
-          eschatologischer Natur stetig von neuem.</p>
+          Kriminalroman seine letzte große Variation formuliert: <pb n="58" xml:id="p58"/>
+          <persName type="fictional" ref="http://www.wikidata.org/entity/Q2009573">James
+            Bond</persName>, zum Töten lizensierter (!) Agent. Hier löst sich die detection, die
+          Sühnung ödipalen Vergehens in seiner eigenen Schematisierung auf, in der das Ziel der
+          Entlarvung hinfällig wird. Sämtliche Beziehungen, seien es die zwischen Täter und Opfer
+          oder Indizien und Bedeutung, sind im Vorhinein bekannt, das Rätsel findet sich a priori
+          gelöst und der Reiz schwindet, hart an der Grenze zum nouveau roman, zum produzierten
+          Geschehen, daß, <emph>anstatt den Triumph der Logik zu bezeichnen, den Bankrott des
+            Denkens zelebriert (<persName ref="http://www.wikidata.org/entity/Q1283738"
+              >Boileau</persName>/<persName ref="http://www.wikidata.org/entity/Q1686762"
+              >Narcejac</persName>)</emph>. Die <rs type="work"
+            ref="http://www.wikidata.org/entity/Q844">007-Romane</rs> suggerieren die Etablierung
+          eines ordnenden Kanons auf einer Ebene, auf der sich action-determinierter Macrokosmos und
+          minuziös aufgelisteter Mikrokosmos gegenseitig bedingen. Während sich das Beiläufige – das
+          Geläufige – zu seitenlangen Beschreibungen aufbläst, retardisiert die sich überschlagende
+          Thrillerhandlung zur notwendigen Ergänzung. Was dunkel aus einer sich chaotisierenden Welt
+          nicht eindeutig zuzuordnender Zeichen resultierte, ist gebannt zugunsten eines perfekt
+          inszenierten Modells, das mystische Versatzstücke und simulierte Enigmatik
+          illuminieren.</p>
+        <p>Gerade auch dieses Spannungsmodell läßt <persName
+            ref="http://www.wikidata.org/entity/Q12807">Eco</persName> zur Sprache kommen, um das
+          dieser gesamten Krisenbewegung zugrundeliegende ewig gleiche Problem der condition humana
+          zu parodieren. Das moderne Denken sieht sich aus der göttlichen Metaphysik des Unendlichen
+          herausgerissen und um eine Endlichkeit rotieren, die sie die Dinge bezeichnen und
+          erschaffen läßt, gleichzeitig aber an die Grenzen der aus dem Wissen um das eigene Wesen
+          erwachsenden Erkenntnis wirft. So projiziert sich der aus der menschlichen
+          Geschichtlichkeit entflohene Ursprung, der immer schon vor der Zeit und den Dingen
+          existierte, als vor allem Wissen bereits Dagewesenes in die Zukunft, wo er als Sinn und
+          Zweck menschlichen Denkens unerreicht bleibt. Undurchdringliche Grundlage allen Wissens,
+          dem es immer voraus ist, wiederholt sich der Ursprung beständig, ohne eingeholt zu werden,
+          beunruhigt er die den Anfang des Menschen verortenden positivistischen Mechanismen wie
+          Erkenntnisse eschatologischer Natur stetig von neuem.</p>
         <p>Diese Ungleichzeitigkeit vom Sein der Dinge und Zeit des Menschen, in dessen Säumen sich
           eine Angst des sich selbst in Frage stellenden Denkens eigener Erkenntnis einnistet, lebt
           in jeder Form von detection – literarisch oder wissenschaftlich – immer wieder auf. Der
           Anfang des Alphas, das wie das Omega des Endes in den Falten des Alephs siedelt,
-          (Steinbock Wassermann...), seiner <pb n="59" xml:id="p59"/> Schalen Schluß um Schluß,
-          Aufdeckung um Aufdeckung entblättert, der chaotisierende Sündenfall, der sich zwischen die
-          göttliche Parallelität von Menschen und Dingen schiebt und uns in die Historizität eines
-          Zeichensystems zwingt, dem die Dechiffrierung eines Anderen in den Maßen des Gleichen
-          zukommt.</p>
+            <emph>(Steinbock, Wassermann...)</emph>, seiner <pb n="59" xml:id="p59"/> Schalen Schluß
+          um Schluß, Aufdeckung um Aufdeckung entblättert, der chaotisierende Sündenfall, der sich
+          zwischen die göttliche Parallelität von Menschen und Dingen schiebt und uns in die
+          Historizität eines Zeichensystems zwingt, dem die Dechiffrierung eines Anderen in den
+          Maßen des Gleichen zukommt.</p>
         <p>Das Verbrechen, der Mord spielt dabei die Rolle der Paradiesvertreibung wie des
           Urprinzips gleichermaßen, bedingt die Einsammelung der über Raum und Zeit verstreuten
           Spiegelsplitter zum Sandbuch wie die gefangennehmende Interpretation eines im Rahmen
           menschlicher Geschicht- und Gesellschaftlichkeit entstandenen Systems von Zeichen und
           Bedeutung.</p>
         <p>Am Anfang war das Wort, Zeichen, das Welt zur Sprache ordnet, jenes <persName
-            ref="http://www.wikidata.org/entity/Q178709">Vicosche</persName> Stottern, mit dem Eco
-          so doppeldeutige Anleihen bei <persName ref="http://www.wikidata.org/entity/Q6882"
-            >Joycens</persName> Wake tätigt. Doppeldeutig insofern, als man zwischen dem Glauben an
-          eine immanent notwendige Wiederkehr tödlicher Störungen, von Suche und Urschrei, die sich
-          in dem unendlichen Zirkulieren von corsi und ricorsi aufgehoben finden, und einer sich auf
-          der anderen Seite willig öffnenden Welt des Lachens und der Unstetigkeit, wie sie in der
-          Coenia des <persName ref="http://www.wikidata.org/entity/Q190240">Cyprianus</persName>
-          oder bei <persName ref="http://www.wikidata.org/entity/Q36330">Bruno</persName> zum
-          Ausdruck kommt, hin- und hergeworfen wird. Nicht gering gesät hat Eco die Bezüge zu
-            <persName ref="http://www.wikidata.org/entity/Q178709">Vicos</persName> Scienza Nuova
-          und dem Werk des Nolaners, in deren Schaffen der Zusammenprall scholastischer Condition
-          und Ordnung der Moderne sich ohne Unterlaß gebrochen finden, um im unterschwelligen
-          Strömen <persName ref="http://www.wikidata.org/entity/Q6882">Joycescher</persName> Natur
-          erneut aufbereitet und in Szene gesetzt zu werden. Die gesamte Novelle skandiert gleichsam
-          die Biegungen und Verzweigungen des Liffey, wird von ihm vorangetrieben und
-          dynamisiert.</p>
-        <p>This is my city and my game, sagt Sam Spade und präsentiert dergestalt eine Orgie von
-          Zeichen, die man nur im Spiel, spielend zu beherrschen, zu benutzen vermag. Weder
-          zentriert noch transparent, schafft sich eine zwielichtige, unsichtbare Stadt, die nicht
-          nur an der Oberfläche, sondern auch inwendig offen, durchdrungen von unsichtbaren Strahlen
-          und Strömungen, sowie Anreizen und Kräften ausgesetzt ist, die unter der Schwelle normaler
-          Wahrnehmung liegen (<persName ref="http://www.wikidata.org/entity/Q469888">Lewis
-            Mumford</persName>).</p>
-        <p>Verstreut und vielfältig, möglichkeitsträchtig und relativ eröffnet das neuzeitliche
-          Labyrinth (<persName ref="http://www.wikidata.org/entity/Q61078">Benjamin</persName>)
-          einen Raum von gleichwertigen Alternativen. Neben <persName
-            ref="http://www.wikidata.org/entity/Q868">Aristoteles</persName>, dem großen Logiker und
-          Götzen klassischer Kriminalliteratur wie mittelalterlichen Kommentars, – eine nicht
-          zufällige Koinzidenz – tritt nun Carmen, <pb n="60" xml:id="p60"/> der Zufall des
+            ref="http://www.wikidata.org/entity/Q178709">Vicosche</persName> Stottern, mit dem
+            <persName ref="http://www.wikidata.org/entity/Q12807">Eco</persName> so doppeldeutige
+          Anleihen bei <persName ref="http://www.wikidata.org/entity/Q6882">Joycens</persName>
+          <rs type="work" ref="http://www.wikidata.org/entity/Q6507">Wake</rs> tätigt. Doppeldeutig
+          insofern, als man zwischen dem Glauben an eine immanent notwendige Wiederkehr tödlicher
+          Störungen, von Suche und Urschrei, die sich in dem unendlichen Zirkulieren von corsi und
+          ricorsi aufgehoben finden, und einer sich auf der anderen Seite willig öffnenden Welt des
+          Lachens und der Unstetigkeit, wie sie in der <rs type="work"
+            ref="http://www.wikidata.org/entity/Q868197">Coenia</rs> des <persName
+            ref="http://www.wikidata.org/entity/Q190240">Cyprianus</persName> oder bei <persName
+            ref="http://www.wikidata.org/entity/Q36330">Bruno</persName> zum Ausdruck kommt, hin-
+          und hergeworfen wird. Nicht gering gesät hat <persName
+            ref="http://www.wikidata.org/entity/Q12807">Eco</persName> die Bezüge zu <persName
+            ref="http://www.wikidata.org/entity/Q178709">Vicos</persName>
+          <emph><rs type="work" ref="http://www.wikidata.org/entity/Q6470817">Scienza
+            Nuova</rs></emph> und dem Werk des <persName ref="http://www.wikidata.org/entity/Q36330"
+            >Nolaners</persName>, in deren Schaffen der Zusammenprall scholastischer Condition und
+          Ordnung der Moderne sich ohne Unterlaß gebrochen finden, um im unterschwelligen Strömen
+            <persName ref="http://www.wikidata.org/entity/Q6882">Joycescher</persName> Natur erneut
+          aufbereitet und in Szene gesetzt zu werden. Die gesamte Novelle skandiert gleichsam die
+          Biegungen und Verzweigungen des Liffey, wird von ihm vorangetrieben und dynamisiert.</p>
+        <p><emph>This is my city and my game</emph>, sagt <persName type="fictional"
+            ref="http://www.wikidata.org/entity/Q2533737">Sam Spade</persName> und präsentiert
+          dergestalt eine Orgie von Zeichen, die man nur im Spiel, spielend zu beherrschen, zu
+          benutzen vermag. Weder zentriert noch transparent, schafft sich eine zwielichtige,
+          unsichtbare Stadt, die nicht nur an der Oberfläche, sondern <emph>auch inwendig offen,
+            durchdrungen von unsichtbaren Strahlen und Strömungen, sowie Anreizen und Kräften
+            ausgesetzt ist, die unter der Schwelle normaler Wahrnehmung liegen (<persName
+              ref="http://www.wikidata.org/entity/Q469888">Lewis Mumford</persName>)</emph>.</p>
+        <p>Verstreut und vielfältig, möglichkeitsträchtig und relativ eröffnet das
+            <emph>neuzeitliche Labyrinth (<persName ref="http://www.wikidata.org/entity/Q61078"
+              >Benjamin</persName>)</emph> einen Raum von gleichwertigen Alternativen. Neben
+            <persName ref="http://www.wikidata.org/entity/Q868">Aristoteles</persName>, dem großen
+          Logiker und Götzen klassischer Kriminalliteratur wie mittelalterlichen Kommentars, – eine
+          nicht zufällige Koinzidenz – tritt nun Carmen, <pb n="60" xml:id="p60"/> der Zufall des
           tangoartig stilisierten Kriminogenen, der ruchlosen Eleganz, die in cortes und quebradas
           durch die Welt tanzt, sich an ihr schadlos hält, ohne sie festzuhalten. Voraussetzung
           dafür ist die Distanz zu sich selbst und zur Welt, deren Ansicht nicht mehr unschuldig und
@@ -1879,26 +1928,28 @@
           der Schwebe gehalten wird. Einer Ironie, die die methodische Form, die Art der Rede und
           den Stil in den Vordergrund stellt, zum wesentlichen erklärt, ohne den starren opaken
           Gewichtigkeiten aufzusitzen.</p>
-        <p>Nous autres, athees, Wir, die Gottlosen – diese von <persName
+        <p><emph>Nous autres, athees, Wir, die Gottlosen</emph> – diese von <persName
             ref="http://www.wikidata.org/entity/Q160333">Mérimée</persName> überlieferte Wendung,
           die ihn sich wohltuend von den Verehrern <persName
             ref="http://www.wikidata.org/entity/Q49767">Chateaubriands</persName> und <persName
             ref="http://www.wikidata.org/entity/Q742">Racines</persName> absetzen läßt, kennzeichnet
           seine nüchterne, gleichwohl distanziert-ironische Haltung, in der Carmen den sentimentalen
           Geröll und die schwülstigen Schnörkel der Romantik beseite räumt. Diese Tradition in
-          Anspruch nehmen, gerät Carmen Nova zu Sainete, die sich über den strikten Fortgang eines
-          durch Deduktion gewonnenen Weltlaufs belustigt, wobei sie jedoch nicht in den düsteren
-          Glauben an die eine Wahrheit allen Wesens und die zehrende Sehnsucht nach platonischer
-          Schönheit verfällt. Es ist eine manchmal mit augenzwinkernden Affektiertheiten und
-          exaltiertem metaphorischen Trommelfeuer vorgetragene Aufforderung, den Text der Welt
-          ständig neu zu lesen und zu schreiben, ein Spiel mit Bedeutungen, das permutiert, statt zu
-          klassifizieren, wie <persName ref="http://www.wikidata.org/entity/Q36330">Giordano
-            Bruno</persName> durch die Luft zu fliegen, in den Himmel einzudringen, die Sterne zu
-          durcheilen, über den Rand der Welt hinauszusteigen, die erdichtete Mauern zum Verschwinden
-          bringen, die man als erste, achte, neunte, zehnte Sphäre aufgerichtet hat und wieviele
-          anderem man noch, im Gefolge törichter Mathematiker und blinder Anschauungen vulgärer
-          Philosophen, hinzufügen könnte (Aschermittwochsmahl).</p>
-        <signed>Roland Barthes</signed>
+          Anspruch nehmen, gerät <emph>Carmen Nova</emph> zu Sainete, die sich über den strikten
+          Fortgang eines durch Deduktion gewonnenen Weltlaufs belustigt, wobei sie jedoch nicht in
+          den düsteren Glauben an die eine Wahrheit allen Wesens und die zehrende Sehnsucht nach
+          platonischer Schönheit verfällt. Es ist eine manchmal mit augenzwinkernden
+          Affektiertheiten und exaltiertem metaphorischen Trommelfeuer vorgetragene Aufforderung,
+          den Text der Welt ständig neu zu lesen und zu schreiben, ein Spiel mit Bedeutungen, das
+          permutiert, statt zu klassifizieren, wie <persName
+            ref="http://www.wikidata.org/entity/Q36330">Giordano Bruno</persName>
+          <emph>durch die Luft zu fliegen, in den Himmel einzudringen, die Sterne zu durcheilen,
+            über den Rand der Welt hinauszusteigen, die erdichtete Mauern zum Verschwinden bringen,
+            die man als erste, achte, neunte, zehnte Sphäre aufgerichtet hat und wieviele anderem
+            man noch, im Gefolge törichter Mathematiker und blinder Anschauungen vulgärer
+            Philosophen, hinzufügen könnte (Aschermittwochsmahl)</emph>.</p>
+        <signed><persName ref="http://www.wikidata.org/entity/Q179109">Roland
+          Barthes</persName></signed>
       </div>
       <pb n="61" xml:id="p61"/>
       <div type="interview" rend="sans-serif">
@@ -1907,9 +1958,10 @@
           ECO ÜBER DEN ZUFALL, DEN KRIMINALROMAN UND DIE NAMEN DER ROSEN</head>
         <sp>
           <speaker>Liberation:</speaker>
-          <said>Widerspricht der deinem Roman (Der Name der Rose) zugrundeliegende Rahmen eines
-            Kriminalromans nicht deinen frühen Veröffentlichungen zur Theorie des Offenen
-            Kunstwerkes?</said>
+          <said>Widerspricht der deinem Roman (<rs type="work"
+              ref="http://www.wikidata.org/entity/Q172850">Der Name der Rose</rs>) zugrundeliegende
+            Rahmen eines Kriminalromans nicht deinen frühen Veröffentlichungen zur Theorie des
+            Offenen Kunstwerkes?</said>
         </sp>
         <sp>
           <speaker>Eco:</speaker>
@@ -1927,13 +1979,13 @@
         <sp>
           <speaker>Eco:</speaker>
           <said>Nein, so ist das sicherlich nicht gemeint. Es ist eher so, daß der Zufall das
-            unersetzliche Pandon zu jeglichem Ordnungsmodell des Menschen, jedem semiologischen
-            Prinzip, <pb n="62" xml:id="p62"/> ist, der Zufall also immer den Grenzstein für unser
-            Zeichnungsvermögen stellt. Insofern wirkt der Zufall aber auch als Katalysator dieser
-            Systeme, indem er sie bei überhöhter und unerträglicher Geschlossenheit und
-            Eindeutigkeit sprengt und so die Perspektive auf offenere Verweisungsnetze einbringt.
-            Eine Perspektive, die einen konnotativen Reichtum eröffnet, ohne in kommunitative
-            Wirrniss zu verfallen.</said>
+            unersetzliche <sic>Pandon</sic> zu jeglichem Ordnungsmodell des Menschen, jedem
+            semiologischen Prinzip, <pb n="62" xml:id="p62"/> ist, der Zufall also immer den
+            Grenzstein für unser Zeichnungsvermögen stellt. Insofern wirkt der Zufall aber auch als
+            Katalysator dieser Systeme, indem er sie bei überhöhter und unerträglicher
+            Geschlossenheit und Eindeutigkeit sprengt und so die Perspektive auf offenere
+            Verweisungsnetze einbringt. Eine Perspektive, die einen konnotativen Reichtum eröffnet,
+            ohne in kommunitative Wirrniss zu verfallen.</said>
         </sp>
         <sp>
           <speaker>Liberation:</speaker>
@@ -1964,8 +2016,10 @@
         <pb n="63" xml:id="p63"/>
         <sp>
           <speaker>Liberation:</speaker>
-          <said>Trotzdem sagt aber William von Baskerville, daß wir nur einem Anschein von Ordnung
-            hinterherlaufen, daß es in der Welt aber keine Ordnung gibt.</said>
+          <said>Trotzdem sagt aber <persName type="fictional"
+              ref="http://www.wikidata.org/entity/Q2715294">William von Baskerville</persName>, daß
+            wir nur einem Anschein von Ordnung hinterherlaufen, daß es in der Welt aber keine
+            Ordnung gibt.</said>
         </sp>
         <sp>
           <speaker>Eco:</speaker>
@@ -1975,12 +2029,13 @@
             sehr lakonisch in einer Antwort auf den cartesianischen Rationalismus auf den Punkt
             gebracht. Er faßte seine Betrachtungen des Rationalismus in der Frage zusammen: Allein,
             wie können sie, die Rationalisten, gewiß sein, alles gesehen zu haben? Das heißt doch
-            soviel wie, daß uns gesamtes Erkenntnismodell, in dessen Zentrum ein zweifelndes Cogito
-            steht, immer nur ein relatives Begriffs- und sehr lückenhaftes Bezeichnungssystem ist,
-            das zwar anwendbar und praktikabel, aber durchaus nicht ein weiterer Stein der Weisen
-            ist. An den hatten die Weisen ja auch selbst kaum geglaubt, die zwar die Bücher
-            achteten, aber eben auch das, was sie nicht wußten und wissen. Denken wir nur an die
-            keltische Tradition metaphorischer Verzweigungen und Worträtsel.</said>
+            soviel wie, daß <sic>uns</sic> gesamtes Erkenntnismodell, in dessen Zentrum ein
+            zweifelndes Cogito steht, immer nur ein relatives Begriffs- und sehr lückenhaftes
+            Bezeichnungssystem ist, das zwar anwendbar und praktikabel, aber durchaus nicht ein
+            weiterer Stein der Weisen ist. An den hatten die Weisen ja auch selbst kaum geglaubt,
+            die zwar die Bücher achteten, aber eben auch das, was sie nicht wußten und wissen.
+            Denken wir nur an die keltische Tradition metaphorischer Verzweigungen und
+            Worträtsel.</said>
         </sp>
         <p>(...)</p>
       </div>
