@@ -173,12 +173,12 @@
                 <l>Halt ihn fest und er wird entfliehen,</l>
                 <l>weichst du ihm aus, flugs ist er da!</l>
               </lg></quote>
-            <bibl><emph>(<title level="a" ref="http://www.wikidata.org/entity/Q692648"
-                  >Habanera</title> aus <author ref="http://www.wikidata.org/entity/Q56158"
-                  >Bizets</author>
-                <title level="s" ref="http://www.wikidata.org/entity/Q185968">Carmen</title>, <title
-                  level="a" ref="http://www.wikidata.org/entity/Q692648">L'amour est un oiseau
-                  rebelle</title>)</emph></bibl>
+            <bibl rend="italic">(<title level="a" ref="http://www.wikidata.org/entity/Q692648"
+                >Habanera</title> aus <author ref="http://www.wikidata.org/entity/Q56158"
+                >Bizets</author>
+              <title level="s" ref="http://www.wikidata.org/entity/Q185968">Carmen</title>, <title
+                level="a" ref="http://www.wikidata.org/entity/Q692648">L'amour est un oiseau
+                rebelle</title>)</bibl>
           </cit>
         </epigraph>
       </div>
@@ -269,10 +269,9 @@
               denen, die nicht wissen, wohin sie zu gehen haben; er erkennt außerdem nicht, ob etwas
               Gefundenes das ist, was gesucht wird, oder nicht. Denn das Ziel ist nur dem klar, der
               zuvor ohne Weg ist.</quote>
-            <bibl> (<author ref="http://www.wikidata.org/entity/Q868"
-                ><emph>Aristoteles</emph></author> – <title><emph><rs type="work"
-                    ref="http://www.wikidata.org/entity/Q661655">Metaphysik</rs></emph></title>)
-            </bibl>
+            <bibl rend="italic">(<author ref="http://www.wikidata.org/entity/Q868"
+                >Aristoteles</author> – <title><rs type="work"
+                  ref="http://www.wikidata.org/entity/Q661655">Metaphysik</rs></title>) </bibl>
           </cit>
         </epigraph>
         <epigraph>
@@ -280,9 +279,9 @@
             <quote>Ich scheine mir der gleiche zu bleiben; aber im dauernden Auf und Ab der Dinge,
               die in mich eingehen und <sic>micht</sic> verlassen, bin ich in jedem Zeit-Moment ein
               anderer.</quote>
-            <bibl>(<author ref="http://www.wikidata.org/entity/Q178709"><emph>Vico</emph></author> –
-                    <title><emph><rs type="work" ref="http://www.wikidata.org/entity/Q16938778">De
-                    nostri temporis <sic>studiorium</sic> ratione</rs></emph></title>)</bibl>
+            <bibl rend="italic">(<author ref="http://www.wikidata.org/entity/Q178709">Vico</author>
+              – <title><rs type="work" ref="http://www.wikidata.org/entity/Q16938778">De nostri
+                  temporis <sic>studiorium</sic> ratione</rs></title>)</bibl>
           </cit>
         </epigraph>
         <epigraph>
@@ -290,26 +289,26 @@
             <quote>Warum ein geordnetes System nicht so gut aus dem Bauch wie aus dem Gehirn
               hervorgesponnen werden kann, wird sich in befriedigender Form schwer begründen
               lassen.</quote>
-            <bibl>(<author ref="http://www.wikidata.org/entity/Q37160"><emph>Hume</emph></author> –
-                    <title><emph><rs type="work" ref="http://www.wikidata.org/entity/Q965564"
-                    >Dialoge</rs></emph></title>)</bibl>
+            <bibl rend="italic">(<author ref="http://www.wikidata.org/entity/Q37160">Hume</author> –
+                  <title><rs type="work" ref="http://www.wikidata.org/entity/Q965564"
+                >Dialoge</rs></title>)</bibl>
           </cit>
         </epigraph>
         <epigraph>
           <cit>
             <quote>James Bond, with two double bourbon inside him, sat in the final departure lounge
               of Miami Airport and thought about life and death.</quote>
-            <bibl>(<author ref="http://www.wikidata.org/entity/Q82104"><emph>Fleming</emph></author>
-              – <title><emph><rs type="work" ref="http://www.wikidata.org/entity/Q1777426"
-                    >Goldfinger</rs></emph></title>)</bibl>
+            <bibl rend="italic">(<author ref="http://www.wikidata.org/entity/Q82104"
+                >Fleming</author> – <title><rs type="work"
+                  ref="http://www.wikidata.org/entity/Q1777426">Goldfinger</rs></title>)</bibl>
           </cit>
         </epigraph>
         <epigraph>
           <cit>
             <quote>Schweigen, Verbannung, List.</quote>
-            <bibl>(<author ref="http://www.wikidata.org/entity/Q6882"><emph>Joyce</emph></author> –
-                    <title><emph><rs type="work" ref="http://www.wikidata.org/entity/Q465360"
-                    >Jugendbildnis</rs></emph></title>)</bibl>
+            <bibl rend="italic">(<author ref="http://www.wikidata.org/entity/Q6882">Joyce</author> –
+                  <title><rs type="work" ref="http://www.wikidata.org/entity/Q465360"
+                  >Jugendbildnis</rs></title>)</bibl>
           </cit>
         </epigraph>
         <p><quote><emph>Ich bezweifle sehr, daß Fräulein Carmen reinrassig war, jedenfalls war sie
@@ -333,8 +332,9 @@
               Redensart, die von feiner Beobachtung zeugt. Wer keine Zeit hat, im zoologischen
               Garten den Blick eines Wolfes zu studieren, beobachte eine Katze, wenn sie einem Spatz
               auflauert.</emph></quote><note place="foot"><bibl><author
-                ref="http://www.wikidata.org/entity/Q160333">Mérimée</author>,
-              <title>Carmen</title></bibl> (Der Übersetzer)</note></p>
+                ref="http://www.wikidata.org/entity/Q160333">Mérimée</author>, <title
+                ref="http://www.wikidata.org/entity/Q674832">Carmen</title></bibl> (Der
+            Übersetzer)</note></p>
         <p>Carmen, Carmen – durch die Adern der Stadt fließt das Gift der Schönheit, der Schönheit,
           die Bestie ist, ohne ihrer zu bedürfen. Vipernde Straßen, die in der morgendlichen Hitze
           den Schweiß der Nacht ausdünsten, gekühlte Quader, die sich an Parallelen zu Tode reiben.
@@ -1271,35 +1271,36 @@
           und Inventarisierung der Bibliothek, deren Sinn die Erfassung von Büchern über Carmen Nova
           war. Da ich nach Maßgabe der bisherigen Ereignisse die Täuschungsmanöver und
           Irrleitungsversuche meiner Gegner nicht unterschätzen durfte, gab ich die gesamte
-          Buchsammlung zur Untersuchung frei, behielt mir aber selbst vor, die belletristischen
-          Abteilung unter die Lupe zu nehmen. Stunde um Stunde verstrichen und tausende von Büchern
-          wurden dem Hort des Desinteresses überantwortet, Zeile für Zeile wurden von den Augen
-          durchgewaschen und an der Luft der Irrelevanz getrocknet, Seiten stapelten sich zu Themen,
-          Themen häuften sich zu Disziplinen und Disziplinen türmten sich zu Bereichen, welche als
-          außerhalb unserer Kompetenz eingelagert wurden. Buchstaben überfluteten unsere Gehirne und
-          wrangen sich als Parameter der Langeweile aus. Hin und wieder erscholl das Echo meiner
-          Apathie von der gegenüberliegenden Seite der distichen Bücherreihen, wo ein Mitarbeiter
-          jeden Akt der Aussonderung mit einem verhaltenen Stoßseufzer der Enttäuschung besiegelte;
-          nach Stunden ergebnislosen Durchkämmens endlich weiteten sich diese Seufzer zu einem
-          langgezogenen erfolgverheißenden Stöhnen, mit dem mir ein Buch herübergereicht wurde, auf
-          dessen Einband in goldenen Schörkeln Carmen Nova und darunter in etwas kleinerer Schrift
-          der Verlag Sherrinford &amp; Sacker eingraviert war. Sprudelnd vor Ausrufen des Glückes,
-          spurtete ich in Windeseile auf die andere Seite des Regals in der Absicht, meinem Finder
-          zu danken und ihn nach dem genauen Standort zu befragen. Wie der gelangweilte Leser
-          inzwischen wohl vorausgesehen haben wird, kam ich jedoch nicht mehr dazu, da der Mann
-          soeben mit einen Messer im Rücken verschied. Die in Windeseile organisierte Suche nach dem
-          Täter erbrachte, <pb n="41" xml:id="p41"/> wie befürchtet, auch keinen Hinweis und dennoch
-          war ich nun – über eine Leiche – das erste Mal einen Schritt vorangekommen, dem Phantom
-          eine Schicht näher, denn dieses Buch konnte mir zu jener heiß ersehnten Spur verhelfen,
-          deren geheimnisvollem Zauber schon so viele Menschen und Dinge zum Opfer gefallen
-          waren.</p>
+          Buchsammlung zur Untersuchung frei, behielt mir aber selbst vor, die
+            <sic>belletristischen</sic> Abteilung unter die Lupe zu nehmen. Stunde um Stunde
+          verstrichen und tausende von Büchern wurden dem Hort des Desinteresses überantwortet,
+          Zeile für Zeile wurden von den Augen durchgewaschen und an der Luft der Irrelevanz
+          getrocknet, Seiten stapelten sich zu Themen, Themen häuften sich zu Disziplinen und
+          Disziplinen türmten sich zu Bereichen, welche als außerhalb unserer Kompetenz eingelagert
+          wurden. Buchstaben überfluteten unsere Gehirne und wrangen sich als Parameter der
+          Langeweile aus. Hin und wieder erscholl das Echo meiner Apathie von der gegenüberliegenden
+          Seite der distichen Bücherreihen, wo ein Mitarbeiter jeden Akt der Aussonderung mit einem
+          verhaltenen Stoßseufzer der Enttäuschung besiegelte; nach Stunden ergebnislosen
+          Durchkämmens endlich weiteten sich diese Seufzer zu einem langgezogenen erfolgverheißenden
+          Stöhnen, mit dem mir ein Buch herübergereicht wurde, auf dessen Einband in goldenen
+            <sic>Schörkeln</sic> Carmen Nova und darunter in etwas kleinerer Schrift der Verlag
+          Sherrinford &amp; Sacker eingraviert war. Sprudelnd vor Ausrufen des Glückes, spurtete ich
+          in Windeseile auf die andere Seite des Regals in der Absicht, meinem Finder zu danken und
+          ihn nach dem genauen Standort zu befragen. Wie der gelangweilte Leser inzwischen wohl
+          vorausgesehen haben wird, kam ich jedoch nicht mehr dazu, da der Mann soeben mit
+            <sic>einen</sic> Messer im Rücken verschied. Die in Windeseile organisierte Suche nach
+          dem Täter erbrachte, <pb n="41" xml:id="p41"/> wie befürchtet, auch keinen Hinweis und
+          dennoch war ich nun – über eine Leiche – das erste Mal einen Schritt vorangekommen, dem
+          Phantom eine Schicht näher, denn dieses Buch konnte mir zu jener heiß ersehnten Spur
+          verhelfen, deren geheimnisvollem Zauber schon so viele Menschen und Dinge zum Opfer
+          gefallen waren.</p>
         <p rend="parskip">Ich schlug das Buch auf und las: »Carmen, Carmen – durch die Adern der
           Stadt fließt das Gift der Schönheit, der Schönheit, die Bestie ist«, und wieder einmal sah
-          ich mich genarrt. Oder doch nicht? Hing der Schlüssel, <emph>marruchine</emph> vielleicht
-          in den zwischen den Zeilen verborgenen Sentenzen, beinhaltete der Text einen
-          brachliegenden Kodex, den ich, besessen von meiner Handlungsgier, zum Schmuckwert
-          degradiert hatte? War es möglich, daß des Rätsels Lösung nie versteckt worden war, sondern
-          meine Augen sich ihm ständig entwunden hatten?</p>
+          ich mich genarrt. Oder doch nicht? Hing der Schlüssel, <emph><foreign xml:lang="it"
+              >marruchine</foreign></emph> vielleicht in den zwischen den Zeilen verborgenen
+          Sentenzen, beinhaltete der Text einen brachliegenden Kodex, den ich, besessen von meiner
+          Handlungsgier, zum Schmuckwert degradiert hatte? War es möglich, daß des Rätsels Lösung
+          nie versteckt worden war, sondern meine Augen sich ihm ständig entwunden hatten?</p>
         <p>Mir schwindelte, ich, ein Gefangener meiner selbst. Intrigant am eigenen Hofe, dessen
           Bausteine durch sich selbst sprachen? Doch, wie angefangen, wie das Geheimnis zum Sprechen
           zwingen oder war gar kein Zwang nötig, weil kein Geheimnis existierte? Schrieb ich nicht
@@ -1327,32 +1328,31 @@
           konnte die Verlagsleitung doch nicht davon ablassen und brachte statt der inkriminierten
           Originaltexte als Kompromiß deren Interpretation zur Veröffentlichung. Nachdem bereits die
           Bewohner des Logischen durch die Uneinsichtigekeit des Vorstandes zu strafrechtlichen
-          Schritten gezwungen worden waren, erfolgte nun die vorhersehbaren Einsprüche der
-          philosophischen Bezugsquellen, aus denen sich diese Interpretationen speisten. Mit einigem
-          Erfolg wurde den Abhandlungen der Hahn zugedreht, indem man die Quelle in andere Bahnen
-          leitete und das vormals blühende Land in eine öde und trockene Steppe verwandelte. Vom
-          Regen in die Traufe geworfen, kam die Verlagsleitung nicht umhin, sich der Vertrauensfrage
-          der Besitzer und der Publikums zu stellen, die ihnen eine letzte Chance zur Lösung des
-          Problems gaben. Zwischen Scylla und Charybdis segelnd, gedrängt von finanzieller Not und
-          mangelndem Interesse einigte das Managment sich darauf, einen eigenen Inhalt zu
-          verfertigen, dessen Systematik aus sich selbst sprießen sollte, womit man ganz sicher
-          gehen wollte, keine Anleihen bei Plagiatjägern irgendwelcher Coleur zu tätigen. Was sie
-          dann entwickelten und Eigentümern wie Publikumsdelegierten zugleich in einer jener
-          turbulenten ersten Vorstandsitzungen als neues Produktions- wie Vertriebsobjekt
-          offerierten, war folgendes: Es sollte umfassend sein, geregelt, gleichwohl diffus, eine
-              <sic><foreign xml:lang="en"><emph>story</emph></foreign></sic> mußte enthalten sein,
-          doch durften die philosophischen Treiber nicht zu schwach geraten. Spuren waren zu legen,
-          die einen eigenständigen kriminalistischen Rahmen implizierten, ihm jedoch zwecks Lösung
-          jederzeit zu überschreiten vermochten. Es durfte ein Roman sein, konnte sich aber auch um
-          eine wissenschaftliche Arbeit handeln, wenn diese sich als von genügend
-          Verwirrungsmanövern und Selbstschußanlagen durchsetzt erweisen würde. Gleichgültig ob
-          Handlung oder Methode huldigend, der Fortgang des Werkes mußte gesichert sein, auch wenn
-          er in Gestalt des Projektes selbst von statten ging. Obwohl man Kausalitätsreihen nicht
-          abgeneigt war, stellten sie in letzter Instanz kein <pb n="43" xml:id="p43"/> Muß dar,
-          wichtig war vor allem die Bewegung, wenngleich sie auch in sich selbst münden mochte. Da
-          man mich als Hauptperson oder zentralen Faktor im Auge hatte, übertrug man mir die
-          ehrenvolle Aufgabe, die Sache ins Rollen zu bringen, denn schließlich sollte ich ja von
-          und mit ihr leben.</p>
+          Schritten gezwungen worden waren, <sic>erfolgte</sic> nun die vorhersehbaren Einsprüche
+          der philosophischen Bezugsquellen, aus denen sich diese Interpretationen speisten. Mit
+          einigem Erfolg wurde den Abhandlungen der Hahn zugedreht, indem man die Quelle in andere
+          Bahnen leitete und das vormals blühende Land in eine öde und trockene Steppe verwandelte.
+          Vom Regen in die Traufe geworfen, kam die Verlagsleitung nicht umhin, sich der
+          Vertrauensfrage der Besitzer und <sic>der</sic> Publikums zu stellen, die ihnen eine
+          letzte Chance zur Lösung des Problems gaben. Zwischen Scylla und Charybdis segelnd,
+          gedrängt von finanzieller Not und mangelndem Interesse einigte das Managment sich darauf,
+          einen eigenen Inhalt zu verfertigen, dessen Systematik aus sich selbst sprießen sollte,
+          womit man ganz sicher gehen wollte, keine Anleihen bei Plagiatjägern irgendwelcher Coleur
+          zu tätigen. Was sie dann entwickelten und Eigentümern wie Publikumsdelegierten zugleich in
+          einer jener turbulenten ersten <sic>Vorstandsitzungen</sic> als neues Produktions- wie
+          Vertriebsobjekt offerierten, war folgendes: Es sollte umfassend sein, geregelt, gleichwohl
+          diffus, eine <emph>story</emph> mußte enthalten sein, doch durften die philosophischen
+          Treiber nicht zu schwach geraten. Spuren waren zu legen, die einen eigenständigen
+          kriminalistischen Rahmen implizierten, <sic>ihm</sic> jedoch zwecks Lösung jederzeit zu
+          überschreiten vermochten. Es durfte ein Roman sein, konnte sich aber auch um eine
+          wissenschaftliche Arbeit handeln, wenn diese sich als von genügend Verwirrungsmanövern und
+          Selbstschußanlagen durchsetzt erweisen würde. Gleichgültig ob Handlung oder Methode
+          huldigend, der Fortgang des Werkes mußte gesichert sein, auch wenn er in Gestalt des
+          Projektes selbst von statten ging. Obwohl man Kausalitätsreihen nicht abgeneigt war,
+          stellten sie in letzter Instanz kein <pb n="43" xml:id="p43"/> Muß dar, wichtig war vor
+          allem die Bewegung, wenngleich sie auch in sich selbst münden mochte. Da man mich als
+          Hauptperson oder zentralen Faktor im Auge hatte, übertrug man mir die ehrenvolle Aufgabe,
+          die Sache ins Rollen zu bringen, denn schließlich sollte ich ja von und mit ihr leben.</p>
         <p rend="parskip">Ich klapperte also am nächsten Morgen sämtliche beim Verlag angestellten
           Ghostwriter in der Absicht ab, ihnen ein größtmögliches Quantum von Irrwitz und Handlung
           zu entlocken. Der Vormittag verstrich und der Mittag reizte bereits meine
@@ -1365,9 +1365,9 @@
           Brodeln brachten. Wir bliesen einen leergebrannten Autor zur doppelten Größe auf und
           entrißen seinem aufgedunsenen Gehirn Zusammenhänge infinitesimaler Größe, Gedanken, die
           als stete Maßbänder echter Qualifikation die Welt umschifften. Oder wir tauften das
-          Nichts, die Leere der Schrift zum Brandeisen signifkanter Macht, die sich an den
-          Konnotationen des Publikums unendlich brach. Wir schwammen im Meer der Kongenialität und
-          durchpflügten unter fremder Flagge auf der Suche nach neuen Fanggründen die Ozeane der
+          Nichts, die Leere der Schrift zum Brandeisen <sic>signifkanter</sic> Macht, die sich an
+          den Konnotationen des Publikums unendlich brach. Wir schwammen im Meer der Kongenialität
+          und durchpflügten unter fremder Flagge auf der Suche nach neuen Fanggründen die Ozeane der
           Romane, Dokumente, Traktate, Kommentare, Kritiken und Gerüchte. Wir waren viele und
           arbeiteten dennoch nach einer Methode, die uns punktartig verkürzte. Systematisch
           durchkämmte ich die Archive der Zeitungen nach den Flohen spektakulärer Verwicklungen,
@@ -1394,9 +1394,9 @@
           der Anzeige vermerkten Adresse auf, die mich direkt zum Stadtjahrmarkt führte, dessen
           Losverkäufer mich auf mein Anfragen zu einem kleinen, vom Schimmel befallenen, in früheren
           Jahren wohl in blendendem Gelb gefärbten Zelt geleitete, an dessen Eingangsverschlag ein
-          Schild mit den vier Zeichen der Kabbala, heiligen Insinuen Gottes, Iod He Vau He, Wort der
-          Worte, Schlüsse aller Weisheit bedächtig im Wind schwankte.</p>
-        <p><emph>Steinbock, Wassermann, Fische, Widder,</emph> Stier rollte es an mir vorüber, als
+          Schild mit den vier Zeichen der Kabbala, heiligen <sic>Insinuen</sic> Gottes, Iod He Vau
+          He, Wort der Worte, Schlüsse aller Weisheit bedächtig im Wind schwankte.</p>
+        <p><emph>Steinbock, Wassermann, Fische, Widder, Stier</emph> rollte es an mir vorüber, als
           mich die Wahrsagerin lächelnd begrüßte und wortlos ins Innere führte, wo ein runder Tisch
           thronte, dessen Mitte von der obligatorischen Kugel gekrönt wurde. Das Aussehen der Frau
           zu beschreiben war mir unmöglich, da sie mit instinktivem Gespür sich als Aufenthaltsort
@@ -1412,11 +1412,11 @@
           soziologisch-philosophischen Anhang, in dem wir versuchen, ihnen die Beweggründe und
           kausalen Zusammenhänge ihrer diversen Handlungsstränge nahezubringen, was sie
           dementsprechend natürlich am teuersten kommen würde. Alle Preise verstehen sich
-          selbstverständlich inkl. Mehrwertssteuer und«, so fuhr sie, von meinem zur Schau
-          getragenem unsicheren Verhalten bestärkt, fort, »wenn ich ihnen einen kostenlosen Rat
-          geben darf: Die meisten unserer Kunden entscheiden sich für ein Mischprogramm aus 1 und 3,
-          was einerseits preislich entlastet, andererseits aber nicht des fundierten Überblicks
-          entbehrt.«</p>
+          selbstverständlich inkl. <sic>Mehrwertssteuer</sic> und«, so fuhr sie, von meinem zur
+          Schau <sic>getragenem</sic> unsicheren Verhalten bestärkt, fort, »wenn ich ihnen einen
+          kostenlosen Rat geben darf: Die meisten unserer Kunden entscheiden sich für ein
+          Mischprogramm aus 1 und 3, was einerseits preislich entlastet, andererseits aber nicht des
+          fundierten Überblicks entbehrt.«</p>
         <p>Als Mann von Welt war ich natürlich mit solch ordinären geschäftlichen Tricks vertraut,
           lehnte deshalb höflich ab und wählt Nummer 1/pur, zumal mir kaum mehr als die für dieses
           Horoskop verlangte Summe zur Verfügung stand. Geringschätzigen Blickes zog die Wahrsagerin
