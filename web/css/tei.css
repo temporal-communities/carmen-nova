@@ -162,3 +162,7 @@ tei-sic::after {
 tei-p[rend~="parskip"] {
   margin-top: 1em;
 }
+[rend~="sans-serif"] {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
