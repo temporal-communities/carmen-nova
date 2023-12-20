@@ -51,7 +51,7 @@ tei-rs {
 }
 tei-quote,
 tei-emph,
-[rend="italic"] {
+[rend~="italic"] {
   font-style: italic;
 }
 p.break {
@@ -126,9 +126,6 @@ tei-figure > tei-p {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
-tei-hi[rend~="italics"] {
-  font-style: italic;
-}
 tei-l {
   display: block;
 }
@@ -167,4 +164,3 @@ tei-p[rend~="parskip"] {
 [rend~="sans-serif"] {
   font-family: Arial, Helvetica, sans-serif;
 }
-
