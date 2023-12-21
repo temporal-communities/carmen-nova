@@ -5,8 +5,11 @@
 - Erstveröffentlichung: 21. Dezember 2023
 - gerendert mit [CETEIcean](https://github.com/TEIC/CETEIcean)
 
+## Kontext
+- [»Rätsel um falschen Eco-Roman«](https://www.uni-siegen.de/start/news/forschungsnews/1019454.html) (uni-siegen.de, 29. September 2023)
+
 ## Scan
-- Staats- und Universitätsbibliothek (SuUB) Bremen ([urn:nbn:de:gbv:46:1-162417](https://nbn-resolving.org/urn:nbn:de:gbv:46:1-162417))
+- Staats- und Universitätsbibliothek Bremen (SuUB) ([urn:nbn:de:gbv:46:1-162417](https://nbn-resolving.org/urn:nbn:de:gbv:46:1-162417))
 - Erstellung der TEI-Version in Absprache mit der SuUB
 - Lizenz: Nutzungsrechte eingeschränkt – Freier Zugriff – Nicht kommerziell
 
@@ -36,6 +39,7 @@
 
 ## Vorschläge/Todo
 - erwähnte Orte auszeichnen mit `<placeName>` (z. B. Italien, Moldau, New Yorker Bronx, Frankreich, Amerika, Los Angeles, San Francisco, Liffey)
+- add cover pic and emblem on page 7 (`<figure>`)
 - Sätze kennzeichnen mit `<s>`
 
 ## Carmen-Playlist 😊
