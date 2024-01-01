@@ -1708,10 +1708,10 @@
           <term xml:id="plakat" rend="italic">Plakat</term> – <gloss target="#plakat">siehe dazu
             auch die Untersuchung <persName ref="http://www.wikidata.org/entity/Q12807"
               >Ecos</persName> über <rs type="work">„Messages – Plakat, Zeitung, Film. Semiotische
-              Analysen medialer Systeme“</rs>; außerdem <persName ref="Q61078">Walter
-                <sic>Banjamin</sic></persName>: <rs type="work">„Ausstellungswesen, Reklame,
-              Grandville“</rs> im <rs type="work" ref="http://www.wikidata.org/entity/Q4785097"
-              >Passagenwerk</rs>.</gloss>
+              Analysen medialer Systeme“</rs>; außerdem <persName
+              ref="http://www.wikidata.org/entity/Q61078">Walter <sic>Banjamin</sic></persName>: <rs
+              type="work">„Ausstellungswesen, Reklame, Grandville“</rs> im <rs type="work"
+              ref="http://www.wikidata.org/entity/Q4785097">Passagenwerk</rs>.</gloss>
           <term xml:id="bibliothek" rend="italic">Bibliothek</term> – <gloss target="#bibliothek"
             >Die <persName ref="http://www.wikidata.org/entity/Q909"><sic>Borgesche</sic></persName>
             <rs type="work" ref="http://www.wikidata.org/entity/Q473">von Babel</rs> und
