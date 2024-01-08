@@ -65,9 +65,17 @@
       }
 
       CETEIcean.addBehaviors(behaviors)
-      CETEIcean.getHTML5(
-        "https://raw.githubusercontent.com/temporal-communities/carmen-nova/main/carmen_nova.xml",
-      ).then((data) => {
+
+      let url
+      if (window.location.pathname === "/web/") {
+        console.info("🚧 Development mode: Using local XML file.")
+        url = "../carmen_nova.xml"
+      } else {
+        url =
+          "https://raw.githubusercontent.com/temporal-communities/carmen-nova/main/carmen_nova.xml"
+      }
+
+      CETEIcean.getHTML5(url).then((data) => {
         document.querySelector("main.container").appendChild(data)
       })
     </script>
