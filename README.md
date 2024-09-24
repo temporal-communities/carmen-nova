@@ -43,7 +43,7 @@
 
 ## Vorschläge/Todo
 - add cover pic and emblem on page 7 (`<figure>`)
-- Sätze kennzeichnen mit `<s>`
+- Sätze kennzeichnen mit `<s>` (bisher nur im Vorwort)
 
 ## Carmen-Playlist 😊
 - [auf YouTube](https://www.youtube.com/playlist?list=PLwwYoQq959IuCeUaNichLxaGfN1d03Kwz)
