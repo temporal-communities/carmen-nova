@@ -7,7 +7,7 @@
       <titleStmt>
         <title type="main">Carmen Nova</title>
         <title type="sub">Kriminalnovelle</title>
-        <!-- probably misattributed -->
+        <!-- intentionally misattributed -->
         <author>
           <persName>
             <forename>Umberto</forename>
@@ -609,11 +609,12 @@
           melasseartig und zäh tropften die Worte von <sic>meinem</sic> Lippen, wagten kaum die
           Initimität des Kehlkopfraumes aufzugeben und die Wildnis gefahrenumwitterter Wellenspasmen
           zu schnuppern, undeutlich und verschwommen bündelten sich die Tropfen, nährten sich
-          selbst, um den kraftlosen Rinnsal zum breiten Bett der Moldau zu weiten, die, gefördert
-          von der sich entspannenden Mimik meines Gegenübers und der Wohlwollen indizierenden
-          Eintrübung ihrer Augen, das kurze klimatische Zwischenspiel eines Verhörs als Albtraum
-          überbordete. Ich erzählte und erzählte, wie ein Lindwurm wanden sich die Worte um mich
-          herum, hüllten mich in Mäntel aus Impressionen und Anklagen, spulten sich zu
+          selbst, um den kraftlosen Rinnsal zum breiten Bett der <placeName
+            ref="http://www.wikidata.org/entity/Q131574">Moldau</placeName> zu weiten, die,
+          gefördert von der sich entspannenden Mimik meines Gegenübers und der Wohlwollen
+          indizierenden Eintrübung ihrer Augen, das kurze klimatische Zwischenspiel eines Verhörs
+          als Albtraum überbordete. Ich erzählte und erzählte, wie ein Lindwurm wanden sich die
+          Worte um mich herum, hüllten mich in Mäntel aus Impressionen und Anklagen, spulten sich zu
           metaphysischen Formen auf und purzelten die Wendeltreppe der Angst hinab, wo sie alsbald
           vor den Füßen der gänzlich in Grund und Boden gestampften Bibliothekarin zum Halten kamen.
           Da stand sie nun, einstmals Bollwerk der Macht dieser Bücherregistratur, Autorität über
@@ -852,8 +853,8 @@
           sie glauben an uns, auch ohne Autor.« So oder ähnlich lautete die Erläuterung zum Buch und
           endete mit einem unverbindlichen Neujahrswunsch und der allgemein gehaltenen Sehnsucht
           nach dem nächsten Sommerurlaub, die ihre Bezugspunkte sicherlich aus dem zur Zeit gängigen
-          Witz vom Weihnachtsmann im Mallorca-Urlaub sogen, dessen Pointe mir leider entfallen
-          war.</p>
+          Witz vom Weihnachtsmann im <placeName ref="http://www.wikidata.org/entity/Q8828"
+            >Mallorca</placeName>-Urlaub sogen, dessen Pointe mir leider entfallen war.</p>
         <p>Irritiert und unschlüssig verließ ich daraufhin die Buchhandlung und schlenderte die
           Straße hinab. Die Sonne färbte sich nach und nach zur Blutorange ein und übergoß die immer
           noch vielköpfig belebte Szenerie mit einem Hauch von Untergang. Müde und resigniert, woran
@@ -1499,11 +1500,12 @@
           worden, hatte ein multinationaler Konzern die Monopolrechte an Carmen für einen
           Milliardenbetrag von einem Strohmann erstanden, dessen Drahtzieher bereits längst wieder
           abgetaucht war, so daß selbst die internationale Polizei trotz intensivster
-          Nachforschungen außer einigen Spuren, die sich in der New Yorker Bronx verloren, keinen
-          Erfolg zeitigen konnte. Zu diesen Schwierigkeiten addierte sich zudem der Umstand, daß der
-          Geheimdienst von höchster Stelle zur Einstellung der Untersuchungen angewiesen worden war,
-          wodurch die Arbeit allein unter dem hemmenden Deckmantel größter Klandestinität auch nach
-          innen zu führen war.</p>
+          Nachforschungen außer einigen Spuren, die sich in der <placeName
+            ref="http://www.wikidata.org/entity/Q18426">New Yorker Bronx</placeName> verloren,
+          keinen Erfolg zeitigen konnte. Zu diesen Schwierigkeiten addierte sich zudem der Umstand,
+          daß der Geheimdienst von höchster Stelle zur Einstellung der Untersuchungen angewiesen
+          worden war, wodurch die Arbeit allein unter dem hemmenden Deckmantel größter
+          Klandestinität auch nach innen zu führen war.</p>
         <p>Die wenigen verläßlichen Referenzpunkte in diesem Fall, Verleger Sherrinford/Sacker und
           Alpha/Omega Vertriebsdirektor Bruno waren offensichtlich auf vehementen Druck von dritter
           Seite geflohen und leiteten ihre Unternehmungen aus dem Untergrund. Inwieweit ihr
@@ -1593,9 +1595,10 @@
         <p><emph>Carmen Nova</emph> wurde Mitte der Sechziger Jahre unter einem Pseudonym <persName
             ref="http://www.wikidata.org/entity/Q12807">Umberto Ecos</persName> in der
           Literaturzeitschrift <emph>Notizie di lingua e estetica</emph> veröffentlicht und nahm
-          damit in ironischer Form Bezug auf eine sich zur damaligen Zeit auch über Italien
-          ausbreitenden Welle von Kriminal- und Thrillerromanen, die von den italienischen
-          Intellektuellen nur mit Geringschätzung und Desinteresse bedacht wurde. <persName
+          damit in ironischer Form Bezug auf eine sich zur damaligen Zeit auch über <placeName
+            ref="http://www.wikidata.org/entity/Q38">Italien</placeName> ausbreitenden Welle von
+          Kriminal- und Thrillerromanen, die von den italienischen Intellektuellen nur mit
+          Geringschätzung und Desinteresse bedacht wurde. <persName
             ref="http://www.wikidata.org/entity/Q12807">Ecos</persName> Intention war es, mit dieser
             <emph>giallo</emph> einerseits in witziger Art und Weise auf den tiefer reichenden
           Hintergrund der Trivialliteratur anzuspielen und andererseits die gegenüber dem Phänomen
@@ -1617,15 +1620,16 @@
           Nachwort Bezug nimmt.</p>
         <p>Liest man diese Analysen heute erneut, so muß man feststellen, daß sie wohl bis dato noch
           immer zu dem besten vorliegenden Material in diesem Bereich zählen. Neben dem wenig später
-          in Frankreich von den Kriminalromanautoren <persName
-            ref="http://www.wikidata.org/entity/Q1283738">Boileau</persName>/<persName
-            ref="http://www.wikidata.org/entity/Q1686762">Narcejac</persName> veröffentlichten Werk
-              <emph><rs type="work">le roman policier</rs></emph> (»den Zerfall des Denkens
-          zelebrieren«) finden wir auch zur Zeit nur wenig neues Material, das nicht beständig auf
-          alte Quellen rekurriert bzw. sich auf die Modifikationen längst bekannter strukturaler
-          Betrachtungen beschränkt. In diesem Zusammenhang erscheint uns die Neuveröffentlichung der
-            <persName ref="http://www.wikidata.org/entity/Q12807">Ecoschen</persName> Novelle, auch
-          unter der Prämisse eines Vorreiters seines großen „Detektiv“romans <emph><rs type="work"
+          in <placeName ref="http://www.wikidata.org/entity/Q142">Frankreich</placeName> von den
+          Kriminalromanautoren <persName ref="http://www.wikidata.org/entity/Q1283738"
+            >Boileau</persName>/<persName ref="http://www.wikidata.org/entity/Q1686762"
+            >Narcejac</persName> veröffentlichten Werk <emph><rs type="work">le roman
+            policier</rs></emph> (»den Zerfall des Denkens zelebrieren«) finden wir auch zur Zeit
+          nur wenig neues Material, das nicht beständig auf alte Quellen rekurriert bzw. sich auf
+          die Modifikationen längst bekannter strukturaler Betrachtungen beschränkt. In diesem
+          Zusammenhang erscheint uns die Neuveröffentlichung der <persName
+            ref="http://www.wikidata.org/entity/Q12807">Ecoschen</persName> Novelle, auch unter der
+          Prämisse eines Vorreiters seines großen „Detektiv“romans <emph><rs type="work"
               ref="http://www.wikidata.org/entity/Q172850">Der Name der Rose</rs></emph> umso
           relevanter, als sie viele in diesem Monumentalwerk eingehender beleuchtete inhaltliche
           Linien zumindest schon im Kern vorwegnimmt. Was <persName
@@ -1642,7 +1646,8 @@
           von jenem <persName type="fictional" ref="http://www.wikidata.org/entity/Q2715294">William
             von Baskerville</persName> vor, der in seiner Pariser Schule die philosophischen
           Metamorphosen dargestellter Attitude zu verehren scheint. In der Tat tragen jene aus
-          England stammenden Verfechter von Erfahrung und Experiment wie <persName
+            <placeName ref="http://www.wikidata.org/entity/Q21">England</placeName> stammenden
+          Verfechter von Erfahrung und Experiment wie <persName
             ref="http://www.wikidata.org/entity/Q43936">Occam</persName>, <persName
             ref="http://www.wikidata.org/entity/Q190089">Duns Scotus</persName> oder <persName
             ref="http://www.wikidata.org/entity/Q171677">Roger Bacon</persName> mit ihrer die
@@ -1694,7 +1699,8 @@
               ref="http://www.wikidata.org/entity/Q39837">Averroes</persName></term> – <gloss
             target="#averroes">arabischer Philosoph des 12. Jahrhunderts, dessen Werk sich aus
             Paraphrasierungen der <persName ref="http://www.wikidata.org/entity/Q868"
-              >Aristotelischen</persName> Schriften zusammensetzt und dem das Abendland wesentlich
+              >Aristotelischen</persName> Schriften zusammensetzt und dem das <placeName
+              ref="http://www.wikidata.org/entity/Q1365619">Abendland</placeName> wesentlich
               <persName ref="http://www.wikidata.org/entity/Q868">Aristoteles</persName>
             Wiederentdeckung verdankt.</gloss>
           <term xml:id="credo-ut-intelligam" rend="italic">Credo ut intelligam</term> – <gloss
@@ -1725,8 +1731,9 @@
             >Watson</persName>.</gloss>
           <term xml:id="sherrinford-sacker-haensel-co" rend="italic">Sherrinford, Sacker, Hänsel
             &amp; Co</term> – <gloss target="#sherrinford-sacker-haensel-co">Anspielungen auf
-            korrupte wirtschaftliche und politische Praktiken in Italien, in die auch einige Verlage
-            verwickelt waren (sog. Zuckerhausaffäre).</gloss>
+            korrupte wirtschaftliche und politische Praktiken in <placeName
+              ref="http://www.wikidata.org/entity/Q38">Italien</placeName>, in die auch einige
+            Verlage verwickelt waren (sog. Zuckerhausaffäre).</gloss>
           <term xml:id="bruno" rend="italic"><persName ref="http://www.wikidata.org/entity/Q36330"
               >Bruno</persName></term> – <gloss target="#bruno">italienischer Philosoph der
             Renaissance, der die kopernikanische Lehre in der Philosophie als Relativität von Raum
@@ -1838,8 +1845,10 @@
           brutale Realität kaum mehr Zeit für Indizienverfahren zugesteht. So ist es denn eher
           Resignation gegenüber einem zwar als hinfällig durchschauten Ordnungsmuster, dem aber in
           sarkastischer Selbsterkenntnis nichts anderes entgegengestellt werden kann, die sich dann
-          wieder in den morbiden Vororten der Bourgeoisie von Los Angeles oder San Francisco zu
-          Motivserien verfestigt.</p>
+          wieder in den morbiden Vororten der Bourgeoisie von <placeName
+            ref="http://www.wikidata.org/entity/Q65">Los Angeles</placeName> oder <placeName
+            ref="http://www.wikidata.org/entity/Q62">San Francisco</placeName> zu Motivserien
+          verfestigt.</p>
         <p>Den eigentlichen Schlußpunkt setzt jedoch ein anderer, eine Figur, mit der der
           Kriminalroman seine letzte große Variation formuliert: <pb n="58" xml:id="p58"/>
           <persName type="fictional" ref="http://www.wikidata.org/entity/Q2009573">James
@@ -1908,7 +1917,8 @@
           Ordnung der Moderne sich ohne Unterlaß gebrochen finden, um im unterschwelligen Strömen
             <persName ref="http://www.wikidata.org/entity/Q6882">Joycescher</persName> Natur erneut
           aufbereitet und in Szene gesetzt zu werden. Die gesamte Novelle skandiert gleichsam die
-          Biegungen und Verzweigungen des Liffey, wird von ihm vorangetrieben und dynamisiert.</p>
+          Biegungen und Verzweigungen des <placeName ref="http://www.wikidata.org/entity/Q208009"
+            >Liffey</placeName>, wird von ihm vorangetrieben und dynamisiert.</p>
         <p><emph>This is my city and my game</emph>, sagt <persName type="fictional"
             ref="http://www.wikidata.org/entity/Q2533737">Sam Spade</persName> und präsentiert
           dergestalt eine Orgie von Zeichen, die man nur im Spiel, spielend zu beherrschen, zu

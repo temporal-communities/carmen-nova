@@ -8,6 +8,9 @@
 ## Kontext
 - [»Rätsel um falschen Eco-Roman«](https://www.uni-siegen.de/start/news/forschungsnews/1019454.html) (uni-siegen.de, 29. September 2023)
 
+## Aktuelles
+- am 10. Oktober 2024 präsentieren wir das Projekt auf der TEI2024 in Buenos Aires: [»Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime Novella Allegedly Written by Umberto Eco«](https://www.conftool.pro/tei2024/sessions.php)
+
 ## Scan
 - Staats- und Universitätsbibliothek Bremen (SuUB) ([urn:nbn:de:gbv:46:1-162417](https://nbn-resolving.org/urn:nbn:de:gbv:46:1-162417))
 - Erstellung der TEI-Version in Absprache mit der SuUB
@@ -20,12 +23,13 @@
 - die Anführungszeichen wechseln zwischen »« und „“ und wurden jeweils so belassen wie vorgefunden
 - einfache Absätze ohne Leerzeile vs. Absätze mit vorstehender Leerzeile (`<p type="parskip">`)
 - angebliche Zitate aus der italienischen Pseudo-Vorlage wurden in `<foreign xml:lang="it">` gefasst
+- erwähnte Toponyme mit `<placeName>` und Wikidata-ID ausgezeichnet (Moldau, Mallorca, New Yorker Bronx, Italien, Frankreich, England, Abendland, Los Angeles, San Francisco, Liffey); vorerst nicht ausgezeichnet wurden entsprechende Adjektive: italienisch, deutsch, afrikanisch, arabisch, amerikanisch
 
 ## Jupyter Notebook zur Informationsextraktion aus dem TEI-Dokument
 - (folgt)
 
 ## Bibliografie der Presseberichterstattung zu »Carmen Nova«
-- (folgt, Zotero)
+- https://www.zotero.org/groups/5492205/carmen_nova_bibliography/library
 
 ## Interessante Textschichten
 - Register der erwähnte Personen und Werke (inkl. Häufigkeit der Nennungen)
@@ -38,7 +42,6 @@
 - …
 
 ## Vorschläge/Todo
-- erwähnte Orte auszeichnen mit `<placeName>` (z. B. Italien, Moldau, New Yorker Bronx, Frankreich, Amerika, Los Angeles, San Francisco, Liffey)
 - add cover pic and emblem on page 7 (`<figure>`)
 - Sätze kennzeichnen mit `<s>`
 
