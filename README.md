@@ -24,6 +24,7 @@
 - einfache Absätze ohne Leerzeile vs. Absätze mit vorstehender Leerzeile (`<p type="parskip">`)
 - angebliche Zitate aus der italienischen Pseudo-Vorlage wurden in `<foreign xml:lang="it">` gefasst
 - erwähnte Toponyme mit `<placeName>` und Wikidata-ID ausgezeichnet (Moldau, Mallorca, New Yorker Bronx, Italien, Frankreich, England, Abendland, Los Angeles, San Francisco, Liffey); vorerst nicht ausgezeichnet wurden entsprechende Adjektive: italienisch, deutsch, afrikanisch, arabisch, amerikanisch
+- Sätze mit `<s>` markiert (insgesamt 531)
 
 ## Jupyter Notebook zur Informationsextraktion aus dem TEI-Dokument
 - (folgt)
@@ -34,6 +35,9 @@
 ## Interessante Textschichten
 - Register der erwähnte Personen und Werke (inkl. Häufigkeit der Nennungen)
 - Liste der Stellen aus der pseudo-italienischen Vorlage
+- viele innovative Komposita (Stimmenarabesken, Schattentrampoline, Ereignisbusse usw.)
+- gleichmäßig über den Text verteilte Rechtschreib- und Grammatikfehler, könnten auf die alleinige Autorschaft einer Person hindeuten (und auf fehlendes Lektorat)
+- markante konsequente Fehlschreibungen (etwa zweimal *Pandon* statt *Pendant*)
 - …
 
 ## Quantitative Experimente
@@ -43,7 +47,6 @@
 
 ## Vorschläge/Todo
 - add cover pic and emblem on page 7 (`<figure>`)
-- Sätze kennzeichnen mit `<s>` (bisher nur im Vorwort)
 
 ## Carmen-Playlist 😊
 - [auf YouTube](https://www.youtube.com/playlist?list=PLwwYoQq959IuCeUaNichLxaGfN1d03Kwz)
