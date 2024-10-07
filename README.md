@@ -59,4 +59,4 @@
 ## Dank an
 - Niels Penke (Universität Siegen)
 - Maria Hermes-Wladarsch (SuUB Bremen)
-- Florian Fuchs (Freie Universität Berlin)
+- Florian Fuchs (Princeton University)
