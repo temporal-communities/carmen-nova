@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: TEI Edition of Carmen Nova
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Miguel
+    family-names: Araneda Lavín
+    affiliation: Freie Universität Berlin
+  - given-names: Dîlan Canan
+    family-names: Çakir
+    orcid: "https://orcid.org/0009-0001-0013-7205"
+  - given-names: Frank
+    family-names: Fischer
+    orcid: "https://orcid.org/0000-0003-2419-6629"
+  - given-names: Viktor J.
+    family-names: Illmer
+    orcid: "https://orcid.org/0000-0002-7334-781X"
+  - given-names: Jonas
+    family-names: Rohe
+    orcid: "https://orcid.org/0009-0002-8541-8520"
+  - given-names: Mark
+    family-names: Schwindt
+    orcid: "https://orcid.org/0000-0002-4337-2467"
+  - given-names: Bart
+    family-names: Soethaert
+    orcid: "https://orcid.org/0000-0002-3845-605X"
+  - given-names: Lilly
+    family-names: Welz
+    orcid: "https://orcid.org/0009-0008-0404-8147"
+  - given-names: Roya
+    family-names: Zendebudie
+    orcid: "https://orcid.org/0009-0007-3650-5907"
+repository-code: "https://github.com/temporal-communities/carmen-nova"
+url: "https://temporal-communities.github.io/carmen-nova/"
+abstract: TEI Edition of ‘Carmen Nova’ (Pseudo Umberto Eco Novella)
+keywords:
+  - literary forgery
+  - Umberto Eco
+  - crime novella
+  - digital annotation
+  - TEI
+  - digital humanities
+  - literary studies
+date-released: "2023-12-23"
