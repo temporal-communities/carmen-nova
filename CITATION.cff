@@ -11,27 +11,35 @@ authors:
   - given-names: Dîlan Canan
     family-names: Çakir
     orcid: "https://orcid.org/0009-0001-0013-7205"
+    affiliation: Freie Universität Berlin
   - given-names: Frank
     family-names: Fischer
     orcid: "https://orcid.org/0000-0003-2419-6629"
+    affiliation: Freie Universität Berlin
   - given-names: Viktor J.
     family-names: Illmer
     orcid: "https://orcid.org/0000-0002-7334-781X"
+    affiliation: Freie Universität Berlin
   - given-names: Jonas
     family-names: Rohe
     orcid: "https://orcid.org/0009-0002-8541-8520"
+    affiliation: Freie Universität Berlin
   - given-names: Mark
     family-names: Schwindt
     orcid: "https://orcid.org/0000-0002-4337-2467"
+    affiliation: Freie Universität Berlin
   - given-names: Bart
     family-names: Soethaert
     orcid: "https://orcid.org/0000-0002-3845-605X"
+    affiliation: Freie Universität Berlin
   - given-names: Lilly
     family-names: Welz
     orcid: "https://orcid.org/0009-0008-0404-8147"
+    affiliation: Freie Universität Berlin
   - given-names: Roya
     family-names: Zendebudie
     orcid: "https://orcid.org/0009-0007-3650-5907"
+    affiliation: Freie Universität Berlin
 repository-code: "https://github.com/temporal-communities/carmen-nova"
 url: "https://temporal-communities.github.io/carmen-nova/"
 abstract: TEI Edition of ‘Carmen Nova’ (Pseudo Umberto Eco Novella)
