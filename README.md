@@ -27,7 +27,9 @@
 - Sätze mit `<s>` markiert (insgesamt 531)
 
 ## Jupyter Notebook zur Informationsextraktion aus dem TEI-Dokument
-- (folgt)
+<a target="_blank" href="https://colab.research.google.com/github/temporal-communities/carmen-nova/blob/main/analysis/Carmen%20Nova.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Bibliografie der Presseberichterstattung zu »Carmen Nova«
 - https://www.zotero.org/groups/5492205/carmen_nova_bibliography/library
