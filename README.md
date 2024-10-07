@@ -8,6 +8,9 @@
 ## Kontext
 - [»Rätsel um falschen Eco-Roman«](https://www.uni-siegen.de/start/news/forschungsnews/1019454.html) (uni-siegen.de, 29. September 2023)
 
+## Zitierempfehlung
+- Frank Fischer, Dîlan Canan Çakir, Viktor J. Illmer, Niels Penke, Mark Schwindt, Lilly Welz: Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime Novella Allegedly Written by Umberto Eco. In: TEI2024: »Texts, Languages, and Communities«. 7–11 October 2024. Buenos Aires. Book of Abstracts, pp. 100–101. ([doi:10.5281/zenodo.13883242](https://doi.org/10.5281/zenodo.13883242))
+
 ## Aktuelles
 - am 10. Oktober 2024 präsentieren wir das Projekt auf der TEI2024 in Buenos Aires: [»Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime Novella Allegedly Written by Umberto Eco«](https://www.conftool.pro/tei2024/sessions.php)
 
